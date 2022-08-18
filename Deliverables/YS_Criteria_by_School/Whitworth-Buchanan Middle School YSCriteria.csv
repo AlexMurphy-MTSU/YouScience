@@ -1,510 +1,323 @@
 ,id,name,email,First,Second,Third,Fourth,Fifth,Sixth,Enough Choices
-0,1099778,GRACE JERVING,gjerving9419@student.rcschools.net,Engineering,Teaching,Finance,Agriculture & Natural Resources,Arts & Media,Human Services,1
-1,1099782,ALONDRA CALIXTO SPINDOLA,acalixtaspindola4032@student.rcschools.net,Distribution & Logistics,Sales & Marketing,Advanced Manufacturing,Architecture & Construction,Business,Arts & Media,1
-2,1099788,Alyssa Triplett,atriplett5018@student.rcschools.net,Advanced Manufacturing,Advanced Manufacturing,Engineering,Architecture & Construction,Architecture & Construction,Arts & Media,1
-3,1099789,RUTH PORTILLO -MARTINEZ,rportillomartinez000@student.rcschools.net,Health Science,Sales & Marketing,Finance,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-4,1099790,FINN HOENS,fhoens5408@student.rcschools.net,Health Science,Engineering,Distribution & Logistics,Architecture & Construction,Computers & Technology,Agriculture & Natural Resources,1
-5,1099792,ESTRELLA MERAZ GARCIA,emerazgarcia000@student.rcschools.net,Health Science,Teaching,Computers & Technology,Finance,Health Science,Human Services,1
-6,1099795,ALEXA GALLEGOS ONTIVEROS,agallegasontiver6744@student.rcschools.net,Health Science,Sales & Marketing,Agriculture & Natural Resources,Law & Public Safety,Human Services,Law & Public Safety,1
-7,1099799,ALMA ZAVALA GRANADOS,azavalgranados2879@student.rcschools.net,Finance,Health Science,Government & Public Admin,Human Services,Computers & Technology,Law & Public Safety,1
-8,1099802,RACHEL THOMPSON,rthompson000@student.rcschools.net,Engineering,Teaching,Finance,Architecture & Construction,Arts & Media,Human Services,1
-9,1099806,ACKLAN MALAIKHAM,amalaikham4320@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Government & Public Admin,Health Science,Computers & Technology,1
-10,1099808,EMILY MONROY HERNANDEZ,emonroyhernandez000@student.rcschools.net,Advanced Manufacturing,Architecture & Construction,Computers & Technology,Architecture & Construction,Arts & Media,Hospitality & Tourism,1
-11,1099809,BRYLEE SNEED,bsneed8870@student.rcschools.net,Sales & Marketing,Teaching,Business,Finance,Arts & Media,Hospitality & Tourism,1
-12,1099811,JAI'VAN JACOBS,jjacobs000@student.rcschools.net,Health Science,Sales & Marketing,Finance,Agriculture & Natural Resources,Business,Arts & Media,1
-13,1099816,MIA MATHIS,mmathis8596@student.rcschools.net,Business,Teaching,Engineering,Finance,Health Science,Human Services,1
-14,1099819,SPENCER MELTON,smelton8277@student.rcschools.net,Sales & Marketing,Distribution & Logistics,Finance,Hospitality & Tourism,Advanced Manufacturing,Architecture & Construction,1
-15,1099822,DEVI-ON HULL,dhull5100@student.rcschools.net,Health Science,Teaching,Computers & Technology,Finance,Arts & Media,Law & Public Safety,1
-16,1099823,JAXSON CAMPBELL,jcampbell9402@student.rcschools.net,Health Science,Distribution & Logistics,Computers & Technology,Government & Public Admin,Business,Law & Public Safety,1
-17,1099832,GUILLERMO ZELENY ACOSTA,gzelenyacorta7538@student.rcschools.net,Health Science,Distribution & Logistics,Architecture & Construction,Agriculture & Natural Resources,Architecture & Construction,Agriculture & Natural Resources,1
-18,1099835,SYDNEY CUMMING,scumming4794@student.rcschools.net,Advanced Manufacturing,Teaching,Finance,Architecture & Construction,Human Services,Law & Public Safety,1
-19,1099838,SINDY REYES-VEGA,sreyesvega000@student.rcschools.net,Business,Advanced Manufacturing,Government & Public Admin,Law & Public Safety,Engineering,Computers & Technology,1
-20,1099840,CIERRA SLOAN,csloan4158@student.rcschools.net,Health Science,Distribution & Logistics,Computers & Technology,Agriculture & Natural Resources,Hospitality & Tourism,Law & Public Safety,1
-21,1099849,JESSICA LANDA-CAHUANTZI,jlandacahuantzi000@student.rcschools.net,Finance,Teaching,Agriculture & Natural Resources,Hospitality & Tourism,Human Services,Law & Public Safety,1
-22,1099853,STACIE CASTRO-VILLALTA,svillalta1124@student.rcschools.net,Health Science,Teaching,Finance,Agriculture & Natural Resources,Arts & Media,Human Services,1
-23,1099855,TRUSHA PATEL,tpatel000@student.rcschools.net,Teaching,Engineering,Finance,Agriculture & Natural Resources,Computers & Technology,Agriculture & Natural Resources,1
-24,1099864,WAYNECIA BROWN,wbrown000@student.rcschools.net,Health Science,Business,Computers & Technology,Finance,Arts & Media,Human Services,1
-25,1099867,BREANNA RADILLA,bradilla9159@student.rcschools.net,Sales & Marketing,Sales & Marketing,Health Science,Arts & Media,Business,Arts & Media,1
-26,1099873,HALEY ROBERTS,hroberts7306@student.rcschools.net,Advanced Manufacturing,Sales & Marketing,Engineering,Computers & Technology,Business,Arts & Media,1
-27,1099874,SHA'TURAH TUMA,stuma5961@student.rcschools.net,Health Science,Teaching,Finance,Agriculture & Natural Resources,Sales & Marketing,Arts & Media,1
-28,1099877,SANTOS GARCIA-SAY,sgarcia9243@student.rcschools.net,Health Science,Advanced Manufacturing,Agriculture & Natural Resources,Government & Public Admin,Architecture & Construction,Arts & Media,1
-29,1439845,PARKS OLIVIA,oparks1816@student.rcschools.net,Sales & Marketing,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
-30,1099886,ASHLEY RODRIGUEZ,arodriguez2717@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Hospitality & Tourism,Sales & Marketing,Law & Public Safety,1
-31,1101939,SABRYA THOMAS,sthomas002@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Government & Public Admin,Arts & Media,Human Services,1
-32,1439859,TORAL GENESIS,gtoral4751@student.rcschools.net,Sales & Marketing,Teaching,Computers & Technology,Arts & Media,Arts & Media,Human Services,1
-33,1099894,TIANNA WEST,twest000@student.rcschools.net,Distribution & Logistics,Teaching,Advanced Manufacturing,Architecture & Construction,Human Services,Law & Public Safety,1
-34,1108086,MAR'KIAH GATES,mgates7340@student.rcschools.net,Health Science,Health Science,Architecture & Construction,Agriculture & Natural Resources,Distribution & Logistics,Law & Public Safety,1
-35,1099896,LANDEN HARRIS,lharris5530@student.rcschools.net,Health Science,Advanced Manufacturing,Advanced Manufacturing,Agriculture & Natural Resources,Engineering,Agriculture & Natural Resources,1
-36,1099898,"JOHN VANDELL, III",jvandell9060@student.rcschools.net,Finance,Health Science,Agriculture & Natural Resources,Law & Public Safety,Engineering,Agriculture & Natural Resources,1
-37,1099899,CORBIN MELHORN,cmelhorn6187@student.rcschools.net,Sales & Marketing,Distribution & Logistics,Finance,Agriculture & Natural Resources,Architecture & Construction,Law & Public Safety,1
-38,1099905,JIMMY HOLLAND,jholland1222@student.rcschools.net,Health Science,Sales & Marketing,Finance,Government & Public Admin,Arts & Media,Hospitality & Tourism,1
-39,1099907,ADELAIDE GROVES,agroves000@student.rcschools.net,Health Science,Teaching,Finance,Agriculture & Natural Resources,Arts & Media,Human Services,1
-40,1099914,JHORDAN SANDERS,jsanders3080@student.rcschools.net,Sales & Marketing,Teaching,Health Science,Finance,Health Science,Human Services,1
-41,1108109,KEVIN OROZCO,korozco9784@student.rcschools.net,Health Science,Distribution & Logistics,Advanced Manufacturing,Agriculture & Natural Resources,Business,Law & Public Safety,1
-42,1099919,ALEXANDRIA SMITH,asmith019@student.rcschools.net,Health Science,Teaching,Government & Public Admin,Human Services,Health Science,Human Services,1
-43,1099924,ALEXANDRO ORTIZ PORTILLO,aortiz8182@student.rcschools.net,Health Science,Teaching,Finance,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-44,1099926,AUSTIN WOOD,awood7934@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Law & Public Safety,Health Science,Law & Public Safety,1
-45,1099928,KOMIN VANNOUVONG,kvannouvong7222@student.rcschools.net,Health Science,Engineering,Advanced Manufacturing,Architecture & Construction,Computers & Technology,Agriculture & Natural Resources,1
-46,1099936,SHA'NIYAH REED,sreed000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Business,Law & Public Safety,1
-47,1099940,MATTHEW AUSTIN,maustin001@student.rcschools.net,Advanced Manufacturing,Health Science,Computers & Technology,Arts & Media,Engineering,Computers & Technology,1
-48,1099971,ELIJAH WILSON,ewilson001@student.rcschools.net,Business,Health Science,Engineering,Law & Public Safety,Engineering,Agriculture & Natural Resources,1
-49,1099980,DANIEL MEZA-CASTELLANOS,dmezacastellanos7139@student.rcschools.net,Engineering,Advanced Manufacturing,Finance,Government & Public Admin,Engineering,Computers & Technology,1
-50,1102030,NYREE WHITESELL,nwhitesell925@student.rcschools.net,Engineering,Teaching,Computers & Technology,Agriculture & Natural Resources,Sales & Marketing,Arts & Media,1
-51,1099985,HALEY JACOBS,hjacobs7661@student.rcschools.net,Business,Engineering,Finance,Government & Public Admin,Agriculture & Natural Resources,Law & Public Safety,1
-52,1099993,ISAIAH MARTINEZ-VALDOVINOS,ivaldovinos7798@student.rcschools.net,Sales & Marketing,Distribution & Logistics,Health Science,Finance,Advanced Manufacturing,Architecture & Construction,1
-53,1100007,JAE'SEAN WOODS,jwoods002@student.rcschools.net,Engineering,Engineering,Finance,Agriculture & Natural Resources,Computers & Technology,Architecture & Construction,1
-54,1102086,PORSHA GIMENEZ,pgimenez000@student.rcschools.net,Sales & Marketing,Sales & Marketing,Advanced Manufacturing,Finance,Arts & Media,Hospitality & Tourism,1
-55,1100043,VICTORIA CLIMER,vclimer3997@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Computers & Technology,Agriculture & Natural Resources,Law & Public Safety,1
-56,1433881,Hailey Perry,hperry2104@student.rcschools.net,Sales & Marketing,Teaching,Finance,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-57,1433893,BLACKBURN SADIE,sblackburn000@student.rcschools.net,Business,Sales & Marketing,Arts & Media,Law & Public Safety,Arts & Media,Hospitality & Tourism,1
-58,1100091,SOUKNAPHONE OUTHAKAYSONE,southakaysone000@student.rcschools.net,Health Science,Advanced Manufacturing,Computers & Technology,Agriculture & Natural Resources,Engineering,Arts & Media,1
-59,1100092,LUIS JIMENEZ,ljimenez429@student.rcschools.net,Health Science,Health Science,Computers & Technology,Finance,Engineering,Agriculture & Natural Resources,1
-60,1431886,BONILLA-MONTOYA NITZY,nbonillamontoya000@student.rcschools.net,Teaching,Teaching,Computers & Technology,Agriculture & Natural Resources,Arts & Media,Human Services,1
-61,1100115,PARKER MCEACHERN,pmceachern5901@student.rcschools.net,Engineering,Distribution & Logistics,Architecture & Construction,Law & Public Safety,Advanced Manufacturing,Architecture & Construction,1
-62,1100119,ENYELL GONZALEZ GONZALEZ,egonz4151@student.rcschools.net,Distribution & Logistics,Teaching,Advanced Manufacturing,Architecture & Construction,Arts & Media,Human Services,1
-63,1100126,JAMARION WINSTON,jwinston6444@student.rcschools.net,Distribution & Logistics,Sales & Marketing,Advanced Manufacturing,Architecture & Construction,Business,Arts & Media,1
-64,1100131,BRYIANT HENDERSON-OVERTON,bhendersonoverto2150@student.rcschools.net,Health Science,Health Science,Agriculture & Natural Resources,Government & Public Admin,Distribution & Logistics,Law & Public Safety,1
-65,1100136,TREYVONNE MORTON,tmorton6666@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Law & Public Safety,Health Science,Law & Public Safety,1
-66,1100149,CARSON HIZER,chizer1606@student.rcschools.net,Business,Distribution & Logistics,Advanced Manufacturing,Agriculture & Natural Resources,Advanced Manufacturing,Architecture & Construction,1
-67,1100150,LILLY KELLY,lkelly001@student.rcschools.net,Teaching,Teaching,Finance,Agriculture & Natural Resources,Health Science,Human Services,1
-68,1100154,JASMINNE ALVARADO,jalvarado3231@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Sales & Marketing,Arts & Media,1
-69,1100183,SHILA ROCHE,sroche7473@student.rcschools.net,Health Science,Engineering,Agriculture & Natural Resources,Law & Public Safety,Arts & Media,Human Services,1
-70,1431970,Patrick Raymond,praymond1467@student.rcschools.net,Engineering,Teaching,Finance,Government & Public Admin,Architecture & Construction,Arts & Media,1
-71,1431973,LORANCE JACOB,jlorance9517@student.rcschools.net,Health Science,Engineering,Computers & Technology,Finance,Arts & Media,Human Services,1
-72,1100207,JAIDYN SCOTT,jscott7472@student.rcschools.net,Teaching,Teaching,Arts & Media,Hospitality & Tourism,Arts & Media,Human Services,1
-73,1100240,NEVEEN MAXWELL,nmaxwell000@student.rcschools.net,Health Science,Teaching,Architecture & Construction,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-74,1102313,GRECIA ELISEA CANIZALEZ,geliseacanizales000@student.rcschools.net,Advanced Manufacturing,Teaching,Engineering,Architecture & Construction,Arts & Media,Human Services,1
-75,1100289,ISAIAH SHAW,ishaw001@student.rcschools.net,Sales & Marketing,Teaching,Finance,Hospitality & Tourism,Health Science,Human Services,1
-76,1100296,KARMA HOBSON,khobson000@student.rcschools.net,Distribution & Logistics,Sales & Marketing,Advanced Manufacturing,Law & Public Safety,Business,Finance,1
-77,1430028,TERRANCE WASHINGTON,twashington4303@student.rcschools.net,Sales & Marketing,Advanced Manufacturing,Health Science,Finance,Architecture & Construction,Arts & Media,1
-78,1110546,STEVEN LECKER,slecker8359@student.rcschools.net,Health Science,Sales & Marketing,Finance,Agriculture & Natural Resources,Business,Finance,1
-79,1110593,GA'LEAHA SIMPSON,gsimpson4480@student.rcschools.net,Health Science,Sales & Marketing,Finance,Agriculture & Natural Resources,Finance,Law & Public Safety,1
-80,1102413,JAYDALEEYA CURTIS,jcurtis000@student.rcschools.net,Engineering,Teaching,Computers & Technology,Agriculture & Natural Resources,Arts & Media,Human Services,1
-81,1428052,JOHNSON HAILEY,hjohnson300@student.rcschools.net,Engineering,Sales & Marketing,Computers & Technology,Law & Public Safety,Arts & Media,Law & Public Safety,1
-82,1428060,SIMON JAIDEN,jsimon000@student.rcschools.net,Health Science,Advanced Manufacturing,Distribution & Logistics,Law & Public Safety,Engineering,Agriculture & Natural Resources,1
-83,1428061,FRAZIER VONTAVIOUS,vfrazier000@student.rcschools.net,Health Science,Teaching,Finance,Government & Public Admin,Health Science,Law & Public Safety,1
-84,1428062,AYESH NOOR,nayesh000@student.rcschools.net,Sales & Marketing,Health Science,Business,Human Services,Engineering,Agriculture & Natural Resources,1
-85,1428063,JOHNSON AIYANA,ajohnson018@student.rcschools.net,Health Science,Business,Advanced Manufacturing,Computers & Technology,Human Services,Law & Public Safety,1
-86,1428064,RANDOLPH OLIVIA,orandolph2000@student.rcschools.net,Advanced Manufacturing,Teaching,Architecture & Construction,Agriculture & Natural Resources,Arts & Media,Human Services,1
-87,1428065,RETTIG HOUSTON,hrettig7700@student.rcschools.net,Advanced Manufacturing,Teaching,Engineering,Computers & Technology,Health Science,Law & Public Safety,1
-88,1428066,LANGLEY NOAH,nlangley5055@student.rcschools.net,Health Science,Teaching,Engineering,Computers & Technology,Health Science,Law & Public Safety,1
-89,1428067,JOHNSON-SHORTOAK MARGARET,mjohnsonshortoak2487@student.rcschools.net,Business,Teaching,Engineering,Finance,Sales & Marketing,Arts & Media,1
-90,1428068,Daniel Perdones-Aguilar,dperdonesaguilar9424@student.rcschools.net,Advanced Manufacturing,Distribution & Logistics,Engineering,Computers & Technology,Business,Agriculture & Natural Resources,1
-91,1428069,VAZQUEZ MARCOS,mvazquez002@student.rcschools.net,Engineering,Teaching,Computers & Technology,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
-92,1428070,WILLIAMS ZOE,zwilliams9347@student.rcschools.net,Business,Engineering,Engineering,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
-93,1428071,LYTLE ISAAC,ilytle001@student.rcschools.net,Teaching,Teaching,Computers & Technology,Human Services,Health Science,Human Services,1
-94,1428072,HERROD BRIANA,bherrod000@student.rcschools.net,Sales & Marketing,Teaching,Finance,Agriculture & Natural Resources,Health Science,Human Services,1
-95,1428073,LEVERETTE CALI,cleverette1891@student.rcschools.net,Business,Teaching,Advanced Manufacturing,Architecture & Construction,Arts & Media,Hospitality & Tourism,1
-96,1428074,VASQUEZ VASQUEZ PEDRO,pvasquezvasquez000@student.rcschools.net,Business,Architecture & Construction,Engineering,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
-97,1428076,BRUNK MADISON,mbrunk000@student.rcschools.net,Health Science,Teaching,Distribution & Logistics,Advanced Manufacturing,Health Science,Law & Public Safety,1
-98,1428077,JOEL JONES,jjones000@student.rcschools.net,Business,Advanced Manufacturing,Computers & Technology,Human Services,Engineering,Agriculture & Natural Resources,1
-99,1110642,KAYDEN DAUGHERTY,kdaugherty000@student.rcschools.net,Teaching,Teaching,Computers & Technology,Finance,Arts & Media,Human Services,1
-100,1428082,MILLENER KAYONNA,kmillener001@student.rcschools.net,Health Science,Sales & Marketing,Finance,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
-101,1428086,FRAZIER DARYUS,dfrazier000@student.rcschools.net,Health Science,Sales & Marketing,Finance,Agriculture & Natural Resources,Business,Finance,1
-102,1428087,ORONA ANNALYCE,aorona000@student.rcschools.net,Teaching,Sales & Marketing,Advanced Manufacturing,Arts & Media,Arts & Media,Hospitality & Tourism,1
-103,1428089,LOPEZ ANTHONY,alopez005@student.rcschools.net,Advanced Manufacturing,Computers & Technology,Engineering,Law & Public Safety,Arts & Media,Law & Public Safety,1
-104,1428091,AUSTIN ERIC,eaustin000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Government & Public Admin,Finance,Arts & Media,1
-105,1100415,XAVIER BASTIEN,xbastien000@student.rcschools.net,Health Science,Distribution & Logistics,Computers & Technology,Finance,Advanced Manufacturing,Architecture & Construction,1
-106,1428097,COLLINS KALEB,kcollins002@student.rcschools.net,Teaching,Distribution & Logistics,Agriculture & Natural Resources,Human Services,Agriculture & Natural Resources,Law & Public Safety,1
-107,1428100,JONATHAN ROSALES ORTIZ,jrosalesortiz000@student.rcschools.net,Health Science,Distribution & Logistics,Advanced Manufacturing,Agriculture & Natural Resources,Finance,Government & Public Admin,1
-108,1428103,DONALD ROBINSON,drobinson273@student.rcschools.net,Engineering,Engineering,Finance,Architecture & Construction,Computers & Technology,Architecture & Construction,1
-109,1428105,Cendra Christian,cchristian000@student.rcschools.net,Teaching,Health Science,Engineering,Agriculture & Natural Resources,Distribution & Logistics,Law & Public Safety,1
-110,1428107,CALEB CARLIN,ccarlin000@student.rcschools.net,Advanced Manufacturing,Architecture & Construction,Engineering,Architecture & Construction,Arts & Media,Hospitality & Tourism,1
-111,1428113,Lucious Zupancic,lzupancic000@student.rcschools.net,Advanced Manufacturing,Teaching,Architecture & Construction,Agriculture & Natural Resources,Arts & Media,Human Services,1
-112,1428127,PIGG TRISTYN,tpigg000@student.rcschools.net,Teaching,Engineering,Computers & Technology,Arts & Media,Arts & Media,Human Services,1
-113,1104545,ELI VILLAGOMEZ,evillagomez341@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Health Science,Human Services,1
-114,1428129,ROBINSON DEVIN,drobinson8667@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Business,Arts & Media,1
-115,1428131,GOOCH COREY,cgooch002@student.rcschools.net,Sales & Marketing,Sales & Marketing,Arts & Media,Human Services,Finance,Arts & Media,1
-116,1428132,ENGLISH DONOVAN,denglish4767@student.rcschools.net,Teaching,Engineering,Computers & Technology,Human Services,Computers & Technology,Agriculture & Natural Resources,1
-117,1428134,POPE QUINTAVION,qpope000@student.rcschools.net,Sales & Marketing,Sales & Marketing,Finance,Agriculture & Natural Resources,Business,Law & Public Safety,1
-118,1428135,MAYES KENNDRA,kmayes001@student.rcschools.net,Advanced Manufacturing,Teaching,Engineering,Finance,Human Services,Law & Public Safety,1
-119,1428137,CARUTHERS JADA,jcaruthers000@student.rcschools.net,Teaching,Business,Computers & Technology,Human Services,Human Services,Law & Public Safety,1
-120,1428139,Meelah Keomek,mkeomek1113@student.rcschools.net,Health Science,Business,Advanced Manufacturing,Agriculture & Natural Resources,Finance,Government & Public Admin,1
-121,1428143,NETSCHYTAILO IMMANUEL,inetschytailo1044@student.rcschools.net,Health Science,Health Science,Finance,Law & Public Safety,Engineering,Computers & Technology,1
-122,1428145,THOMPSON LILY,lthompson004@student.rcschools.net,Engineering,Teaching,Computers & Technology,Finance,Arts & Media,Human Services,1
-123,1100467,ANGELIQUE ORTIZ,aortiz000@student.rcschools.net,Teaching,Agriculture & Natural Resources,Health Science,Computers & Technology,Human Services,Law & Public Safety,1
-124,1428152,WILDER DOMINIC,dwilder000@student.rcschools.net,Engineering,Distribution & Logistics,Finance,Agriculture & Natural Resources,Finance,Law & Public Safety,1
-125,1428153,HERNANDEZ CUATETL CHRISTOPHER,chernandezcuatetl000@student.rcschools.net,Sales & Marketing,Engineering,Advanced Manufacturing,Agriculture & Natural Resources,Agriculture & Natural Resources,Law & Public Safety,1
-126,1428155,TOBY VANISOUVONG,tvanisouvong000@student.rcschools.net,Health Science,Distribution & Logistics,Government & Public Admin,Human Services,Architecture & Construction,Agriculture & Natural Resources,1
-127,1428156,HALEMA ALZAHRI,halzahri000@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Finance,Business,Law & Public Safety,1
-128,1428157,Mikayla Lund,mlund000@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Government & Public Admin,Health Science,Human Services,1
-129,1428163,MACKENZIE MCCOY,mmccoy3105@student.rcschools.net,Distribution & Logistics,Sales & Marketing,Advanced Manufacturing,Architecture & Construction,Arts & Media,Hospitality & Tourism,1
-130,1428164,BAGGARLY CAEDRYN,cbaggarly000@student.rcschools.net,Engineering,Engineering,Computers & Technology,Agriculture & Natural Resources,Computers & Technology,Finance,1
-131,1428167,KAYLEE NEUMANN,kneumann000@student.rcschools.net,Engineering,Teaching,Finance,Architecture & Construction,Health Science,Human Services,1
-132,1428169,CARLOS PENA OCHOA,cpenaochoa000@student.rcschools.net,Health Science,Distribution & Logistics,Advanced Manufacturing,Government & Public Admin,Agriculture & Natural Resources,Law & Public Safety,1
-133,1428175,EILERS JOSHUA,jeilers000@student.rcschools.net,Business,Distribution & Logistics,Advanced Manufacturing,Engineering,Advanced Manufacturing,Architecture & Construction,1
-134,1428185,Bella Brandon,baxter5509@student.rcschools.net,Engineering,Business,Finance,Agriculture & Natural Resources,Agriculture & Natural Resources,Law & Public Safety,1
-135,1428188,CLENDENIN ROBERT,rclendenin6081@student.rcschools.net,Advanced Manufacturing,Engineering,Computers & Technology,Finance,Agriculture & Natural Resources,Law & Public Safety,1
-136,1428191,WARNER PATRICK,pwarner001@student.rcschools.net,Sales & Marketing,Sales & Marketing,Health Science,Agriculture & Natural Resources,Business,Finance,1
-137,1428192,Jonathan Guerrero,jguerrero8700@student.rcschools.net,Advanced Manufacturing,Advanced Manufacturing,Finance,Agriculture & Natural Resources,Engineering,Agriculture & Natural Resources,1
-138,1428194,CODY LEWIS,clewis4314@student.rcschools.net,Business,Health Science,Advanced Manufacturing,Engineering,Distribution & Logistics,Law & Public Safety,1
-139,1428197,MCCONNELL SEVYN,smcconnell000@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Government & Public Admin,Arts & Media,Human Services,1
-140,1428198,RONE ASHTON,arone4240@student.rcschools.net,Teaching,Distribution & Logistics,Health Science,Computers & Technology,Engineering,Agriculture & Natural Resources,1
-141,1428199,BARNHART COLBY,cbarnhart000@student.rcschools.net,Teaching,Engineering,Health Science,Computers & Technology,Computers & Technology,Arts & Media,1
-142,1428200,SMYTHIA DYLAN,dsmythia000@student.rcschools.net,Health Science,Engineering,Business,Computers & Technology,Agriculture & Natural Resources,Arts & Media,1
-143,1100522,JAHARI BOWEN,jbowen1035@student.rcschools.net,Business,Teaching,Engineering,Agriculture & Natural Resources,Sales & Marketing,Arts & Media,1
-144,1428203,ALLEN SHAYLAH,sallen003@student.rcschools.net,Teaching,Business,Sales & Marketing,Finance,Finance,Law & Public Safety,1
-145,1428204,HOLDER DARIAN,dholder000@student.rcschools.net,Advanced Manufacturing,Distribution & Logistics,Engineering,Computers & Technology,Architecture & Construction,Law & Public Safety,1
-146,1428207,Aron Segovia,asegovia000@student.rcschools.net,Teaching,Engineering,Health Science,Computers & Technology,Architecture & Construction,Agriculture & Natural Resources,1
-147,1428211,HUNT ANIYA,ahunt003@student.rcschools.net,Health Science,Distribution & Logistics,Agriculture & Natural Resources,Law & Public Safety,Advanced Manufacturing,Architecture & Construction,1
-148,1428212,MAXWELL KESHAWN,kmaxwell000@student.rcschools.net,Engineering,Health Science,Finance,Architecture & Construction,Engineering,Agriculture & Natural Resources,1
-149,1100535,CHARLES SOSBE,csosbe000@student.rcschools.net,Health Science,Distribution & Logistics,Computers & Technology,Finance,Architecture & Construction,Agriculture & Natural Resources,1
-150,1428216,Laihla Washington,lwashington8295@student.rcschools.net,Health Science,Computers & Technology,Advanced Manufacturing,Computers & Technology,Architecture & Construction,Arts & Media,1
-151,1428218,CONNOR BARRETT,cbarrett3903@student.rcschools.net,Advanced Manufacturing,Distribution & Logistics,Engineering,Architecture & Construction,Advanced Manufacturing,Architecture & Construction,1
-152,1428220,EVELYN FICKES,efickes000@student.rcschools.net,Health Science,Teaching,Computers & Technology,Agriculture & Natural Resources,Arts & Media,Human Services,1
-153,1428223,ALI KASSMIEH,akassmieh6136@student.rcschools.net,Health Science,Distribution & Logistics,Finance,Agriculture & Natural Resources,Computers & Technology,Finance,1
-154,1428224,SKYE GOODE,sgoode000@student.rcschools.net,Engineering,Teaching,Finance,Agriculture & Natural Resources,Health Science,Human Services,1
-155,1114881,NYSSA NANTHAVONG,nnanthavong6184@student.rcschools.net,Health Science,Sales & Marketing,Computers & Technology,Human Services,Business,Finance,1
-156,1428225,CABRERA ROSALES LEILLANY,lcabrerarosales3806@student.rcschools.net,Teaching,Teaching,Computers & Technology,Finance,Business,Human Services,1
-157,1428228,POLLARD BLAKE,bpollard6829@student.rcschools.net,Health Science,Sales & Marketing,Finance,Agriculture & Natural Resources,Business,Finance,1
-158,1428230,DECKER JAYDIN,jdecker7830@student.rcschools.net,Health Science,Distribution & Logistics,Human Services,Law & Public Safety,Advanced Manufacturing,Architecture & Construction,1
-159,1428231,PEREZ GALLEGOS ALBEIRO,aperez7809@student.rcschools.net,Health Science,Architecture & Construction,Advanced Manufacturing,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
-160,1428234,GILLIAM TRINITY,tgilliam001@student.rcschools.net,Health Science,Teaching,Distribution & Logistics,Advanced Manufacturing,Human Services,Law & Public Safety,1
-161,1428238,CHRISMAN CASON,cchrisman000@student.rcschools.net,Health Science,Distribution & Logistics,Agriculture & Natural Resources,Government & Public Admin,Agriculture & Natural Resources,Law & Public Safety,1
-162,1428240,CARTER NIEMA,ncarter000@student.rcschools.net,Teaching,Teaching,Computers & Technology,Arts & Media,Arts & Media,Human Services,1
-163,1428242,TIDWELL BLAYDEN,btidwell000@student.rcschools.net,Engineering,Health Science,Computers & Technology,Finance,Agriculture & Natural Resources,Law & Public Safety,1
-164,1428243,HARDY CHEVY,chardy001@student.rcschools.net,Health Science,Sales & Marketing,Distribution & Logistics,Advanced Manufacturing,Arts & Media,Hospitality & Tourism,1
-165,1110805,VANESSA DIAZ-GARCIA,vdiazgarcia000@student.rcschools.net,Health Science,Business,Arts & Media,Law & Public Safety,Human Services,Law & Public Safety,1
-166,1428245,TREJO-ZAMUDIO BRAYAN,bzamudio4661@student.rcschools.net,Teaching,Distribution & Logistics,Health Science,Agriculture & Natural Resources,Advanced Manufacturing,Architecture & Construction,1
-167,1428246,Mykah Cothran,mcothran000@student.rcschools.net,Health Science,Sales & Marketing,Finance,Government & Public Admin,Arts & Media,Law & Public Safety,1
-168,1428247,BETHANY ZEIDLER,bzeidler000@student.rcschools.net,Advanced Manufacturing,Teaching,Architecture & Construction,Agriculture & Natural Resources,Health Science,Human Services,1
-169,1428251,JAYLEN SMITH,jsmith8381@student.rcschools.net,Advanced Manufacturing,Health Science,Engineering,Architecture & Construction,Agriculture & Natural Resources,Law & Public Safety,1
-170,1428252,EMILY LAZARIT,elazarit000@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Finance,Sales & Marketing,Arts & Media,1
-171,1428253,DAVIS GAVIN,gdavis001@student.rcschools.net,Sales & Marketing,Architecture & Construction,Health Science,Finance,Arts & Media,Hospitality & Tourism,1
-172,1428255,SANCHEZ ELIZABETH,esanchez4006@student.rcschools.net,Business,Distribution & Logistics,Advanced Manufacturing,Agriculture & Natural Resources,Architecture & Construction,Agriculture & Natural Resources,1
-173,1428256,MALDONADO LOUIS,lmaldonado8868@student.rcschools.net,Sales & Marketing,Distribution & Logistics,Finance,Agriculture & Natural Resources,Advanced Manufacturing,Architecture & Construction,1
-174,1428257,VELASQUEZ YOXON ANDREA,avelasquezyoxon000@student.rcschools.net,Health Science,Advanced Manufacturing,Finance,Agriculture & Natural Resources,Engineering,Arts & Media,1
-175,1430303,PHOMMALATH NATIYA,nphommalath000@student.rcschools.net,Health Science,Arts & Media,Advanced Manufacturing,Arts & Media,Hospitality & Tourism,Law & Public Safety,1
-176,1428264,ETHAN LOCKHART,elockhart187@student.rcschools.net,Health Science,Distribution & Logistics,Advanced Manufacturing,Agriculture & Natural Resources,Business,Agriculture & Natural Resources,1
-177,1428265,OGATA LILLY,logata5373@student.rcschools.net,Advanced Manufacturing,Distribution & Logistics,Engineering,Architecture & Construction,Business,Law & Public Safety,1
-178,1428266,SAYMIKNHA ARABELLA,asaymiknha000@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Arts & Media,Human Services,Law & Public Safety,1
-179,1428267,NEUMANN KYLEE,kneuman000@student.rcschools.net,Teaching,Sales & Marketing,Agriculture & Natural Resources,Human Services,Arts & Media,Hospitality & Tourism,1
-180,1428268,ALIANA SAYVONE,asayvone9911@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Sales & Marketing,Arts & Media,1
-181,1432361,ALEXANDER NEELA,nalexander000@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Law & Public Safety,Human Services,Law & Public Safety,1
-182,1428270,Chris Peters,cpeters3274@student.rcschools.net,Health Science,Distribution & Logistics,Finance,Agriculture & Natural Resources,Engineering,Agriculture & Natural Resources,1
-183,1428271,ORGERON COREY,corgeron000@student.rcschools.net,Business,Computers & Technology,Advanced Manufacturing,Engineering,Agriculture & Natural Resources,Arts & Media,1
-184,1428272,NEWMAN JOEL,jnewman8786@student.rcschools.net,Health Science,Advanced Manufacturing,Advanced Manufacturing,Architecture & Construction,Engineering,Computers & Technology,1
-185,1428275,STEIDINGER KAITLIN,ksteidinger000@student.rcschools.net,Distribution & Logistics,Architecture & Construction,Advanced Manufacturing,Computers & Technology,Arts & Media,Hospitality & Tourism,1
-186,1428277,Aubrey Tanyavong,atanyavong3355@student.rcschools.net,Teaching,Sales & Marketing,Health Science,Computers & Technology,Business,Arts & Media,1
-187,1428278,BROWN AVA,abrown3688@student.rcschools.net,Distribution & Logistics,Advanced Manufacturing,Business,Advanced Manufacturing,Engineering,Arts & Media,1
-188,1428279,BOYD AVERY,aboyd6380@student.rcschools.net,Engineering,Health Science,Computers & Technology,Finance,Engineering,Law & Public Safety,1
-189,1428280,Amiyah Pliskin,apliskin000@student.rcschools.net,Sales & Marketing,Sales & Marketing,Engineering,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
-190,1428281,SINGLETON ANDREW,asingleton8433@student.rcschools.net,Finance,Teaching,Agriculture & Natural Resources,Government & Public Admin,Arts & Media,Human Services,1
-191,1428282,HERMAN JACKSON,jherman8565@student.rcschools.net,Advanced Manufacturing,Distribution & Logistics,Finance,Architecture & Construction,Business,Law & Public Safety,1
-192,1428285,PARKS DAVAUGHN,dparks6028@student.rcschools.net,Health Science,Health Science,Advanced Manufacturing,Agriculture & Natural Resources,Advanced Manufacturing,Architecture & Construction,1
-193,1428286,GIPSON GREYSON,ggipson000@student.rcschools.net,Business,Distribution & Logistics,Advanced Manufacturing,Agriculture & Natural Resources,Computers & Technology,Finance,1
-194,1428289,HARDY DOLFUS,dhardy000@student.rcschools.net,Health Science,Distribution & Logistics,Advanced Manufacturing,Agriculture & Natural Resources,Advanced Manufacturing,Architecture & Construction,1
-195,1428290,WANN SETH,swann7958@student.rcschools.net,Health Science,Distribution & Logistics,Computers & Technology,Finance,Engineering,Computers & Technology,1
-196,1428291,ROBERTS TOREY,troberts000@student.rcschools.net,Business,Teaching,Finance,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
-197,1428292,STEM TEAGEN,tstem3742@student.rcschools.net,Health Science,Distribution & Logistics,Finance,Agriculture & Natural Resources,Advanced Manufacturing,Architecture & Construction,1
-198,1430342,DIPPLE LONDON,ldipple000@student.rcschool.net,Health Science,Engineering,Finance,Agriculture & Natural Resources,Agriculture & Natural Resources,Law & Public Safety,1
-199,1428295,ARMANDO MEDINA,amedina000@student.rcschools.net,Advanced Manufacturing,Sales & Marketing,Architecture & Construction,Agriculture & Natural Resources,Distribution & Logistics,Business,1
-200,1428296,AREVALO-DUBON JORGE,jarevalodubon000@student.rcschools.net,Health Science,Engineering,Finance,Agriculture & Natural Resources,Arts & Media,Human Services,1
-201,1428298,VAUGHN KYNLEE,kvaughn7279@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Arts & Media,Human Services,1
-202,1428299,HALL KAYDENCE,khall002@student.rcschools.net,Teaching,Sales & Marketing,Finance,Arts & Media,Arts & Media,Hospitality & Tourism,1
-203,1428301,KEOPHASOUK RYU,rkeophasouk9029@student.rcschools.net,Engineering,Advanced Manufacturing,Computers & Technology,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
-204,1428302,GOMEZ ANGEL,agomez9246@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-205,1428303,PRIMUS BROOKLYN,bprimus000@student.rcschools.net,Health Science,Advanced Manufacturing,Agriculture & Natural Resources,Government & Public Admin,Engineering,Agriculture & Natural Resources,1
-206,1428304,AYRIANA BROWN,abrown000@student.rcschools.net,Health Science,Sales & Marketing,Architecture & Construction,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
-207,1428307,JOHNSON KLOIE,kjohnson707@student.rcschools.net,Computers & Technology,Teaching,Finance,Government & Public Admin,Sales & Marketing,Arts & Media,1
-208,1428310,TOMAS-VIZUET EVELIN,etomasvizuet000@student.rcschools.net,Business,Teaching,Computers & Technology,Finance,Health Science,Human Services,1
-209,1428313,PARKER NYLA,nparker001@student.rcschools.net,Sales & Marketing,Teaching,Health Science,Advanced Manufacturing,Business,Human Services,1
-210,1428319,HERNANDEZ JOSE,jhernandez4746@student.rcschools.net,Distribution & Logistics,Engineering,Advanced Manufacturing,Architecture & Construction,Arts & Media,Human Services,1
-211,1428320,DUNSTON DANIELLE,ddunston000@student.rcschools.net,Teaching,Teaching,Business,Computers & Technology,Health Science,Human Services,1
-212,1100643,KELSEY MARTINEZ,kmartinez4832@student.rcschools.net,Business,Sales & Marketing,Finance,Agriculture & Natural Resources,Business,Arts & Media,1
-213,1428324,JENKINS RYLEE,rjenkins3456@student.rcschools.net,Teaching,Teaching,Business,Computers & Technology,Arts & Media,Human Services,1
-214,1428328,PADILLA ALEXIS,apadilla000@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
-215,1428331,Payton King,pking002@student.rcschools.net,Teaching,Engineering,Arts & Media,Human Services,Arts & Media,Human Services,1
-216,1428332,Jorge Murillo-Hernandez,jmurillohernandez000@student.rcschools.net,Health Science,Distribution & Logistics,Finance,Agriculture & Natural Resources,Architecture & Construction,Agriculture & Natural Resources,1
-217,1428334,KELLIANIS  CRUZ TORRES,kcruztorres000@student.rcschools.net,Health Science,Teaching,Finance,Agriculture & Natural Resources,Health Science,Law & Public Safety,1
-218,1102706,ANDRE OURK,aourk6591@student.rcschools.net,Business,Engineering,Computers & Technology,Human Services,Agriculture & Natural Resources,Law & Public Safety,1
-219,1428338,WILLIAMS HUNTER,hwilliams005@student.rcschools.net,Health Science,Teaching,Computers & Technology,Government & Public Admin,Human Services,Law & Public Safety,1
-220,1428339,MCKNIGHT AIDAN,amcknight489@student.rcschools.net,Distribution & Logistics,Distribution & Logistics,Advanced Manufacturing,Architecture & Construction,Advanced Manufacturing,Law & Public Safety,1
-221,1428340,HANCOCK BAILEY,bhancock2887@student.rcschools.net,Health Science,Business,Computers & Technology,Finance,Finance,Law & Public Safety,1
-222,1428341,NELSON EMMA,enelson001@student.rcschools.net,Business,Teaching,Agriculture & Natural Resources,Law & Public Safety,Health Science,Human Services,1
-223,1428342,GIRON CRUZ DAILHENISS,dgironcruz000@student.rcschools.net,Teaching,Teaching,Computers & Technology,Human Services,Human Services,Law & Public Safety,1
-224,1428343,MYLA RITCHIE,mritchie1792@student.rcschools.net,Teaching,Teaching,Advanced Manufacturing,Computers & Technology,Sales & Marketing,Arts & Media,1
-225,1428345,GARCIA JORGE,jgarcia006@student.rcschools.net,Distribution & Logistics,Teaching,Advanced Manufacturing,Architecture & Construction,Health Science,Human Services,1
-226,1428346,Emma Beverly,ebeverly3727@student.rcschools.net,Business,Computers & Technology,Computers & Technology,Finance,Architecture & Construction,Arts & Media,1
-227,1428347,TANYAVONG AUTUMN,atanyavong793@student.rcschools.net,Teaching,Teaching,Computers & Technology,Human Services,Human Services,Law & Public Safety,1
-228,1428348,ZARATE LOPEZ AFRODITA,azaratelopez987@student.rcschools.net,Health Science,Distribution & Logistics,Architecture & Construction,Agriculture & Natural Resources,Business,Agriculture & Natural Resources,1
-229,1428349,MALONE CHEKEYIA,cmalone001@student.rcschools.net,Advanced Manufacturing,Business,Architecture & Construction,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-230,1428350,CERVANTES FERNANDA,fcervantes000@student.rcschools.net,Advanced Manufacturing,Teaching,Finance,Government & Public Admin,Health Science,Human Services,1
-231,1428351,jordan witherspoon,jwitherspoon001@student.rcschools.net,Health Science,Distribution & Logistics,Computers & Technology,Finance,Architecture & Construction,Agriculture & Natural Resources,1
-232,1428353,ZIER AUBREY,azier000@student.rcschools.net,Teaching,Teaching,Computers & Technology,Human Services,Human Services,Law & Public Safety,1
-233,1428358,TEVARES MCLEMORE,tmclemore000@student.rcschools.net,Distribution & Logistics,Sales & Marketing,Advanced Manufacturing,Architecture & Construction,Distribution & Logistics,Law & Public Safety,1
-234,1428359,Kayden Jones,kjones733@student.rcschools.net,Health Science,Teaching,Business,Agriculture & Natural Resources,Health Science,Human Services,1
-235,1428369,GONZALEZ ZAHIR,zgonzalez000@student.rcschools.net,Advanced Manufacturing,Health Science,Architecture & Construction,Agriculture & Natural Resources,Advanced Manufacturing,Computers & Technology,1
-236,1428373,WATKINS TIA,twatkins000@student.rcschools.netn,Teaching,Sales & Marketing,Computers & Technology,Agriculture & Natural Resources,Business,Arts & Media,1
-237,1428377,ORTIZ EMILIO,eortiz001@student.rcschools.net,Advanced Manufacturing,Distribution & Logistics,Architecture & Construction,Agriculture & Natural Resources,Advanced Manufacturing,Architecture & Construction,1
-238,1428381,LLOYD HARLEY,hlloyd7377@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Distribution & Logistics,Law & Public Safety,1
-239,1428382,CAMPBELL WILLIAM,wcampbell001@student.rcschools.net,Agriculture & Natural Resources,Sales & Marketing,Arts & Media,Law & Public Safety,Computers & Technology,Arts & Media,1
-240,1428383,FREDY GRANADOS,fboquin0000@student.rcschools.net,Sales & Marketing,Finance,Advanced Manufacturing,Architecture & Construction,Agriculture & Natural Resources,Law & Public Safety,1
-241,1428384,TEICHMAN SYDNEY,steichman1632@student.rcschools.net,Teaching,Sales & Marketing,Business,Arts & Media,Arts & Media,Law & Public Safety,1
-242,1428387,VANESSA PEREZ RODRIGUEZ,vperez000@student.rcschools.net,Teaching,Teaching,Health Science,Agriculture & Natural Resources,Arts & Media,Human Services,1
-243,1428388,Frederick Mills,fmills000@student.rcschools.net,Computers & Technology,Sales & Marketing,Government & Public Admin,Human Services,Computers & Technology,Law & Public Safety,1
-244,1428389,COCHRAN SHYANN,scochran001@student.rcschools.net,Health Science,Teaching,Architecture & Construction,Agriculture & Natural Resources,Arts & Media,Human Services,1
-245,1428390,PETTY STEPHAN,spetty5632@student.rcschools.net,Advanced Manufacturing,Teaching,Agriculture & Natural Resources,Arts & Media,Arts & Media,Human Services,1
-246,1428393,ALEXES NOBLES,anobles000@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Law & Public Safety,Health Science,Human Services,1
-247,1428394,BOLDIN BLAKE,bboldin2080@student.rcschools.net,Engineering,Distribution & Logistics,Finance,Architecture & Construction,Advanced Manufacturing,Architecture & Construction,1
-248,1428395,HATCHER VENNITA,vhatcher1085@student.rcschools.net,Sales & Marketing,Teaching,Finance,Law & Public Safety,Sales & Marketing,Arts & Media,1
-249,1428397,ARMANDO PACHECO,apachaco000@student.rcschools.net,Sales & Marketing,Distribution & Logistics,Agriculture & Natural Resources,Law & Public Safety,Computers & Technology,Law & Public Safety,1
-250,1428399,WADE AALIYAH,awade1408@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Arts & Media,Human Services,Law & Public Safety,1
-251,1428401,ROHEILER AVA,aroheiler000@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Government & Public Admin,Arts & Media,Human Services,1
-252,1428405,DALTON TRAVIS,tdalton000@student.rcschools.net,Health Science,Distribution & Logistics,Agriculture & Natural Resources,Law & Public Safety,Agriculture & Natural Resources,Law & Public Safety,1
-253,1428408,Nathan Robertson,nrobertson4005@student.rcschools.net,Health Science,Engineering,Finance,Government & Public Admin,Computers & Technology,Arts & Media,1
-254,1246139,ZARIA LESTER,zlester000@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Health Science,Human Services,1
-255,1428416,DAVIS TALANNA,tdavis006@student.rcschools.net,Health Science,Teaching,Architecture & Construction,Agriculture & Natural Resources,Arts & Media,Human Services,1
-256,1428418,Travis Schapley,tschapley000@student.rcschools.net,Engineering,Engineering,Finance,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-257,1428419,GARCIA DE LA CRUZ KENNY,kgarciadelacruz000@student.rcschools.net,Sales & Marketing,Distribution & Logistics,Health Science,Arts & Media,Agriculture & Natural Resources,Arts & Media,1
-258,1428423,MORGAN HANNAH,hmorgan8416@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Business,Health Science,Human Services,1
-259,1428424,jace stacey,lstacey6712@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Architecture & Construction,Health Science,Human Services,1
-260,1428425,SIMS COHEN,csims000@student.rcschools.net,Health Science,Health Science,Advanced Manufacturing,Computers & Technology,Finance,Law & Public Safety,1
-261,1428426,IVEY COTA,civey000@student.rcschools.net,Advanced Manufacturing,Computers & Technology,Architecture & Construction,Agriculture & Natural Resources,Finance,Arts & Media,1
-262,1428427,MORALES OSCAR,omorales5748@student.rcschools.net,Teaching,Teaching,Finance,Government & Public Admin,Business,Human Services,1
-263,1428428,SHARON GARCIA GARCIA,sgarciagarcia000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Finance,Law & Public Safety,1
-264,1428429,connor moore,mmoore5588@student.rcschools.net,Distribution & Logistics,Distribution & Logistics,Advanced Manufacturing,Architecture & Construction,Advanced Manufacturing,Architecture & Construction,0
-265,1428431,ALLEN CARLOS,callen000@student.rcschools.net,Finance,Business,Agriculture & Natural Resources,Law & Public Safety,Human Services,Law & Public Safety,1
-266,1428432,GONZALEZ EZEKIEL,egonzalez6029@student.rcschools.net,Teaching,Sales & Marketing,Computers & Technology,Arts & Media,Arts & Media,Hospitality & Tourism,1
-267,1428434,WILLIAMSON JEFFREY,jwilliamson525@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Health Science,Law & Public Safety,1
-268,1428436,Juan Vergara Ramirez,jvergararamirez000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Distribution & Logistics,Agriculture & Natural Resources,1
-269,1428437,BRADLEY KMAIYA,kbradley001@student.rcschools.net,Sales & Marketing,Teaching,Finance,Agriculture & Natural Resources,Health Science,Engineering,1
-270,1428438,NICHOLAS NANTHAVONG,nnanthavong4978@student.rcschools.net,Health Science,Distribution & Logistics,Government & Public Admin,Law & Public Safety,Architecture & Construction,Law & Public Safety,1
-271,1428440,Faith Kelliher,fkelliher000@student.rcschools.net,Distribution & Logistics,Sales & Marketing,Advanced Manufacturing,Architecture & Construction,Arts & Media,Hospitality & Tourism,1
-272,1428445,WELLMAN CHARLES,cwellman000@student.rcschools.net,Advanced Manufacturing,Sales & Marketing,Engineering,Computers & Technology,Business,Arts & Media,1
-273,1428447,JOSE  SOLIS PENA,jsolispena000@student.rcschools.net,Health Science,Distribution & Logistics,Advanced Manufacturing,Architecture & Construction,Architecture & Construction,Law & Public Safety,1
-274,1428449,RODRIGUEZ DUBON EDGAR,erodriguezdubon000@student.rcschools.net,Health Science,Engineering,Finance,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
-275,1428450,BRANOM ASHLEY,abranom001@student.rcschools.net,Distribution & Logistics,Teaching,Advanced Manufacturing,Law & Public Safety,Health Science,Law & Public Safety,1
-276,1428451,FLORES CARLOS,cflores000@student.rcschools.net,Business,Engineering,Advanced Manufacturing,Engineering,Computers & Technology,Agriculture & Natural Resources,1
-277,1428454,PROPST ANIYA,apropst000@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Finance,Arts & Media,Human Services,1
-278,1428455,HOWSE LA'VONTEZ,lhowse001@student.rcschools.net,Teaching,Engineering,Health Science,Computers & Technology,Agriculture & Natural Resources,Law & Public Safety,1
-279,1430505,FLACK MIRANDA,mflack000@student.rcschools.net,Advanced Manufacturing,Teaching,Engineering,Computers & Technology,Sales & Marketing,Arts & Media,1
-280,1428458,luis zavala,lzavala2930@student.rcschools.net,Computers & Technology,Distribution & Logistics,Finance,Agriculture & Natural Resources,Business,Government & Public Admin,1
-281,1113069,IZEL ARCEGA,iarcega1976@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
-282,1428463,KHWAGA ISAIAH,ikhwaga000@student.rcschools.net,Health Science,Engineering,Advanced Manufacturing,Government & Public Admin,Architecture & Construction,Arts & Media,1
-283,1428464,JOSHUA FERRELL,jferrell696@student.rcschools.net,Health Science,Distribution & Logistics,Computers & Technology,Finance,Advanced Manufacturing,Architecture & Construction,1
-284,1428466,CHAVARRIA KAYDEN,kchavarria000@student.rcschools.net,Advanced Manufacturing,Sales & Marketing,Computers & Technology,Government & Public Admin,Arts & Media,Law & Public Safety,1
-285,1428468,Pedro Ramirez Perez,pramirezperez5592@student.rcschools.net,Business,Distribution & Logistics,Advanced Manufacturing,Government & Public Admin,Advanced Manufacturing,Architecture & Construction,1
-286,1428469,Danilynn Mahon,dmahonodeneal000@student.rcschools.net,Advanced Manufacturing,Teaching,Finance,Architecture & Construction,Human Services,Law & Public Safety,1
-287,1428470,DEGENNARO AUDREY,adegennaro000@student.rcschools.net,Teaching,Health Science,Business,Computers & Technology,Engineering,Agriculture & Natural Resources,1
-288,1428472,HOFSTADTER ZOE,zhofstadter000@student.rcschools.net,Teaching,Teaching,Computers & Technology,Arts & Media,Arts & Media,Human Services,1
-289,1428473,AAJAYLAH DOWELL,adowell003@student.rcschools.net,Health Science,Sales & Marketing,Distribution & Logistics,Advanced Manufacturing,Business,Arts & Media,1
-290,1428474,WOODS EMMA,ewoods2049@student.rcschools.net,Engineering,Teaching,Finance,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-291,1428475,BROWN CORBYRIAN,cbrown000@student.rcschools.net,Advanced Manufacturing,Teaching,Architecture & Construction,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-292,1428476,NORTH JAELYN,jnorth5048@student.rcschools.net,Teaching,Computers & Technology,Advanced Manufacturing,Arts & Media,Agriculture & Natural Resources,Arts & Media,1
-293,1428477,Allyssa Evans,aevans1458@student.rcschools.net,Business,Business,Computers & Technology,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-294,1428481,PHENGSAVANH SISOMPHONE,sphengsavanh000@student.rcschools.net,Health Science,Arts & Media,Finance,Agriculture & Natural Resources,Hospitality & Tourism,Law & Public Safety,1
-295,1428482,TUMA KIETH,ktuma000@student.rcschools.net,Sales & Marketing,Architecture & Construction,Health Science,Finance,Arts & Media,Hospitality & Tourism,1
-296,1428485,FLETCHER LILLY,lfletcher346@student.rcschools.net,Sales & Marketing,Teaching,Finance,Agriculture & Natural Resources,Health Science,Human Services,1
-297,1428486,HAYNES DAMARCUS,dhaynes000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Architecture & Construction,Finance,Arts & Media,1
-298,1428487,DANAR RASHEED,drasheed000@student.rcschools.net,Health Science,Engineering,Agriculture & Natural Resources,Law & Public Safety,Agriculture & Natural Resources,Law & Public Safety,1
-299,1428488,JONES SHAWN,sjones002@student.rcschools.net,Health Science,Health Science,Advanced Manufacturing,Computers & Technology,Engineering,Agriculture & Natural Resources,1
-300,1428489,ORTIZ MARELY,mortiz001@student.rcschools.net,Distribution & Logistics,Teaching,Advanced Manufacturing,Computers & Technology,Arts & Media,Human Services,1
-301,1428490,PHOUPHONH JADEN,jphouphonh9982@student.rcschools.net,Sales & Marketing,Engineering,Finance,Law & Public Safety,Computers & Technology,Agriculture & Natural Resources,1
-302,1117195,SHEILA LUNA VALENTE,sluna4767@student.rcschools.net,Advanced Manufacturing,Health Science,Computers & Technology,Arts & Media,Engineering,Agriculture & Natural Resources,1
-303,1428492,PEREZ TENA STEISY,spereztena000@student.rcschools.net,Computers & Technology,Sales & Marketing,Finance,Government & Public Admin,Arts & Media,Hospitality & Tourism,1
-304,1434629,ESCOBAR EMILY,eescobar3473@student.rcschools.net,Health Science,Teaching,Finance,Agriculture & Natural Resources,Health Science,Law & Public Safety,1
-305,1430542,VALENZUELA ROSENDA,rvalenzuela2900@student.rcschools.net,Health Science,Distribution & Logistics,Advanced Manufacturing,Agriculture & Natural Resources,Architecture & Construction,Agriculture & Natural Resources,1
-306,1428500,WHITEMAN MCKENNA,mwhiteman000@student.rcschools.net,Health Science,Architecture & Construction,Computers & Technology,Finance,Arts & Media,Hospitality & Tourism,1
-307,1428505,LAWRENCE AH'MARI,alawrence002@student.rcschools.net,Teaching,Business,Health Science,Finance,Finance,Law & Public Safety,1
-308,1428509,MARTINEZ YOHANNA,ymartinez287@student.rcschools.net,Distribution & Logistics,Teaching,Advanced Manufacturing,Architecture & Construction,Health Science,Human Services,1
-309,1428513,RABURN DALLAS,draburn000@student.rcschools.net,Business,Architecture & Construction,Government & Public Admin,Law & Public Safety,Arts & Media,Hospitality & Tourism,1
-310,1434657,DAVENPORT TIMOTHY,tdavenport1263@student.rcschools.net,Health Science,Distribution & Logistics,Agriculture & Natural Resources,Government & Public Admin,Advanced Manufacturing,Architecture & Construction,1
-311,1428520,NORRIS JEREMIAH,jnorris003@student.rcschools.net,Sales & Marketing,Teaching,Arts & Media,Hospitality & Tourism,Arts & Media,Human Services,1
-312,1428530,GOOCH JEFFREY,jgoochiii000@student.rcschools.net,Advanced Manufacturing,Advanced Manufacturing,Agriculture & Natural Resources,Arts & Media,Engineering,Agriculture & Natural Resources,1
-313,1428531,SWEENEY ETHAN,esweeney000@student.rcschools.net,Computers & Technology,Teaching,Finance,Government & Public Admin,Sales & Marketing,Arts & Media,1
-314,1428537,LEVENHAGEN VIRGINIA,vlevenhagen9577@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Computers & Technology,Sales & Marketing,Arts & Media,1
-315,1111102,KA'NIYAH LEWIS,klewis8494@student.rcschools.net,Health Science,Sales & Marketing,Architecture & Construction,Agriculture & Natural Resources,Business,Arts & Media,1
-316,1428568,MARSH RILEY,rmarsh000@student.rcschools.net,Health Science,Sales & Marketing,Architecture & Construction,Agriculture & Natural Resources,Distribution & Logistics,Business,1
-317,1428576,ESQUIVEL SOSA JOSUE,jesquivelsosa9030@student.rcschools.net,Health Science,Engineering,Distribution & Logistics,Advanced Manufacturing,Agriculture & Natural Resources,Arts & Media,1
-318,1428581,BATTLE TRINITY,tbattle001@student.rcschools.net,Health Science,Architecture & Construction,Engineering,Computers & Technology,Arts & Media,Hospitality & Tourism,1
-319,1428587,DANIEL MARTINEZ,dmartinez000@student.rcschools.net,Health Science,Sales & Marketing,Agriculture & Natural Resources,Hospitality & Tourism,Distribution & Logistics,Law & Public Safety,1
-320,1428597,BENNETT PARIS,pbennett000@student.rcschools.net,Sales & Marketing,Sales & Marketing,Agriculture & Natural Resources,Arts & Media,Arts & Media,Law & Public Safety,1
-321,1107067,NICHOLAS GEMUENDEN,ngemuenden000@student.rcschools.net,Health Science,Distribution & Logistics,Distribution & Logistics,Advanced Manufacturing,Business,Law & Public Safety,1
-322,1113213,KYLER HARRIS,kharris003@student.rcschools.net,Health Science,Distribution & Logistics,Agriculture & Natural Resources,Law & Public Safety,Agriculture & Natural Resources,Law & Public Safety,1
-323,1117313,KIMBERLY ALVAREZ MEJIA,kalvarezmejia000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Finance,Arts & Media,1
-324,1107084,BRENNAN MATTHEWS,bmatthews9508@student.rcschools.net,Distribution & Logistics,Business,Advanced Manufacturing,Architecture & Construction,Finance,Law & Public Safety,1
-325,1475725,CHANDLER KRISTIAN,kchandler000@student.rcschools.net,Engineering,Teaching,Finance,Agriculture & Natural Resources,Arts & Media,Human Services,1
-326,1107086,ERIKA HILL,ehill5768@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Business,Law & Public Safety,1
-327,1105039,DEREK ROBINSON,drobinson7419@rcschools.net,Health Science,Teaching,Architecture & Construction,Agriculture & Natural Resources,Health Science,Arts & Media,1
-328,1107088,Landon Moses,lmoses000@student.rcschools.net,Health Science,Teaching,Computers & Technology,Human Services,Health Science,Law & Public Safety,1
-329,1107090,KAYLEIGH ROPER,kroper000@student.rcschools.net,Computers & Technology,Distribution & Logistics,Finance,Government & Public Admin,Agriculture & Natural Resources,Law & Public Safety,1
-330,1428626,DECKER LUKAS,ldecker7164@student.rcschools.net,Health Science,Distribution & Logistics,Finance,Government & Public Admin,Advanced Manufacturing,Architecture & Construction,1
-331,1430676,BUSH ROMELLIO,rbush000@student.rcschools.net,Agriculture & Natural Resources,Sales & Marketing,Arts & Media,Human Services,Business,Arts & Media,1
-332,1107094,LANDYN TAYLOR,ltaylor4554@student.rcschools.net,Health Science,Distribution & Logistics,Business,Law & Public Safety,Business,Computers & Technology,1
-333,1107096,JACOB DAVIS,jdavis3743@student.rcschools.net,Health Science,Computers & Technology,Advanced Manufacturing,Agriculture & Natural Resources,Agriculture & Natural Resources,Law & Public Safety,1
-334,1107098,JOCELYN GUERRA,jguerra5974@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Law & Public Safety,Health Science,Human Services,1
-335,1107106,JASON BLACKWELL,jblackwell000@student.rcschools.net,Distribution & Logistics,Teaching,Finance,Agriculture & Natural Resources,Health Science,Human Services,1
-336,1428651,HAYNES DAMARI,dhaynes001@student.rcschools.net,Health Science,Advanced Manufacturing,Advanced Manufacturing,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
-337,1107143,THAILAYSHA SAYAVONG,tsayavong000@student.rcschools.net,Health Science,Engineering,Distribution & Logistics,Law & Public Safety,Computers & Technology,Agriculture & Natural Resources,1
-338,1103050,JANIAH ELGIN,jelgin5590@student.rcschools.net,Sales & Marketing,Teaching,Finance,Agriculture & Natural Resources,Arts & Media,Human Services,1
-339,1107150,SHA'KERRIA SUMMEROUR GAY,ssummerourgay000@student.rcschools.net,Agriculture & Natural Resources,Teaching,Arts & Media,Hospitality & Tourism,Arts & Media,Human Services,1
-340,1428691,MCCORD MATTHEW,mmccord9732@student.rcschools.net,Sales & Marketing,Distribution & Logistics,Health Science,Finance,Architecture & Construction,Law & Public Safety,1
-341,1428695,CRAWFORD DE'AREIOUS,dcrawford001@student.rcschools.net,Health Science,Health Science,Advanced Manufacturing,Agriculture & Natural Resources,Engineering,Computers & Technology,1
-342,1111262,JOEL MARQUEZ ORTIZ,jmarquezortiz8541@student.rcschools.net,Health Science,Distribution & Logistics,Advanced Manufacturing,Law & Public Safety,Architecture & Construction,Agriculture & Natural Resources,1
-343,1115364,ANDY MENDOZA GARCIA,amendozagarcia5695@student.rcschools.net,Distribution & Logistics,Engineering,Advanced Manufacturing,Government & Public Admin,Agriculture & Natural Resources,Law & Public Safety,1
-344,1107185,MYKIA LAWSON,mlawson000@student.rcschools.net,Sales & Marketing,Teaching,Health Science,Finance,Health Science,Human Services,1
-345,1107190,PRESTON WRIGHT,pwright7299@student.rcschools.net,Advanced Manufacturing,Computers & Technology,Architecture & Construction,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
-346,1115430,KADENCE SNYDER,ksnyder9516@student.rcschools.net,Computers & Technology,Business,Agriculture & Natural Resources,Government & Public Admin,Human Services,Law & Public Safety,1
-347,1107251,XANDER RIGSBY,xrigsby2046@student.rcschools.net,Health Science,Engineering,Computers & Technology,Finance,Agriculture & Natural Resources,Law & Public Safety,1
-348,1111355,KATTERIN QUINONEZ GONZALEZ,kquinonezgonzalez000@student.rcschools.net,Health Science,Engineering,Agriculture & Natural Resources,Hospitality & Tourism,Arts & Media,Human Services,1
-349,1449300,EDWARDS JONATHAN,jedwards006@student.rcschools.net,Advanced Manufacturing,Teaching,Architecture & Construction,Agriculture & Natural Resources,Arts & Media,Human Services,1
-350,1449301,MARANGE' RILEY,rmarange3705@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Government & Public Admin,Arts & Media,Hospitality & Tourism,1
-351,1432920,DAVIS ALEXANDRIA,adavis6084@student.rcschools.net,Business,Teaching,Engineering,Finance,Arts & Media,Human Services,1
-352,1428839,EMMONS AYDEN,aemmons6026@student.rcschools.net,Engineering,Sales & Marketing,Finance,Agriculture & Natural Resources,Finance,Arts & Media,1
-353,1101168,MELODY ILLIG,millig3584@student.rcschools.net,Health Science,Engineering,Business,Computers & Technology,Arts & Media,Human Services,1
-354,1101230,MELANY TEYUL-YOC,mteyalyoc000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Computers & Technology,Arts & Media,1
-355,1430973,VASQUEZ PRETZANTZIN ALEX,avasquezpretz000@student.rcschools.net,Sales & Marketing,Teaching,Health Science,Finance,Health Science,Human Services,1
-356,1099223,WALTER FLORES,wflores2082@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Finance,Sales & Marketing,Arts & Media,1
-357,1099224,MAGGIEALENE GOOCH,mgooch000@student.rcschools.net,Sales & Marketing,Teaching,Arts & Media,Hospitality & Tourism,Engineering,Human Services,1
-358,1428953,DAVIDSON DEMARION,ddavidson000@student.rcschools.net,Health Science,Sales & Marketing,Finance,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
-359,1099227,OLIVIA CASTER,ocaster9220@student.rcschools.net,Engineering,Teaching,Computers & Technology,Agriculture & Natural Resources,Arts & Media,Human Services,1
-360,1099244,izzy fee,ifee5380@student.rcschools.net,Health Science,Teaching,Engineering,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-361,1101299,SHELBY HAYES,shayes3447@student.rcschools.net,Health Science,Sales & Marketing,Finance,Law & Public Safety,Distribution & Logistics,Law & Public Safety,1
-362,1439225,RUCKER SCOTTIE,srucker9093@student.rcschools.net,Health Science,Teaching,Distribution & Logistics,Advanced Manufacturing,Health Science,Human Services,1
-363,1429060,CLARK MICHELA,mclark2487@student.rcschools.net,Distribution & Logistics,Teaching,Advanced Manufacturing,Architecture & Construction,Health Science,Human Services,1
-364,1099338,LILY SENAPHAN,lsenaphan4109@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Law & Public Safety,Sales & Marketing,Arts & Media,1
-365,1105488,JAMISON JOHNSON,jjamison000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Computers & Technology,Arts & Media,1
-366,1429078,JACOB HOLMES,jholmes8107@student.rcschools.net,Advanced Manufacturing,Distribution & Logistics,Finance,Agriculture & Natural Resources,Agriculture & Natural Resources,Law & Public Safety,1
-367,1429079,CORTES JANELE,jcortes000@student.rcschools.net,Health Science,Sales & Marketing,Finance,Government & Public Admin,Finance,Arts & Media,1
-368,1429100,MARTINEZ ADRIANA,amartinez462@student.rcschools.net,Health Science,Teaching,Distribution & Logistics,Advanced Manufacturing,Arts & Media,Law & Public Safety,1
-369,1099373,CAMARION GREENE,cgreene000@student.rcschools.net,Health Science,Teaching,Finance,Government & Public Admin,Health Science,Law & Public Safety,1
-370,1429109,WATERS JANIAH,jwaters000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Arts & Media,Law & Public Safety,1
-371,1429116,ADAMS MACY,madams8648@student.rcschools.net,Teaching,Health Science,Computers & Technology,Human Services,Engineering,Law & Public Safety,1
-372,1101439,IVONNE GARCIA,igarcia000@student.rcschools.net,Teaching,Engineering,Computers & Technology,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
-373,1429123,Keaton Robinson,mrobinson1157@student.rcschools.net,Teaching,Teaching,Business,Computers & Technology,Arts & Media,Human Services,1
-374,1429133,SETH TAYLOR,staylor007@student.rcschools.net,Sales & Marketing,Computers & Technology,Engineering,Computers & Technology,Finance,Government & Public Admin,1
-375,1429136,NAJERA HERNANDEZ DANIEL,dnajerahernandez000@student.rcschools.net,Health Science,Distribution & Logistics,Advanced Manufacturing,Government & Public Admin,Business,Law & Public Safety,1
-376,1429171,CAIRO BRAYLON,bcairo000@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-377,1429177,PAREDES ALEXIS,palexis000@student.rcschools.net,Health Science,Health Science,Agriculture & Natural Resources,Law & Public Safety,Distribution & Logistics,Advanced Manufacturing,1
-378,1429180,LAWRENCE CANAYA,clawrence001@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Business,Law & Public Safety,1
-379,1111746,NOAH OWNBY,nownby1777@student.rcschools.net,Teaching,Distribution & Logistics,Business,Computers & Technology,Computers & Technology,Government & Public Admin,1
-380,1429195,SAPON CUA BRENDA,bsaponcua000@student.rcschools.net,Sales & Marketing,Sales & Marketing,Arts & Media,Hospitality & Tourism,Arts & Media,Hospitality & Tourism,0
-381,1103619,MARLEE JONES,mjones1776@student.rcschools.net,Health Science,Teaching,Business,Advanced Manufacturing,Health Science,Human Services,1
-382,1433362,37127 37127,ascott5574@student.rcschools.net,Health Science,Teaching,Distribution & Logistics,Agriculture & Natural Resources,Arts & Media,Human Services,1
-383,1117986,ABBIE MCKNIGHT,amcknight000@student.rcschools.net,Advanced Manufacturing,Teaching,Architecture & Construction,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-384,1099568,SUMMUR HALLIBURTON,shalliburton6226@student.rcschools.net,Advanced Manufacturing,Teaching,Computers & Technology,Agriculture & Natural Resources,Health Science,Human Services,1
-385,1099570,ZAMAYAH ALI,zali000@student.rcschools.net,Finance,Teaching,Agriculture & Natural Resources,Government & Public Admin,Arts & Media,Human Services,1
-386,1099571,TREMYAH JOHNSON,tjohnson1811@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Health Science,Law & Public Safety,1
-387,1099573,MADDEN DOUANGKESONE,mdouangkesone1325@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Law & Public Safety,Computers & Technology,Arts & Media,1
-388,1099574,ANTHONY CHEERS,acheers000@student.rcschools.net,Health Science,Distribution & Logistics,Finance,Agriculture & Natural Resources,Engineering,Agriculture & Natural Resources,1
-389,1099575,JASON HERNANDEZ,jhernandez011@student.rcschools.net,Sales & Marketing,Teaching,Finance,Agriculture & Natural Resources,Health Science,Human Services,1
-390,1099576,ELIZA AILON HERNANDEZ,eailonhernandez551@student.rcschools.net,Health Science,Sales & Marketing,Agriculture & Natural Resources,Arts & Media,Business,Finance,1
-391,1099577,MANNIE CREEK-ABNEY,mgreek000@student.rcschools.net,Health Science,Architecture & Construction,Engineering,Finance,Arts & Media,Hospitality & Tourism,1
-392,1099578,SANDRA GARCIA,sgarcia1251@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Government & Public Admin,Business,Law & Public Safety,1
-393,1099580,BRYAN ESCUDERO MERCADO,bescuderomercado4196@student.rcschools.net,Health Science,Architecture & Construction,Agriculture & Natural Resources,Government & Public Admin,Arts & Media,Hospitality & Tourism,1
-394,1099581,DIEGO DELGADO-VASQUEZ,ddelgadovasquez6596@student.rcschools.net,Health Science,Distribution & Logistics,Government & Public Admin,Law & Public Safety,Advanced Manufacturing,Law & Public Safety,1
-395,1099583,CADENCE MCCOY,cmccoy706@student.rcschools.net,Sales & Marketing,Engineering,Health Science,Agriculture & Natural Resources,Arts & Media,Human Services,1
-396,1099584,DEANNA BAENA,dbaena1310@student.rcschools.net,Advanced Manufacturing,Teaching,Architecture & Construction,Arts & Media,Human Services,Law & Public Safety,1
-397,1099585,MARTIN IBARRA,mibarra000@student.rcschools.net,Advanced Manufacturing,Distribution & Logistics,Finance,Government & Public Admin,Architecture & Construction,Agriculture & Natural Resources,1
-398,1099586,ALYSSA TAYLOR,ataylor1759@student.rcschools.net,Advanced Manufacturing,Engineering,Agriculture & Natural Resources,Law & Public Safety,Arts & Media,Human Services,1
-399,1099587,HANNAH JACOBS,hjacobs2487@student.rcschools.net,Health Science,Business,Advanced Manufacturing,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-400,1099588,JAYCOB WILSON,jwilson4398@student.rcschools.net,Computers & Technology,Business,Finance,Government & Public Admin,Computers & Technology,Finance,1
-401,1099589,KARMA BRIGHT,kbright7705@student.rcschools.net,Sales & Marketing,Business,Computers & Technology,Government & Public Admin,Human Services,Law & Public Safety,1
-402,1099590,MARIA BOQUIN GRANADOS,mboquin0000@student.rcschools.net,Finance,Teaching,Agriculture & Natural Resources,Government & Public Admin,Sales & Marketing,Business,1
-403,1099591,KE'ZYIAN LAWRENCE,klawrence9802@student.rcschools.net,Health Science,Sales & Marketing,Distribution & Logistics,Agriculture & Natural Resources,Business,Arts & Media,1
-404,1099594,JACOB GALINAT,jgalinat4257@student.rcschools.net,Health Science,Teaching,Government & Public Admin,Law & Public Safety,Health Science,Law & Public Safety,1
-405,1099595,CRYSTAL LOPEZ MARTINEZ,clopezmartinez000@student.rcschools.net,Advanced Manufacturing,Teaching,Architecture & Construction,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-406,1099596,"COREY STOVALL, JR.",cstovall001@student.rcschools.net,Health Science,Sales & Marketing,Finance,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
-407,1099598,CHRISTOPHER QUINONES,cquinones3550@student.rcschools.net,Computers & Technology,Sales & Marketing,Finance,Government & Public Admin,Arts & Media,Hospitality & Tourism,1
-408,1099599,MALIA DAVIS,mdavis3354@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Finance,Sales & Marketing,Arts & Media,1
-409,1099602,BRIANA MENDOZA-VASQUEZ,bmendozavasquez6668@student.rcschools.net,Teaching,Engineering,Computers & Technology,Human Services,Agriculture & Natural Resources,Law & Public Safety,1
-410,1099603,AIYLA BRANOM,abranom000@student.rcschools.net,Distribution & Logistics,Teaching,Advanced Manufacturing,Architecture & Construction,Health Science,Human Services,1
-411,1099604,CARSON TIDWELL,ctidwell5127@student.rcschools.net,Health Science,Advanced Manufacturing,Agriculture & Natural Resources,Government & Public Admin,Computers & Technology,Agriculture & Natural Resources,1
-412,1099608,ALEX RODRIGUEZ DUBON,arodriguezdubon000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Distribution & Logistics,Business,1
-413,1099610,DYLAN MELHORN,dmelhorn8864@student.rcschools.net,Advanced Manufacturing,Engineering,Engineering,Architecture & Construction,Computers & Technology,Agriculture & Natural Resources,1
-414,1099612,ELORA BARRETT,ebarrett4270@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Law & Public Safety,Arts & Media,Human Services,1
-415,1099613,BRIANA DE LEON,bdeleon564@student.rcschools.net,Advanced Manufacturing,Sales & Marketing,Agriculture & Natural Resources,Law & Public Safety,Business,Arts & Media,1
-416,1099615,ELLIANA DEJAYNES,edejaynes8789@student.rcschools.net,Health Science,Teaching,Computers & Technology,Agriculture & Natural Resources,Health Science,Human Services,1
-417,1099616,ISABEL MCINNIS,imcinnis4736@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Computers & Technology,Health Science,Law & Public Safety,1
-418,1099617,NAVIN VONGPANYA,nvongpanya5993@student.rcschools.net,Health Science,Distribution & Logistics,Computers & Technology,Agriculture & Natural Resources,Agriculture & Natural Resources,Law & Public Safety,1
-419,1099618,JAYDEN MCQUIDDY,jmcquiddy000@student.rcschools.net,Advanced Manufacturing,Business,Architecture & Construction,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
-420,1099619,SALLIE RAYAS,srayas676@student.rcschools.net,Engineering,Sales & Marketing,Computers & Technology,Agriculture & Natural Resources,Business,Government & Public Admin,1
-421,1099620,LUIS AREVALO,larevalo6311@student.rcschools.net,Computers & Technology,Teaching,Finance,Government & Public Admin,Health Science,Law & Public Safety,1
-422,1099621,MAYRA ORTIZ GARCIA,mortiz2788@student.rcschools.net,Arts & Media,Health Science,Human Services,Hospitality & Tourism,Distribution & Logistics,Law & Public Safety,1
-423,1099622,TIDUS MELTON,tmelton001@student.rcschools.net,Sales & Marketing,Health Science,Finance,Agriculture & Natural Resources,Distribution & Logistics,Law & Public Safety,1
-424,1099623,JOCELYN GARCIA,jgarcia4159@student.rcschools.net,Teaching,Teaching,Health Science,Computers & Technology,Health Science,Human Services,1
-425,1099624,AYDAN IVY,aivy5173@student.rcschools.net,Teaching,Engineering,Computers & Technology,Arts & Media,Agriculture & Natural Resources,Law & Public Safety,1
-426,1099626,ALEXIA LEVANGIE,alevangie7434@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Sales & Marketing,Arts & Media,1
-427,1099627,ETHAN HARRELSON,eharrelson000@student.rcschools.net,Health Science,Health Science,Agriculture & Natural Resources,Hospitality & Tourism,Engineering,Law & Public Safety,1
-428,1099629,TEAGAN MASKOVYAK,tmaskovyak3955@student.rcschools.net,Advanced Manufacturing,Sales & Marketing,Finance,Architecture & Construction,Business,Arts & Media,1
-429,1099630,CRISTOPHER AVILA MALDONADO,cavila7580@student.rcschools.net,Business,Business,Computers & Technology,Finance,Finance,Law & Public Safety,1
-430,1099631,CAMDEN OAGLES,coagles7731@student.rcschools.net,Health Science,Teaching,Finance,Agriculture & Natural Resources,Health Science,Law & Public Safety,1
-431,1099633,JACOB GAMMON,jgammon7306@student.rcschools.net,Teaching,Distribution & Logistics,Sales & Marketing,Finance,Advanced Manufacturing,Architecture & Construction,1
-432,1099636,CAITLYN BARRETT,cbarrett8817@student.rcschools.net,Teaching,Teaching,Business,Human Services,Arts & Media,Human Services,1
-433,1099639,CARSON REED,creed7232@student.rcschools.net,Health Science,Teaching,Government & Public Admin,Human Services,Health Science,Law & Public Safety,1
-434,1099640,JONAH GARLAND,jgarland001@student.rcschools.net,Business,Teaching,Computers & Technology,Government & Public Admin,Architecture & Construction,Arts & Media,1
-435,1099645,MARKEL MARTINEZ,mmartinez003@student.rcschools.net,Business,Sales & Marketing,Advanced Manufacturing,Engineering,Arts & Media,Hospitality & Tourism,1
-436,1099646,ADRIAN FONSECA HERNANDEZ,afonsecahernande6008@student.rcschools.net,Health Science,Distribution & Logistics,Finance,Agriculture & Natural Resources,Business,Finance,1
-437,1099648,SIDNEY STONEBARGER,sstonebarger2320@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Arts & Media,Health Science,Human Services,1
-438,1099651,JACOB HERROD,jherrod694@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Distribution & Logistics,Law & Public Safety,1
-439,1099653,MALACHI TELIN,mtelin000@student.rcschools.net,Business,Distribution & Logistics,Engineering,Finance,Engineering,Agriculture & Natural Resources,1
-440,1099654,SHANNEL BEDFORD,sbedford255@student.rcschools.net,Teaching,Sales & Marketing,Business,Arts & Media,Arts & Media,Hospitality & Tourism,1
-441,1099655,LILY CRABTREE,lcrabtree8202@student.rcschools.net,Sales & Marketing,Teaching,Business,Human Services,Engineering,Human Services,1
-442,1099657,GRAYSON LEWIS,glewis6943@student.rcschools.net,Advanced Manufacturing,Teaching,Architecture & Construction,Government & Public Admin,Health Science,Law & Public Safety,1
-443,1099658,JAMES GRADY,jgrady000@student.rcschools.net,Advanced Manufacturing,Business,Engineering,Computers & Technology,Finance,Law & Public Safety,1
-444,1099660,NEVAEH TELIN,ntelin000@student.rcschools.net,Distribution & Logistics,Health Science,Advanced Manufacturing,Government & Public Admin,Engineering,Agriculture & Natural Resources,1
-445,1099661,LA'SHAUN SMITH,lsmith003@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Law & Public Safety,Human Services,Law & Public Safety,1
-446,1099662,HASA'AN MCGEE,hmcgee2721@student.rcschools.net,Health Science,Sales & Marketing,Finance,Government & Public Admin,Business,Arts & Media,1
-447,1099665,DILLON CRUTCHFIELD,dcrutchfield000@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Finance,Health Science,Law & Public Safety,1
-448,1099666,WAYMON WEST,wwest000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Government & Public Admin,Business,Arts & Media,1
-449,1099667,PRESLEY BRUNSON,pbrunson9566@student.rcschools.net,Health Science,Sales & Marketing,Human Services,Law & Public Safety,Business,Arts & Media,1
-450,1122193,DEYONNA LOPEZ,dlopez6121@student.rcschools.net,Advanced Manufacturing,Teaching,Architecture & Construction,Agriculture & Natural Resources,Sales & Marketing,Arts & Media,1
-451,1099669,TAI'SHON MORRIS,tmorris000@student.rcschools.net,Sales & Marketing,Advanced Manufacturing,Finance,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
-452,1099674,JORDAN CORLEW,jcorlew153@student.rcschools.net,Health Science,Engineering,Finance,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
-453,1099676,DAYAA NORMAN,dnorman000@student.rcschools.net,Teaching,Teaching,Business,Computers & Technology,Health Science,Human Services,1
-454,1099677,RILEY AUSTIN,raustin7655@student.rcschools.net,Health Science,Engineering,Computers & Technology,Agriculture & Natural Resources,Agriculture & Natural Resources,Law & Public Safety,1
-455,1099678,"JAMES STAHL, III",jstahl3667@student.rcschools.net,Engineering,Engineering,Computers & Technology,Agriculture & Natural Resources,Agriculture & Natural Resources,Law & Public Safety,1
-456,1099680,OMAR TRONCO-LOPEZ,otroncolopez1510@student.rcschools.net,Sales & Marketing,Engineering,Business,Computers & Technology,Arts & Media,Human Services,1
-457,1099681,BRUCE EWIN,bewin000@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Arts & Media,Engineering,Arts & Media,1
-458,1099682,JACOB PATTERSON,jpatterson301@student.rcschools.net,Sales & Marketing,Health Science,Business,Engineering,Engineering,Agriculture & Natural Resources,1
-459,1099683,JOHN HOOPER,jhooper1913@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Law & Public Safety,Health Science,Arts & Media,1
-460,1099684,A'JAYLAH HELMS,ahelms000@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Government & Public Admin,Human Services,Law & Public Safety,1
-461,1099685,ELIJAH COFFMAN,ecoffman7248@student.rcschools.net,Engineering,Distribution & Logistics,Computers & Technology,Architecture & Construction,Architecture & Construction,Law & Public Safety,1
-462,1099686,"JOSE AYALA, JR",jayala7820@student.rcschools.net,Health Science,Engineering,Advanced Manufacturing,Government & Public Admin,Agriculture & Natural Resources,Law & Public Safety,1
-463,1099688,CHARLES CAMERON,ccameron2414@student.rcschools.net,Health Science,Advanced Manufacturing,Finance,Agriculture & Natural Resources,Engineering,Agriculture & Natural Resources,1
-464,1099689,JOSHUA KING,jking002@student.rcschools.net,Sales & Marketing,Distribution & Logistics,Finance,Hospitality & Tourism,Business,Law & Public Safety,1
-465,1099690,FLOR SOTO,fescobarsoto1135@student.rcschools.net,Sales & Marketing,Teaching,Computers & Technology,Agriculture & Natural Resources,Arts & Media,Human Services,1
-466,1099691,JAYLEN CRAYTON,jcrayton6250@student.rcschools.net,Teaching,Teaching,Health Science,Agriculture & Natural Resources,Arts & Media,Human Services,1
-467,1099692,KAYDENCE WISNIEWSKI,kwisniewski1112@student.rcschools.net,Teaching,Teaching,Business,Finance,Health Science,Law & Public Safety,1
-468,1099694,NEVAEH SMITH,nsmith753@student.rcschools.net,Distribution & Logistics,Sales & Marketing,Advanced Manufacturing,Architecture & Construction,Arts & Media,Hospitality & Tourism,1
-469,1099695,Summer Dossett,sdossett000@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Arts & Media,Human Services,1
-470,1099696,KADYN MANRY,kmanry000@student.rcschools.net,Health Science,Business,Advanced Manufacturing,Arts & Media,Human Services,Law & Public Safety,1
-471,1099697,MAGGIE HAYES,mhayes5118@student.rcschools.net,Teaching,Engineering,Business,Arts & Media,Arts & Media,Human Services,1
-472,1099699,KAI KNOWLES,kknowles6881@student.rcschools.net,Health Science,Teaching,Computers & Technology,Human Services,Arts & Media,Hospitality & Tourism,1
-473,1099700,ELIJAH WATSON,ewatson5152@student.rcschools.net,Health Science,Distribution & Logistics,Finance,Government & Public Admin,Business,Agriculture & Natural Resources,1
-474,1118132,ISAIAH DALTON,idalton000@student.rcschools.net,Health Science,Health Science,Finance,Agriculture & Natural Resources,Distribution & Logistics,Law & Public Safety,1
-475,1099702,SOPHIE LONDON,slondon000@student.rcschools.net,Sales & Marketing,Health Science,Business,Arts & Media,Advanced Manufacturing,Law & Public Safety,1
-476,1099703,JA'NIYA MILLS,jmills7115@student.rcschools.net,Sales & Marketing,Sales & Marketing,Health Science,Finance,Arts & Media,Law & Public Safety,1
-477,1099704,KAYLYNN BROOKS,kbrooks9062@student.rcschools.net,Advanced Manufacturing,Teaching,Computers & Technology,Government & Public Admin,Human Services,Law & Public Safety,1
-478,1099705,JER'VAREZ HAYNES,jhaynes9187@student.rcschools.net,Health Science,Teaching,Distribution & Logistics,Advanced Manufacturing,Arts & Media,Human Services,1
-479,1101751,ANDREW GRAYBILL,agraybill939@student.rcschools.net,Advanced Manufacturing,Health Science,Engineering,Architecture & Construction,Engineering,Computers & Technology,1
-480,1122235,DASHUNA LOPEZ,dlopez967@student.rcschools.net,Teaching,Teaching,Advanced Manufacturing,Computers & Technology,Human Services,Law & Public Safety,1
-481,1099708,KNIVA SALAZAR,ksalazae8884@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Arts & Media,Human Services,1
-482,1099710,ALIYAH WADE,awade56@student.rcschools.net,Sales & Marketing,Sales & Marketing,Health Science,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
-483,1099711,LILY POWERS,lpowers7299@student.rcschools.net,Advanced Manufacturing,Teaching,Computers & Technology,Agriculture & Natural Resources,Arts & Media,Human Services,1
-484,1099712,IVAN VAUGHN,ivaughn9871@student.rcschools.net,Health Science,Sales & Marketing,Finance,Agriculture & Natural Resources,Business,Arts & Media,1
-485,1099713,GAVIN JOHNSON,gjohnson481@student.rcschools.net,Teaching,Health Science,Health Science,Computers & Technology,Engineering,Agriculture & Natural Resources,1
-486,1429438,JOHN COOK,jcook4832@student.rcschools.net,Health Science,Distribution & Logistics,Finance,Agriculture & Natural Resources,Finance,Law & Public Safety,1
-487,1099715,JAYDA WOLF,jwolf000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Computers & Technology,Arts & Media,Human Services,1
-488,1099719,TATYANA GREENE,tgreene9525@student.rcschools.net,Advanced Manufacturing,Health Science,Engineering,Law & Public Safety,Human Services,Law & Public Safety,1
-489,1099720,MARLEE MENCK,mmenck146@student.rcschools.net,Business,Health Science,Advanced Manufacturing,Agriculture & Natural Resources,Engineering,Human Services,1
-490,1099722,CHRISTOPHER SWEENEY,csweeney000@student.rcschools.net,Advanced Manufacturing,Advanced Manufacturing,Computers & Technology,Architecture & Construction,Architecture & Construction,Arts & Media,1
-491,1099724,ADRIAN KNOX-MAJORS,aknoxmajors2191@student.rcschools.net,Teaching,Sales & Marketing,Sales & Marketing,Computers & Technology,Distribution & Logistics,Law & Public Safety,1
-492,1099725,"LESLIE BRADFORD, JR",lbradford000@student.rcschools.net,Sales & Marketing,Sales & Marketing,Health Science,Finance,Distribution & Logistics,Agriculture & Natural Resources,1
-493,1099726,Entrhow Lane,elane000@student.rcschools.net,Computers & Technology,Engineering,Finance,Government & Public Admin,Architecture & Construction,Arts & Media,1
-494,1099729,KRYSTAL MURRAY,kmurray001@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Government & Public Admin,Health Science,Human Services,1
-495,1099730,CONNOR HAYES,chayes9360@student.rcschools.net,Business,Computers & Technology,Finance,Agriculture & Natural Resources,Agriculture & Natural Resources,Law & Public Safety,1
-496,1099731,MARCAYLA CALVIN,mcalvin000@student.rcschools.net,Health Science,Teaching,Architecture & Construction,Agriculture & Natural Resources,Arts & Media,Human Services,1
-497,1099735,NOAH MILNAR,nmilnar000@student.rcschools.net,Teaching,Advanced Manufacturing,Arts & Media,Hospitality & Tourism,Arts & Media,Hospitality & Tourism,1
-498,1437656,SIMMONS MICHAEL,msimmons002@student.rcschools.net,Teaching,Teaching,Finance,Human Services,Sales & Marketing,Arts & Media,1
-499,1099737,DESTIN BASSHAM,dbassham5686@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Computers & Technology,Arts & Media,Human Services,1
-500,1099738,JAI'ONNA HICKS,jhicks3117@student.rcschools.net,Health Science,Business,Finance,Agriculture & Natural Resources,Finance,Law & Public Safety,1
-501,1099739,NIKOLAS HERNANDEZ,nhernandez000@student.rcschools.net,Sales & Marketing,Sales & Marketing,Finance,Agriculture & Natural Resources,Finance,Law & Public Safety,1
-502,1099745,HEIDY VEGA ELVIRA,hvegaelvira4105@student.rcschools.net,Health Science,Health Science,Finance,Agriculture & Natural Resources,Finance,Law & Public Safety,1
-503,1099752,WENTANG ZOU,wzou966@student.rcschools.net,Sales & Marketing,Advanced Manufacturing,Computers & Technology,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
-504,1099754,GARY NEWBERN,gnewbern000@student.rcschools.net,Health Science,Health Science,Computers & Technology,Finance,Advanced Manufacturing,Arts & Media,1
-505,1099756,EBENEEZER WOSENU,ewosenu7499@student.rcschools.net,Sales & Marketing,Sales & Marketing,Finance,Human Services,Arts & Media,Hospitality & Tourism,1
-506,1099769,LAWRENCE LEVENHAGEN,llevenhagen8606@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Agriculture & Natural Resources,Law & Public Safety,1
-507,1099770,KATELYNN COOK,kcook6738@student.rcschools.net,Business,Teaching,Computers & Technology,Finance,Human Services,Law & Public Safety,1
-508,1099774,STEPHANIE AQUINO ZAMORANO,saquinazamorano7695@student.rcschools.net,Health Science,Health Science,Advanced Manufacturing,Agriculture & Natural Resources,Engineering,Human Services,1
+0,1428481,PHENGSAVANH SISOMPHONE,sphengsavanh000@student.rcschools.net,Health Science,Arts & Media,Finance,Agriculture & Natural Resources,Hospitality & Tourism,Law & Public Safety,1
+1,1428482,TUMA KIETH,ktuma000@student.rcschools.net,Sales & Marketing,Architecture & Construction,Health Science,Finance,Arts & Media,Hospitality & Tourism,1
+2,1428485,FLETCHER LILLY,lfletcher346@student.rcschools.net,Sales & Marketing,Teaching,Finance,Agriculture & Natural Resources,Health Science,Human Services,1
+3,1428486,HAYNES DAMARCUS,dhaynes000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Architecture & Construction,Finance,Arts & Media,1
+4,1428487,DANAR RASHEED,drasheed000@student.rcschools.net,Health Science,Engineering,Agriculture & Natural Resources,Law & Public Safety,Agriculture & Natural Resources,Law & Public Safety,1
+5,1428488,JONES SHAWN,sjones002@student.rcschools.net,Health Science,Health Science,Advanced Manufacturing,Computers & Technology,Engineering,Agriculture & Natural Resources,1
+6,1428489,ORTIZ MARELY,mortiz001@student.rcschools.net,Distribution & Logistics,Teaching,Advanced Manufacturing,Computers & Technology,Arts & Media,Human Services,1
+7,1428490,PHOUPHONH JADEN,jphouphonh9982@student.rcschools.net,Sales & Marketing,Engineering,Finance,Law & Public Safety,Computers & Technology,Agriculture & Natural Resources,1
+8,1434629,ESCOBAR EMILY,eescobar3473@student.rcschools.net,Health Science,Teaching,Finance,Agriculture & Natural Resources,Health Science,Law & Public Safety,1
+9,1428492,PEREZ TENA STEISY,spereztena000@student.rcschools.net,Computers & Technology,Sales & Marketing,Finance,Government & Public Admin,Arts & Media,Hospitality & Tourism,1
+10,1430028,TERRANCE WASHINGTON,twashington4303@student.rcschools.net,Sales & Marketing,Advanced Manufacturing,Health Science,Finance,Architecture & Construction,Arts & Media,1
+11,1428500,WHITEMAN MCKENNA,mwhiteman000@student.rcschools.net,Health Science,Architecture & Construction,Computers & Technology,Finance,Arts & Media,Hospitality & Tourism,1
+12,1428505,LAWRENCE AH'MARI,alawrence002@student.rcschools.net,Teaching,Business,Health Science,Finance,Finance,Law & Public Safety,1
+13,1428509,MARTINEZ YOHANNA,ymartinez287@student.rcschools.net,Distribution & Logistics,Teaching,Advanced Manufacturing,Architecture & Construction,Health Science,Human Services,1
+14,1428513,RABURN DALLAS,draburn000@student.rcschools.net,Business,Architecture & Construction,Government & Public Admin,Law & Public Safety,Arts & Media,Hospitality & Tourism,1
+15,1434657,DAVENPORT TIMOTHY,tdavenport1263@student.rcschools.net,Health Science,Distribution & Logistics,Agriculture & Natural Resources,Government & Public Admin,Advanced Manufacturing,Architecture & Construction,1
+16,1428520,NORRIS JEREMIAH,jnorris003@student.rcschools.net,Sales & Marketing,Teaching,Arts & Media,Hospitality & Tourism,Arts & Media,Human Services,1
+17,1428530,GOOCH JEFFREY,jgoochiii000@student.rcschools.net,Advanced Manufacturing,Advanced Manufacturing,Agriculture & Natural Resources,Arts & Media,Engineering,Agriculture & Natural Resources,1
+18,1428531,SWEENEY ETHAN,esweeney000@student.rcschools.net,Computers & Technology,Teaching,Finance,Government & Public Admin,Sales & Marketing,Arts & Media,1
+19,1428537,LEVENHAGEN VIRGINIA,vlevenhagen9577@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Computers & Technology,Sales & Marketing,Arts & Media,1
+20,1428576,ESQUIVEL SOSA JOSUE,jesquivelsosa9030@student.rcschools.net,Health Science,Engineering,Distribution & Logistics,Advanced Manufacturing,Agriculture & Natural Resources,Arts & Media,1
+21,1429060,CLARK MICHELA,mclark2487@student.rcschools.net,Distribution & Logistics,Teaching,Advanced Manufacturing,Architecture & Construction,Health Science,Human Services,1
+22,1428052,JOHNSON HAILEY,hjohnson300@student.rcschools.net,Engineering,Sales & Marketing,Computers & Technology,Law & Public Safety,Arts & Media,Law & Public Safety,1
+23,1429078,JACOB HOLMES,jholmes8107@student.rcschools.net,Advanced Manufacturing,Distribution & Logistics,Finance,Agriculture & Natural Resources,Agriculture & Natural Resources,Law & Public Safety,1
+24,1428568,MARSH RILEY,rmarsh000@student.rcschools.net,Health Science,Sales & Marketing,Architecture & Construction,Agriculture & Natural Resources,Distribution & Logistics,Business,1
+25,1428060,SIMON JAIDEN,jsimon000@student.rcschools.net,Health Science,Advanced Manufacturing,Distribution & Logistics,Law & Public Safety,Engineering,Agriculture & Natural Resources,1
+26,1428061,FRAZIER VONTAVIOUS,vfrazier000@student.rcschools.net,Health Science,Teaching,Finance,Government & Public Admin,Health Science,Law & Public Safety,1
+27,1428062,AYESH NOOR,nayesh000@student.rcschools.net,Sales & Marketing,Health Science,Business,Human Services,Engineering,Agriculture & Natural Resources,1
+28,1428063,JOHNSON AIYANA,ajohnson018@student.rcschools.net,Health Science,Business,Advanced Manufacturing,Computers & Technology,Human Services,Law & Public Safety,1
+29,1428064,RANDOLPH OLIVIA,orandolph2000@student.rcschools.net,Advanced Manufacturing,Teaching,Architecture & Construction,Agriculture & Natural Resources,Arts & Media,Human Services,1
+30,1428065,RETTIG HOUSTON,hrettig7700@student.rcschools.net,Advanced Manufacturing,Teaching,Engineering,Computers & Technology,Health Science,Law & Public Safety,1
+31,1428066,LANGLEY NOAH,nlangley5055@student.rcschools.net,Health Science,Teaching,Engineering,Computers & Technology,Health Science,Law & Public Safety,1
+32,1428067,JOHNSON-SHORTOAK MARGARET,mjohnsonshortoak2487@student.rcschools.net,Business,Teaching,Engineering,Finance,Sales & Marketing,Arts & Media,1
+33,1428068,Daniel Perdones-Aguilar,dperdonesaguilar9424@student.rcschools.net,Advanced Manufacturing,Distribution & Logistics,Engineering,Computers & Technology,Business,Agriculture & Natural Resources,1
+34,1428069,VAZQUEZ MARCOS,mvazquez002@student.rcschools.net,Engineering,Teaching,Computers & Technology,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
+35,1428070,WILLIAMS ZOE,zwilliams9347@student.rcschools.net,Business,Engineering,Engineering,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
+36,1428071,LYTLE ISAAC,ilytle001@student.rcschools.net,Teaching,Teaching,Computers & Technology,Human Services,Health Science,Human Services,1
+37,1428072,HERROD BRIANA,bherrod000@student.rcschools.net,Sales & Marketing,Teaching,Finance,Agriculture & Natural Resources,Health Science,Human Services,1
+38,1428073,LEVERETTE CALI,cleverette1891@student.rcschools.net,Business,Teaching,Advanced Manufacturing,Architecture & Construction,Arts & Media,Hospitality & Tourism,1
+39,1428074,VASQUEZ VASQUEZ PEDRO,pvasquezvasquez000@student.rcschools.net,Business,Architecture & Construction,Engineering,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
+40,1428581,BATTLE TRINITY,tbattle001@student.rcschools.net,Health Science,Architecture & Construction,Engineering,Computers & Technology,Arts & Media,Hospitality & Tourism,1
+41,1428076,BRUNK MADISON,mbrunk000@student.rcschools.net,Health Science,Teaching,Distribution & Logistics,Advanced Manufacturing,Health Science,Law & Public Safety,1
+42,1428077,JOEL JONES,jjones000@student.rcschools.net,Business,Advanced Manufacturing,Computers & Technology,Human Services,Engineering,Agriculture & Natural Resources,1
+43,1428587,DANIEL MARTINEZ,dmartinez000@student.rcschools.net,Health Science,Sales & Marketing,Agriculture & Natural Resources,Hospitality & Tourism,Distribution & Logistics,Law & Public Safety,1
+44,1429100,MARTINEZ ADRIANA,amartinez462@student.rcschools.net,Health Science,Teaching,Distribution & Logistics,Advanced Manufacturing,Arts & Media,Law & Public Safety,1
+45,1428082,MILLENER KAYONNA,kmillener001@student.rcschools.net,Health Science,Sales & Marketing,Finance,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
+46,1439859,TORAL GENESIS,gtoral4751@student.rcschools.net,Sales & Marketing,Teaching,Computers & Technology,Arts & Media,Arts & Media,Human Services,1
+47,1428597,BENNETT PARIS,pbennett000@student.rcschools.net,Sales & Marketing,Sales & Marketing,Agriculture & Natural Resources,Arts & Media,Arts & Media,Law & Public Safety,1
+48,1428086,FRAZIER DARYUS,dfrazier000@student.rcschools.net,Health Science,Sales & Marketing,Finance,Agriculture & Natural Resources,Business,Finance,1
+49,1428087,ORONA ANNALYCE,aorona000@student.rcschools.net,Teaching,Sales & Marketing,Advanced Manufacturing,Arts & Media,Arts & Media,Hospitality & Tourism,1
+50,1429109,WATERS JANIAH,jwaters000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Arts & Media,Law & Public Safety,1
+51,1428089,LOPEZ ANTHONY,alopez005@student.rcschools.net,Advanced Manufacturing,Computers & Technology,Engineering,Law & Public Safety,Arts & Media,Law & Public Safety,1
+52,1428091,AUSTIN ERIC,eaustin000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Government & Public Admin,Finance,Arts & Media,1
+53,1429116,ADAMS MACY,madams8648@student.rcschools.net,Teaching,Health Science,Computers & Technology,Human Services,Engineering,Law & Public Safety,1
+54,1428097,COLLINS KALEB,kcollins002@student.rcschools.net,Teaching,Distribution & Logistics,Agriculture & Natural Resources,Human Services,Agriculture & Natural Resources,Law & Public Safety,1
+55,1429123,Keaton Robinson,mrobinson1157@student.rcschools.net,Teaching,Teaching,Business,Computers & Technology,Arts & Media,Human Services,1
+56,1428100,JONATHAN ROSALES ORTIZ,jrosalesortiz000@student.rcschools.net,Health Science,Distribution & Logistics,Advanced Manufacturing,Agriculture & Natural Resources,Finance,Government & Public Admin,1
+57,1428103,DONALD ROBINSON,drobinson273@student.rcschools.net,Engineering,Engineering,Finance,Architecture & Construction,Computers & Technology,Architecture & Construction,1
+58,1428105,Cendra Christian,cchristian000@student.rcschools.net,Teaching,Health Science,Engineering,Agriculture & Natural Resources,Distribution & Logistics,Law & Public Safety,1
+59,1428107,CALEB CARLIN,ccarlin000@student.rcschools.net,Advanced Manufacturing,Architecture & Construction,Engineering,Architecture & Construction,Arts & Media,Hospitality & Tourism,1
+60,1475725,CHANDLER KRISTIAN,kchandler000@student.rcschools.net,Engineering,Teaching,Finance,Agriculture & Natural Resources,Arts & Media,Human Services,1
+61,1429136,NAJERA HERNANDEZ DANIEL,dnajerahernandez000@student.rcschools.net,Health Science,Distribution & Logistics,Advanced Manufacturing,Government & Public Admin,Business,Law & Public Safety,1
+62,1428113,Lucious Zupancic,lzupancic000@student.rcschools.net,Advanced Manufacturing,Teaching,Architecture & Construction,Agriculture & Natural Resources,Arts & Media,Human Services,1
+63,1428626,DECKER LUKAS,ldecker7164@student.rcschools.net,Health Science,Distribution & Logistics,Finance,Government & Public Admin,Advanced Manufacturing,Architecture & Construction,1
+64,1428129,ROBINSON DEVIN,drobinson8667@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Business,Arts & Media,1
+65,1428132,ENGLISH DONOVAN,denglish4767@student.rcschools.net,Teaching,Engineering,Computers & Technology,Human Services,Computers & Technology,Agriculture & Natural Resources,1
+66,1428134,POPE QUINTAVION,qpope000@student.rcschools.net,Sales & Marketing,Sales & Marketing,Finance,Agriculture & Natural Resources,Business,Law & Public Safety,1
+67,1428135,MAYES KENNDRA,kmayes001@student.rcschools.net,Advanced Manufacturing,Teaching,Engineering,Finance,Human Services,Law & Public Safety,1
+68,1428137,CARUTHERS JADA,jcaruthers000@student.rcschools.net,Teaching,Business,Computers & Technology,Human Services,Human Services,Law & Public Safety,1
+69,1428139,Meelah Keomek,mkeomek1113@student.rcschools.net,Health Science,Business,Advanced Manufacturing,Agriculture & Natural Resources,Finance,Government & Public Admin,1
+70,1428651,HAYNES DAMARI,dhaynes001@student.rcschools.net,Health Science,Advanced Manufacturing,Advanced Manufacturing,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
+71,1428143,NETSCHYTAILO IMMANUEL,inetschytailo1044@student.rcschools.net,Health Science,Health Science,Finance,Law & Public Safety,Engineering,Computers & Technology,1
+72,1428145,THOMPSON LILY,lthompson004@student.rcschools.net,Engineering,Teaching,Computers & Technology,Finance,Arts & Media,Human Services,1
+73,1429171,CAIRO BRAYLON,bcairo000@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
+74,1428152,WILDER DOMINIC,dwilder000@student.rcschools.net,Engineering,Distribution & Logistics,Finance,Agriculture & Natural Resources,Finance,Law & Public Safety,1
+75,1428153,HERNANDEZ CUATETL CHRISTOPHER,chernandezcuatetl000@student.rcschools.net,Sales & Marketing,Engineering,Advanced Manufacturing,Agriculture & Natural Resources,Agriculture & Natural Resources,Law & Public Safety,1
+76,1429177,PAREDES ALEXIS,palexis000@student.rcschools.net,Health Science,Health Science,Agriculture & Natural Resources,Law & Public Safety,Distribution & Logistics,Advanced Manufacturing,1
+77,1428155,TOBY VANISOUVONG,tvanisouvong000@student.rcschools.net,Health Science,Distribution & Logistics,Government & Public Admin,Human Services,Architecture & Construction,Agriculture & Natural Resources,1
+78,1428156,HALEMA ALZAHRI,halzahri000@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Finance,Business,Law & Public Safety,1
+79,1428157,Mikayla Lund,mlund000@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Government & Public Admin,Health Science,Human Services,1
+80,1429180,LAWRENCE CANAYA,clawrence001@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Business,Law & Public Safety,1
+81,1428163,MACKENZIE MCCOY,mmccoy3105@student.rcschools.net,Distribution & Logistics,Sales & Marketing,Advanced Manufacturing,Architecture & Construction,Arts & Media,Hospitality & Tourism,1
+82,1428164,BAGGARLY CAEDRYN,cbaggarly000@student.rcschools.net,Engineering,Engineering,Computers & Technology,Agriculture & Natural Resources,Computers & Technology,Finance,1
+83,1428167,KAYLEE NEUMANN,kneumann000@student.rcschools.net,Engineering,Teaching,Finance,Architecture & Construction,Health Science,Human Services,1
+84,1428169,CARLOS PENA OCHOA,cpenaochoa000@student.rcschools.net,Health Science,Distribution & Logistics,Advanced Manufacturing,Government & Public Admin,Agriculture & Natural Resources,Law & Public Safety,1
+85,1429195,SAPON CUA BRENDA,bsaponcua000@student.rcschools.net,Sales & Marketing,Sales & Marketing,Arts & Media,Hospitality & Tourism,Arts & Media,Hospitality & Tourism,0
+86,1428175,EILERS JOSHUA,jeilers000@student.rcschools.net,Business,Distribution & Logistics,Advanced Manufacturing,Engineering,Advanced Manufacturing,Architecture & Construction,1
+87,1428691,MCCORD MATTHEW,mmccord9732@student.rcschools.net,Sales & Marketing,Distribution & Logistics,Health Science,Finance,Architecture & Construction,Law & Public Safety,1
+88,1428695,CRAWFORD DE'AREIOUS,dcrawford001@student.rcschools.net,Health Science,Health Science,Advanced Manufacturing,Agriculture & Natural Resources,Engineering,Computers & Technology,1
+89,1428185,Bella Brandon,baxter5509@student.rcschools.net,Engineering,Business,Finance,Agriculture & Natural Resources,Agriculture & Natural Resources,Law & Public Safety,1
+90,1428188,CLENDENIN ROBERT,rclendenin6081@student.rcschools.net,Advanced Manufacturing,Engineering,Computers & Technology,Finance,Agriculture & Natural Resources,Law & Public Safety,1
+91,1428191,WARNER PATRICK,pwarner001@student.rcschools.net,Sales & Marketing,Sales & Marketing,Health Science,Agriculture & Natural Resources,Business,Finance,1
+92,1428192,Jonathan Guerrero,jguerrero8700@student.rcschools.net,Advanced Manufacturing,Advanced Manufacturing,Finance,Agriculture & Natural Resources,Engineering,Agriculture & Natural Resources,1
+93,1428194,CODY LEWIS,clewis4314@student.rcschools.net,Business,Health Science,Advanced Manufacturing,Engineering,Distribution & Logistics,Law & Public Safety,1
+94,1428197,MCCONNELL SEVYN,smcconnell000@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Government & Public Admin,Arts & Media,Human Services,1
+95,1428198,RONE ASHTON,arone4240@student.rcschools.net,Teaching,Distribution & Logistics,Health Science,Computers & Technology,Engineering,Agriculture & Natural Resources,1
+96,1428199,BARNHART COLBY,cbarnhart000@student.rcschools.net,Teaching,Engineering,Health Science,Computers & Technology,Computers & Technology,Arts & Media,1
+97,1428200,SMYTHIA DYLAN,dsmythia000@student.rcschools.net,Health Science,Engineering,Business,Computers & Technology,Agriculture & Natural Resources,Arts & Media,1
+98,1428207,Aron Segovia,asegovia000@student.rcschools.net,Teaching,Engineering,Health Science,Computers & Technology,Architecture & Construction,Agriculture & Natural Resources,1
+99,1428211,HUNT ANIYA,ahunt003@student.rcschools.net,Health Science,Distribution & Logistics,Agriculture & Natural Resources,Law & Public Safety,Advanced Manufacturing,Architecture & Construction,1
+100,1428212,MAXWELL KESHAWN,kmaxwell000@student.rcschools.net,Engineering,Health Science,Finance,Architecture & Construction,Engineering,Agriculture & Natural Resources,1
+101,1428216,Laihla Washington,lwashington8295@student.rcschools.net,Health Science,Computers & Technology,Advanced Manufacturing,Computers & Technology,Architecture & Construction,Arts & Media,1
+102,1428218,CONNOR BARRETT,cbarrett3903@student.rcschools.net,Advanced Manufacturing,Distribution & Logistics,Engineering,Architecture & Construction,Advanced Manufacturing,Architecture & Construction,1
+103,1428220,EVELYN FICKES,efickes000@student.rcschools.net,Health Science,Teaching,Computers & Technology,Agriculture & Natural Resources,Arts & Media,Human Services,1
+104,1428223,ALI KASSMIEH,akassmieh6136@student.rcschools.net,Health Science,Distribution & Logistics,Finance,Agriculture & Natural Resources,Computers & Technology,Finance,1
+105,1428224,SKYE GOODE,sgoode000@student.rcschools.net,Engineering,Teaching,Finance,Agriculture & Natural Resources,Health Science,Human Services,1
+106,1428225,CABRERA ROSALES LEILLANY,lcabrerarosales3806@student.rcschools.net,Teaching,Teaching,Computers & Technology,Finance,Business,Human Services,1
+107,1428228,POLLARD BLAKE,bpollard6829@student.rcschools.net,Health Science,Sales & Marketing,Finance,Agriculture & Natural Resources,Business,Finance,1
+108,1428230,DECKER JAYDIN,jdecker7830@student.rcschools.net,Health Science,Distribution & Logistics,Human Services,Law & Public Safety,Advanced Manufacturing,Architecture & Construction,1
+109,1428231,PEREZ GALLEGOS ALBEIRO,aperez7809@student.rcschools.net,Health Science,Architecture & Construction,Advanced Manufacturing,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
+110,1428234,GILLIAM TRINITY,tgilliam001@student.rcschools.net,Health Science,Teaching,Distribution & Logistics,Advanced Manufacturing,Human Services,Law & Public Safety,1
+111,1428238,CHRISMAN CASON,cchrisman000@student.rcschools.net,Health Science,Distribution & Logistics,Agriculture & Natural Resources,Government & Public Admin,Agriculture & Natural Resources,Law & Public Safety,1
+112,1428240,CARTER NIEMA,ncarter000@student.rcschools.net,Teaching,Teaching,Computers & Technology,Arts & Media,Arts & Media,Human Services,1
+113,1428242,TIDWELL BLAYDEN,btidwell000@student.rcschools.net,Engineering,Health Science,Computers & Technology,Finance,Agriculture & Natural Resources,Law & Public Safety,1
+114,1428243,HARDY CHEVY,chardy001@student.rcschools.net,Health Science,Sales & Marketing,Distribution & Logistics,Advanced Manufacturing,Arts & Media,Hospitality & Tourism,1
+115,1433362,37127 37127,ascott5574@student.rcschools.net,Health Science,Teaching,Distribution & Logistics,Agriculture & Natural Resources,Arts & Media,Human Services,1
+116,1428245,TREJO-ZAMUDIO BRAYAN,bzamudio4661@student.rcschools.net,Teaching,Distribution & Logistics,Health Science,Agriculture & Natural Resources,Advanced Manufacturing,Architecture & Construction,1
+117,1428246,Mykah Cothran,mcothran000@student.rcschools.net,Health Science,Sales & Marketing,Finance,Government & Public Admin,Arts & Media,Law & Public Safety,1
+118,1433881,Hailey Perry,hperry2104@student.rcschools.net,Sales & Marketing,Teaching,Finance,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
+119,1428251,JAYLEN SMITH,jsmith8381@student.rcschools.net,Advanced Manufacturing,Health Science,Engineering,Architecture & Construction,Agriculture & Natural Resources,Law & Public Safety,1
+120,1428252,EMILY LAZARIT,elazarit000@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Finance,Sales & Marketing,Arts & Media,1
+121,1428253,DAVIS GAVIN,gdavis001@student.rcschools.net,Sales & Marketing,Architecture & Construction,Health Science,Finance,Arts & Media,Hospitality & Tourism,1
+122,1428255,SANCHEZ ELIZABETH,esanchez4006@student.rcschools.net,Business,Distribution & Logistics,Advanced Manufacturing,Agriculture & Natural Resources,Architecture & Construction,Agriculture & Natural Resources,1
+123,1428256,MALDONADO LOUIS,lmaldonado8868@student.rcschools.net,Sales & Marketing,Distribution & Logistics,Finance,Agriculture & Natural Resources,Advanced Manufacturing,Architecture & Construction,1
+124,1428257,VELASQUEZ YOXON ANDREA,avelasquezyoxon000@student.rcschools.net,Health Science,Advanced Manufacturing,Finance,Agriculture & Natural Resources,Engineering,Arts & Media,1
+125,1430303,PHOMMALATH NATIYA,nphommalath000@student.rcschools.net,Health Science,Arts & Media,Advanced Manufacturing,Arts & Media,Hospitality & Tourism,Law & Public Safety,1
+126,1428264,ETHAN LOCKHART,elockhart187@student.rcschools.net,Health Science,Distribution & Logistics,Advanced Manufacturing,Agriculture & Natural Resources,Business,Agriculture & Natural Resources,1
+127,1428265,OGATA LILLY,logata5373@student.rcschools.net,Advanced Manufacturing,Distribution & Logistics,Engineering,Architecture & Construction,Business,Law & Public Safety,1
+128,1428266,SAYMIKNHA ARABELLA,asaymiknha000@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Arts & Media,Human Services,Law & Public Safety,1
+129,1428267,NEUMANN KYLEE,kneuman000@student.rcschools.net,Teaching,Sales & Marketing,Agriculture & Natural Resources,Human Services,Arts & Media,Hospitality & Tourism,1
+130,1428268,ALIANA SAYVONE,asayvone9911@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Sales & Marketing,Arts & Media,1
+131,1432361,ALEXANDER NEELA,nalexander000@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Law & Public Safety,Human Services,Law & Public Safety,1
+132,1428270,Chris Peters,cpeters3274@student.rcschools.net,Health Science,Distribution & Logistics,Finance,Agriculture & Natural Resources,Engineering,Agriculture & Natural Resources,1
+133,1428271,ORGERON COREY,corgeron000@student.rcschools.net,Business,Computers & Technology,Advanced Manufacturing,Engineering,Agriculture & Natural Resources,Arts & Media,1
+134,1428272,NEWMAN JOEL,jnewman8786@student.rcschools.net,Health Science,Advanced Manufacturing,Advanced Manufacturing,Architecture & Construction,Engineering,Computers & Technology,1
+135,1428275,STEIDINGER KAITLIN,ksteidinger000@student.rcschools.net,Distribution & Logistics,Architecture & Construction,Advanced Manufacturing,Computers & Technology,Arts & Media,Hospitality & Tourism,1
+136,1428277,Aubrey Tanyavong,atanyavong3355@student.rcschools.net,Teaching,Sales & Marketing,Health Science,Computers & Technology,Business,Arts & Media,1
+137,1428278,BROWN AVA,abrown3688@student.rcschools.net,Distribution & Logistics,Advanced Manufacturing,Business,Advanced Manufacturing,Engineering,Arts & Media,1
+138,1428279,BOYD AVERY,aboyd6380@student.rcschools.net,Engineering,Health Science,Computers & Technology,Finance,Engineering,Law & Public Safety,1
+139,1428280,Amiyah Pliskin,apliskin000@student.rcschools.net,Sales & Marketing,Sales & Marketing,Engineering,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
+140,1428281,SINGLETON ANDREW,asingleton8433@student.rcschools.net,Finance,Teaching,Agriculture & Natural Resources,Government & Public Admin,Arts & Media,Human Services,1
+141,1428282,HERMAN JACKSON,jherman8565@student.rcschools.net,Advanced Manufacturing,Distribution & Logistics,Finance,Architecture & Construction,Business,Law & Public Safety,1
+142,1428285,PARKS DAVAUGHN,dparks6028@student.rcschools.net,Health Science,Health Science,Advanced Manufacturing,Agriculture & Natural Resources,Advanced Manufacturing,Architecture & Construction,1
+143,1428286,GIPSON GREYSON,ggipson000@student.rcschools.net,Business,Distribution & Logistics,Advanced Manufacturing,Agriculture & Natural Resources,Computers & Technology,Finance,1
+144,1428289,HARDY DOLFUS,dhardy000@student.rcschools.net,Health Science,Distribution & Logistics,Advanced Manufacturing,Agriculture & Natural Resources,Advanced Manufacturing,Architecture & Construction,1
+145,1428290,WANN SETH,swann7958@student.rcschools.net,Health Science,Distribution & Logistics,Computers & Technology,Finance,Engineering,Computers & Technology,1
+146,1428291,ROBERTS TOREY,troberts000@student.rcschools.net,Business,Teaching,Finance,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
+147,1428292,STEM TEAGEN,tstem3742@student.rcschools.net,Health Science,Distribution & Logistics,Finance,Agriculture & Natural Resources,Advanced Manufacturing,Architecture & Construction,1
+148,1428295,ARMANDO MEDINA,amedina000@student.rcschools.net,Advanced Manufacturing,Sales & Marketing,Architecture & Construction,Agriculture & Natural Resources,Distribution & Logistics,Business,1
+149,1428296,AREVALO-DUBON JORGE,jarevalodubon000@student.rcschools.net,Health Science,Engineering,Finance,Agriculture & Natural Resources,Arts & Media,Human Services,1
+150,1428298,VAUGHN KYNLEE,kvaughn7279@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Arts & Media,Human Services,1
+151,1428299,HALL KAYDENCE,khall002@student.rcschools.net,Teaching,Sales & Marketing,Finance,Arts & Media,Arts & Media,Hospitality & Tourism,1
+152,1428301,KEOPHASOUK RYU,rkeophasouk9029@student.rcschools.net,Engineering,Advanced Manufacturing,Computers & Technology,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
+153,1428302,GOMEZ ANGEL,agomez9246@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
+154,1428303,PRIMUS BROOKLYN,bprimus000@student.rcschools.net,Health Science,Advanced Manufacturing,Agriculture & Natural Resources,Government & Public Admin,Engineering,Agriculture & Natural Resources,1
+155,1431886,BONILLA-MONTOYA NITZY,nbonillamontoya000@student.rcschools.net,Teaching,Teaching,Computers & Technology,Agriculture & Natural Resources,Arts & Media,Human Services,1
+156,1428307,JOHNSON KLOIE,kjohnson707@student.rcschools.net,Computers & Technology,Teaching,Finance,Government & Public Admin,Sales & Marketing,Arts & Media,1
+157,1449300,EDWARDS JONATHAN,jedwards006@student.rcschools.net,Advanced Manufacturing,Teaching,Architecture & Construction,Agriculture & Natural Resources,Arts & Media,Human Services,1
+158,1449301,MARANGE' RILEY,rmarange3705@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Government & Public Admin,Arts & Media,Hospitality & Tourism,1
+159,1428310,TOMAS-VIZUET EVELIN,etomasvizuet000@student.rcschools.net,Business,Teaching,Computers & Technology,Finance,Health Science,Human Services,1
+160,1432920,DAVIS ALEXANDRIA,adavis6084@student.rcschools.net,Business,Teaching,Engineering,Finance,Arts & Media,Human Services,1
+161,1428313,PARKER NYLA,nparker001@student.rcschools.net,Sales & Marketing,Teaching,Health Science,Advanced Manufacturing,Business,Human Services,1
+162,1428319,HERNANDEZ JOSE,jhernandez4746@student.rcschools.net,Distribution & Logistics,Engineering,Advanced Manufacturing,Architecture & Construction,Arts & Media,Human Services,1
+163,1428320,DUNSTON DANIELLE,ddunston000@student.rcschools.net,Teaching,Teaching,Business,Computers & Technology,Health Science,Human Services,1
+164,1428324,JENKINS RYLEE,rjenkins3456@student.rcschools.net,Teaching,Teaching,Business,Computers & Technology,Arts & Media,Human Services,1
+165,1428839,EMMONS AYDEN,aemmons6026@student.rcschools.net,Engineering,Sales & Marketing,Finance,Agriculture & Natural Resources,Finance,Arts & Media,1
+166,1428328,PADILLA ALEXIS,apadilla000@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
+167,1428331,Payton King,pking002@student.rcschools.net,Teaching,Engineering,Arts & Media,Human Services,Arts & Media,Human Services,1
+168,1428332,Jorge Murillo-Hernandez,jmurillohernandez000@student.rcschools.net,Health Science,Distribution & Logistics,Finance,Agriculture & Natural Resources,Architecture & Construction,Agriculture & Natural Resources,1
+169,1428334,KELLIANIS  CRUZ TORRES,kcruztorres000@student.rcschools.net,Health Science,Teaching,Finance,Agriculture & Natural Resources,Health Science,Law & Public Safety,1
+170,1428338,WILLIAMS HUNTER,hwilliams005@student.rcschools.net,Health Science,Teaching,Computers & Technology,Government & Public Admin,Human Services,Law & Public Safety,1
+171,1428339,MCKNIGHT AIDAN,amcknight489@student.rcschools.net,Distribution & Logistics,Distribution & Logistics,Advanced Manufacturing,Architecture & Construction,Advanced Manufacturing,Law & Public Safety,1
+172,1428340,HANCOCK BAILEY,bhancock2887@student.rcschools.net,Health Science,Business,Computers & Technology,Finance,Finance,Law & Public Safety,1
+173,1428341,NELSON EMMA,enelson001@student.rcschools.net,Business,Teaching,Agriculture & Natural Resources,Law & Public Safety,Health Science,Human Services,1
+174,1428342,GIRON CRUZ DAILHENISS,dgironcruz000@student.rcschools.net,Teaching,Teaching,Computers & Technology,Human Services,Human Services,Law & Public Safety,1
+175,1428343,MYLA RITCHIE,mritchie1792@student.rcschools.net,Teaching,Teaching,Advanced Manufacturing,Computers & Technology,Sales & Marketing,Arts & Media,1
+176,1428345,GARCIA JORGE,jgarcia006@student.rcschools.net,Distribution & Logistics,Teaching,Advanced Manufacturing,Architecture & Construction,Health Science,Human Services,1
+177,1428346,Emma Beverly,ebeverly3727@student.rcschools.net,Business,Computers & Technology,Computers & Technology,Finance,Architecture & Construction,Arts & Media,1
+178,1428347,TANYAVONG AUTUMN,atanyavong793@student.rcschools.net,Teaching,Teaching,Computers & Technology,Human Services,Human Services,Law & Public Safety,1
+179,1428348,ZARATE LOPEZ AFRODITA,azaratelopez987@student.rcschools.net,Health Science,Distribution & Logistics,Architecture & Construction,Agriculture & Natural Resources,Business,Agriculture & Natural Resources,1
+180,1428349,MALONE CHEKEYIA,cmalone001@student.rcschools.net,Advanced Manufacturing,Business,Architecture & Construction,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
+181,1428350,CERVANTES FERNANDA,fcervantes000@student.rcschools.net,Advanced Manufacturing,Teaching,Finance,Government & Public Admin,Health Science,Human Services,1
+182,1428351,jordan witherspoon,jwitherspoon001@student.rcschools.net,Health Science,Distribution & Logistics,Computers & Technology,Finance,Architecture & Construction,Agriculture & Natural Resources,1
+183,1428353,ZIER AUBREY,azier000@student.rcschools.net,Teaching,Teaching,Computers & Technology,Human Services,Human Services,Law & Public Safety,1
+184,1428358,TEVARES MCLEMORE,tmclemore000@student.rcschools.net,Distribution & Logistics,Sales & Marketing,Advanced Manufacturing,Architecture & Construction,Distribution & Logistics,Law & Public Safety,1
+185,1428359,Kayden Jones,kjones733@student.rcschools.net,Health Science,Teaching,Business,Agriculture & Natural Resources,Health Science,Human Services,1
+186,1439225,RUCKER SCOTTIE,srucker9093@student.rcschools.net,Health Science,Teaching,Distribution & Logistics,Advanced Manufacturing,Health Science,Human Services,1
+187,1428369,GONZALEZ ZAHIR,zgonzalez000@student.rcschools.net,Advanced Manufacturing,Health Science,Architecture & Construction,Agriculture & Natural Resources,Advanced Manufacturing,Computers & Technology,1
+188,1428377,ORTIZ EMILIO,eortiz001@student.rcschools.net,Advanced Manufacturing,Distribution & Logistics,Architecture & Construction,Agriculture & Natural Resources,Advanced Manufacturing,Architecture & Construction,1
+189,1428381,LLOYD HARLEY,hlloyd7377@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Distribution & Logistics,Law & Public Safety,1
+190,1428382,CAMPBELL WILLIAM,wcampbell001@student.rcschools.net,Agriculture & Natural Resources,Sales & Marketing,Arts & Media,Law & Public Safety,Computers & Technology,Arts & Media,1
+191,1428383,FREDY GRANADOS,fboquin0000@student.rcschools.net,Sales & Marketing,Finance,Advanced Manufacturing,Architecture & Construction,Agriculture & Natural Resources,Law & Public Safety,1
+192,1428384,TEICHMAN SYDNEY,steichman1632@student.rcschools.net,Teaching,Sales & Marketing,Business,Arts & Media,Arts & Media,Law & Public Safety,1
+193,1431970,Patrick Raymond,praymond1467@student.rcschools.net,Engineering,Teaching,Finance,Government & Public Admin,Architecture & Construction,Arts & Media,1
+194,1428387,VANESSA PEREZ RODRIGUEZ,vperez000@student.rcschools.net,Teaching,Teaching,Health Science,Agriculture & Natural Resources,Arts & Media,Human Services,1
+195,1428388,Frederick Mills,fmills000@student.rcschools.net,Computers & Technology,Sales & Marketing,Government & Public Admin,Human Services,Computers & Technology,Law & Public Safety,1
+196,1431973,LORANCE JACOB,jlorance9517@student.rcschools.net,Health Science,Engineering,Computers & Technology,Finance,Arts & Media,Human Services,1
+197,1428390,PETTY STEPHAN,spetty5632@student.rcschools.net,Advanced Manufacturing,Teaching,Agriculture & Natural Resources,Arts & Media,Arts & Media,Human Services,1
+198,1428393,ALEXES NOBLES,anobles000@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Law & Public Safety,Health Science,Human Services,1
+199,1428394,BOLDIN BLAKE,bboldin2080@student.rcschools.net,Engineering,Distribution & Logistics,Finance,Architecture & Construction,Advanced Manufacturing,Architecture & Construction,1
+200,1428395,HATCHER VENNITA,vhatcher1085@student.rcschools.net,Sales & Marketing,Teaching,Finance,Law & Public Safety,Sales & Marketing,Arts & Media,1
+201,1428397,ARMANDO PACHECO,apachaco000@student.rcschools.net,Sales & Marketing,Distribution & Logistics,Agriculture & Natural Resources,Law & Public Safety,Computers & Technology,Law & Public Safety,1
+202,1428399,WADE AALIYAH,awade1408@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Arts & Media,Human Services,Law & Public Safety,1
+203,1428401,ROHEILER AVA,aroheiler000@student.rcschools.net,Health Science,Teaching,Agriculture & Natural Resources,Government & Public Admin,Arts & Media,Human Services,1
+204,1428405,DALTON TRAVIS,tdalton000@student.rcschools.net,Health Science,Distribution & Logistics,Agriculture & Natural Resources,Law & Public Safety,Agriculture & Natural Resources,Law & Public Safety,1
+205,1428408,Nathan Robertson,nrobertson4005@student.rcschools.net,Health Science,Engineering,Finance,Government & Public Admin,Computers & Technology,Arts & Media,1
+206,1430973,VASQUEZ PRETZANTZIN ALEX,avasquezpretz000@student.rcschools.net,Sales & Marketing,Teaching,Health Science,Finance,Health Science,Human Services,1
+207,1429438,JOHN COOK,jcook4832@student.rcschools.net,Health Science,Distribution & Logistics,Finance,Agriculture & Natural Resources,Finance,Law & Public Safety,1
+208,1439845,PARKS OLIVIA,oparks1816@student.rcschools.net,Sales & Marketing,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
+209,1428419,GARCIA DE LA CRUZ KENNY,kgarciadelacruz000@student.rcschools.net,Sales & Marketing,Distribution & Logistics,Health Science,Arts & Media,Agriculture & Natural Resources,Arts & Media,1
+210,1428423,MORGAN HANNAH,hmorgan8416@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Business,Health Science,Human Services,1
+211,1428424,jace stacey,lstacey6712@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Architecture & Construction,Health Science,Human Services,1
+212,1428425,SIMS COHEN,csims000@student.rcschools.net,Health Science,Health Science,Advanced Manufacturing,Computers & Technology,Finance,Law & Public Safety,1
+213,1428426,IVEY COTA,civey000@student.rcschools.net,Advanced Manufacturing,Computers & Technology,Architecture & Construction,Agriculture & Natural Resources,Finance,Arts & Media,1
+214,1428427,MORALES OSCAR,omorales5748@student.rcschools.net,Teaching,Teaching,Finance,Government & Public Admin,Business,Human Services,1
+215,1428428,SHARON GARCIA GARCIA,sgarciagarcia000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Finance,Law & Public Safety,1
+216,1428429,connor moore,mmoore5588@student.rcschools.net,Distribution & Logistics,Distribution & Logistics,Advanced Manufacturing,Architecture & Construction,Advanced Manufacturing,Architecture & Construction,0
+217,1428431,ALLEN CARLOS,callen000@student.rcschools.net,Finance,Business,Agriculture & Natural Resources,Law & Public Safety,Human Services,Law & Public Safety,1
+218,1428432,GONZALEZ EZEKIEL,egonzalez6029@student.rcschools.net,Teaching,Sales & Marketing,Computers & Technology,Arts & Media,Arts & Media,Hospitality & Tourism,1
+219,1428434,WILLIAMSON JEFFREY,jwilliamson525@student.rcschools.net,Health Science,Teaching,Advanced Manufacturing,Agriculture & Natural Resources,Health Science,Law & Public Safety,1
+220,1428436,Juan Vergara Ramirez,jvergararamirez000@student.rcschools.net,Health Science,Sales & Marketing,Advanced Manufacturing,Agriculture & Natural Resources,Distribution & Logistics,Agriculture & Natural Resources,1
+221,1428437,BRADLEY KMAIYA,kbradley001@student.rcschools.net,Sales & Marketing,Teaching,Finance,Agriculture & Natural Resources,Health Science,Engineering,1
+222,1428440,Faith Kelliher,fkelliher000@student.rcschools.net,Distribution & Logistics,Sales & Marketing,Advanced Manufacturing,Architecture & Construction,Arts & Media,Hospitality & Tourism,1
+223,1428953,DAVIDSON DEMARION,ddavidson000@student.rcschools.net,Health Science,Sales & Marketing,Finance,Agriculture & Natural Resources,Arts & Media,Hospitality & Tourism,1
+224,1437656,SIMMONS MICHAEL,msimmons002@student.rcschools.net,Teaching,Teaching,Finance,Human Services,Sales & Marketing,Arts & Media,1
+225,1428445,WELLMAN CHARLES,cwellman000@student.rcschools.net,Advanced Manufacturing,Sales & Marketing,Engineering,Computers & Technology,Business,Arts & Media,1
+226,1428447,JOSE  SOLIS PENA,jsolispena000@student.rcschools.net,Health Science,Distribution & Logistics,Advanced Manufacturing,Architecture & Construction,Architecture & Construction,Law & Public Safety,1
+227,1428449,RODRIGUEZ DUBON EDGAR,erodriguezdubon000@student.rcschools.net,Health Science,Engineering,Finance,Agriculture & Natural Resources,Architecture & Construction,Arts & Media,1
+228,1428450,BRANOM ASHLEY,abranom001@student.rcschools.net,Distribution & Logistics,Teaching,Advanced Manufacturing,Law & Public Safety,Health Science,Law & Public Safety,1
+229,1428451,FLORES CARLOS,cflores000@student.rcschools.net,Business,Engineering,Advanced Manufacturing,Engineering,Computers & Technology,Agriculture & Natural Resources,1
+230,1428454,PROPST ANIYA,apropst000@student.rcschools.net,Teaching,Teaching,Sales & Marketing,Finance,Arts & Media,Human Services,1
+231,1428455,HOWSE LA'VONTEZ,lhowse001@student.rcschools.net,Teaching,Engineering,Health Science,Computers & Technology,Agriculture & Natural Resources,Law & Public Safety,1
+232,1430505,FLACK MIRANDA,mflack000@student.rcschools.net,Advanced Manufacturing,Teaching,Engineering,Computers & Technology,Sales & Marketing,Arts & Media,1
+233,1428463,KHWAGA ISAIAH,ikhwaga000@student.rcschools.net,Health Science,Engineering,Advanced Manufacturing,Government & Public Admin,Architecture & Construction,Arts & Media,1
+234,1428466,CHAVARRIA KAYDEN,kchavarria000@student.rcschools.net,Advanced Manufacturing,Sales & Marketing,Computers & Technology,Government & Public Admin,Arts & Media,Law & Public Safety,1
+235,1428468,Pedro Ramirez Perez,pramirezperez5592@student.rcschools.net,Business,Distribution & Logistics,Advanced Manufacturing,Government & Public Admin,Advanced Manufacturing,Architecture & Construction,1
+236,1428469,Danilynn Mahon,dmahonodeneal000@student.rcschools.net,Advanced Manufacturing,Teaching,Finance,Architecture & Construction,Human Services,Law & Public Safety,1
+237,1428470,DEGENNARO AUDREY,adegennaro000@student.rcschools.net,Teaching,Health Science,Business,Computers & Technology,Engineering,Agriculture & Natural Resources,1
+238,1428472,HOFSTADTER ZOE,zhofstadter000@student.rcschools.net,Teaching,Teaching,Computers & Technology,Arts & Media,Arts & Media,Human Services,1
+239,1428473,AAJAYLAH DOWELL,adowell003@student.rcschools.net,Health Science,Sales & Marketing,Distribution & Logistics,Advanced Manufacturing,Business,Arts & Media,1
+240,1428474,WOODS EMMA,ewoods2049@student.rcschools.net,Engineering,Teaching,Finance,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
+241,1428475,BROWN CORBYRIAN,cbrown000@student.rcschools.net,Advanced Manufacturing,Teaching,Architecture & Construction,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
+242,1428476,NORTH JAELYN,jnorth5048@student.rcschools.net,Teaching,Computers & Technology,Advanced Manufacturing,Arts & Media,Agriculture & Natural Resources,Arts & Media,1
+243,1428477,Allyssa Evans,aevans1458@student.rcschools.net,Business,Business,Computers & Technology,Agriculture & Natural Resources,Human Services,Law & Public Safety,1
+244,Missing 0,BIMN ABRAHIM,babrahim000@student.rcschools.net,0,0,0,0,0,0,0
+245,Missing 1,BRANDON ADAMS,badams001@student.rcschools.net,0,0,0,0,0,0,0
+246,Missing 2,JONAS AGUILERA,jaguilera000@student.rcschools.net,0,0,0,0,0,0,0
+247,Missing 3,JESUS ALARCON,ajesus000@student.rcschools.net,0,0,0,0,0,0,0
+248,Missing 4,RI'ANNA ALLEN,rallen001@student.rcschools.net,0,0,0,0,0,0,0
+249,Missing 5,ALYSSAH ASEMEBO,aasemebo000@student.rcschools.net,0,0,0,0,0,0,0
+250,Missing 6,CHANIYAH BAKER,cbakercompean000@student.rcschools.net,0,0,0,0,0,0,0
+251,Missing 7,FYNAL BARNES,fbarnes000@student.rcschools.net,0,0,0,0,0,0,0
+252,Missing 8,WILLIE BOGLE,wbogle4406@student.rcschools.net,0,0,0,0,0,0,0
+253,Missing 9,NOE' BOLAINES,nbolainesorellana000@student.rcschools.net,0,0,0,0,0,0,0
+254,Missing 10,SARAI BOWEN,sbowen000@student.rcschools.net,0,0,0,0,0,0,0
+255,Missing 11,BRAXTON BROMLEY,bbromley000@student.rcschools.net,0,0,0,0,0,0,0
+256,Missing 12,LEVOUR BROWN,lbrown003@student.rcschools.net,0,0,0,0,0,0,0
+257,Missing 13,PHOENIX CARL,pcarl000@student.rcschools.net,0,0,0,0,0,0,0
+258,Missing 14,SOFIA CASILLAS,scasillas000@student.rcschools.net,0,0,0,0,0,0,0
+259,Missing 15,MELANIE CHAVEZ,mchavez000@student.rcschools.net,0,0,0,0,0,0,0
+260,Missing 16,RYLAN CHEW,rchew2585@student.rcschools.net,0,0,0,0,0,0,0
+261,Missing 17,KAYLEE COLWELL,kcolwell000@student.rcschools.net,0,0,0,0,0,0,0
+262,Missing 18,KAITLYN COOLEY,kcooley000@student.rcschools.net,0,0,0,0,0,0,0
+263,Missing 19,SHYAM CRUZ,scruz002@student.rcschools.net,0,0,0,0,0,0,0
+264,Missing 20,SEMAJ DAVIS,sdavis002@student.rcschools.net,0,0,0,0,0,0,0
+265,Missing 21,ABIGAIL DEMPSEY,adempsey5867@student.rcschools.net,0,0,0,0,0,0,0
+266,Missing 22,CHRISTIAN DEWITT,cdewitt000@student.rcschools.net,0,0,0,0,0,0,0
+267,Missing 23,JAIDEN DICKSON,jdickson001@student.rcschools.net,0,0,0,0,0,0,0
+268,Missing 24,LEROY FINCH,lfinch9368@student.rcschools.net,0,0,0,0,0,0,0
+269,Missing 25,BROCK FRAZER,bfrazer4200@student.rcschools.net,0,0,0,0,0,0,0
+270,Missing 26,LEONEL GUZMAN,lguzman000@student.rcschools.net,0,0,0,0,0,0,0
+271,Missing 27,BRYCE HAMMONS,bhammons000@student.rcschools.net,0,0,0,0,0,0,0
+272,Missing 28,AMYRAH HOLLOWAY,aholloway000@student.rcschools.net,0,0,0,0,0,0,0
+273,Missing 29,AMIYAH JACKSON,ajackson012@student.rcschools.net,0,0,0,0,0,0,0
+274,Missing 30,KATELYNN JONES,kjones020@student.rcschools.net,0,0,0,0,0,0,0
+275,Missing 31,RIMARI JONES,rjones004@student.rcschools.net,0,0,0,0,0,0,0
+276,Missing 32,GO KIM,gkim000@student.rcschools.net,0,0,0,0,0,0,0
+277,Missing 33,KARLEIGH KING,kking005@student.rcschools.net,0,0,0,0,0,0,0
+278,Missing 34,TANNER KINNARD,tkinnard000@student.rcschools.net,0,0,0,0,0,0,0
+279,Missing 35,KILEY KRISLE,ktudors9230@student.rcschools.net,0,0,0,0,0,0,0
+280,Missing 36,CECILIA LANE,clane003@student.rcschools.net,0,0,0,0,0,0,0
+281,Missing 37,OSCAR LEIJA,oleija000@student.rcschools.net,0,0,0,0,0,0,0
+282,Missing 38,JORDIN LEIVA,jleivaherrera000@student.rcschools.net,0,0,0,0,0,0,0
+283,Missing 39,INTHAWA LEUTPHOVA,ileutphova1093@student.rcschools.net,0,0,0,0,0,0,0
+284,Missing 40,QUASHAUD LOCKE,qlocke000@student.rcschools.net,0,0,0,0,0,0,0
+285,Missing 41,ADILYN MACK,amack001@student.rcschools.net,0,0,0,0,0,0,0
+286,Missing 42,BAILEY MACNEILL,bmacneill000@student.rcschools.net,0,0,0,0,0,0,0
+287,Missing 43,MAUREEN MARROQUIN,mmarroquin000@student.rcschools.net,0,0,0,0,0,0,0
+288,Missing 44,JASMINE MARTINEZ,jmartinezmorales000@student.rcschools.net,0,0,0,0,0,0,0
+289,Missing 45,JORDAN MELANSON,jmelanson000@student.rcschools.net,0,0,0,0,0,0,0
+290,Missing 46,ALDO MENCHU,amenchuyax000@student.rcschools.net,0,0,0,0,0,0,0
+291,Missing 47,KEMYA MITCHELL,kmitchell000@student.rcschools.net,0,0,0,0,0,0,0
+292,Missing 48,NOAH MURRAY,nmurray4543@student.rcschools.net,0,0,0,0,0,0,0
+293,Missing 49,MAKAYLA OWERS,mowers000@student.rcschools.net,0,0,0,0,0,0,0
+294,Missing 50,EVAN PORTER,eporter1765@student.rcschools.net,0,0,0,0,0,0,0
+295,Missing 51,TALIYAH RICE,trice000@student.rcschools.net,0,0,0,0,0,0,0
+296,Missing 52,MYA ROBINSON,mrobinson005@student.rcschools.net,0,0,0,0,0,0,0
+297,Missing 53,XION ROBINSON,xrobinson000@student.rcschools.net,0,0,0,0,0,0,0
+298,Missing 54,MADDOX RUHL,mruhl000@student.rcschools.net,0,0,0,0,0,0,0
+299,Missing 55,KELSIE SHEPPARD,ksheppard000@student.rcschools.net,0,0,0,0,0,0,0
+300,Missing 56,MA'NITRY SIMMONS,msimmons003@student.rcschools.net,0,0,0,0,0,0,0
+301,Missing 57,TE'ANDRE SMITH,tsmith009@student.rcschools.net,0,0,0,0,0,0,0
+302,Missing 58,BRANDEN SMOTHERMAN,bsmotherman001@student.rcschools.net,0,0,0,0,0,0,0
+303,Missing 59,MICHEAL STEELE,msteele000@student.rcschools.net,0,0,0,0,0,0,0
+304,Missing 60,ALEXIS THOMASON,athomason474@student.rcschools.net,0,0,0,0,0,0,0
+305,Missing 61,VALERIA TREJO,vtrejoaltamirano000@student.rcschools.net,0,0,0,0,0,0,0
+306,Missing 62,CHLOE TRUELOVE,ctruelove4895@student.rcschools.net,0,0,0,0,0,0,0
+307,Missing 63,GIOVANNI UTRERA,gutreranolasco000@student.rcschools.net,0,0,0,0,0,0,0
+308,Missing 64,JAMES WARD,jward001@student.rcschools.net,0,0,0,0,0,0,0
+309,Missing 65,HEAVEN WASSEL,hwassel1170@student.rcschools.net,0,0,0,0,0,0,0
+310,Missing 66,TIA WATKINS,twatkins000@student.rcschools.net,0,0,0,0,0,0,0
+311,Missing 67,QUENTIN WHIPPLE,qwhipple6502@student.rcschools.net,0,0,0,0,0,0,0
+312,Missing 68,ALEX WILSON,awilson1532@student.rcschools.net,0,0,0,0,0,0,0
+313,Missing 69,JAMIN WITHERSPOON,jwitherspoon000@student.rcschools.net,0,0,0,0,0,0,0
+314,Missing 70,DYLAN WYMER,dwymer000@student.rcschools.net,0,0,0,0,0,0,0
+315,Missing 71,NORBIS YAJURE,nyajurereyes001@student.rcschools.net,0,0,0,0,0,0,0
+316,Missing 72,ELI YOUNG,eyoung9235@student.rcschools.net,0,0,0,0,0,0,0
+317,Empty 0,Open 1,Open 1,0,0,0,0,0,0,0
+318,Empty 1,Open 2,Open 2,0,0,0,0,0,0,0
+319,Empty 2,Open 3,Open 3,0,0,0,0,0,0,0
+320,Empty 3,Open 4,Open 4,0,0,0,0,0,0,0
+321,Empty 4,Open 5,Open 5,0,0,0,0,0,0,0
