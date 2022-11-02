@@ -1,0 +1,497 @@
+fill_status: Oakland Middle School, Sport & Human Performance B1 filled.
+fill_status: Oakland Middle School, Veterinary & Animal Science B1 filled.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Horticulture Sciences, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Horticulture Sciences, Second choice demand met
+fill_status: Oakland Middle School, 20 of 35 students assigned to Horticulture Sciences, Third choice demand met
+fill_status: Oakland Middle School, Horticulture Sciences B1 filled.
+fill_status: Oakland Middle School, 2 of 35 students assigned to Audio Visual Production, First choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to Audio Visual Production, Second choice demand met
+fill_status: Oakland Middle School, 9 of 35 students assigned to Audio Visual Production, Third choice demand met
+fill_status: Oakland Middle School, 28 of 35 students assigned to Audio Visual Production, Fourth choice demand met
+fill_status: Oakland Middle School, Audio Visual Production B1 filled.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Digital Arts & Design, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Digital Arts & Design, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Digital Arts & Design, Third choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Digital Arts & Design, Fourth choice demand met
+fill_status: Oakland Middle School, Digital Arts & Design B1 filled.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Criminal Justice & Correction Services, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Criminal Justice & Correction Services, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Criminal Justice & Correction Services, Third choice demand met
+fill_status: Oakland Middle School, 9 of 35 students assigned to Criminal Justice & Correction Services, Fourth choice demand met
+fill_status: Oakland Middle School, 9 of 35 students assigned to Criminal Justice & Correction Services, Fifth choice demand met
+fill_status: Oakland Middle School, Criminal Justice & Correction Services B1 filled.
+fill_status: Oakland Middle School, 7 of 35 students assigned to Cybersecurity, First choice demand met
+fill_status: Oakland Middle School, 8 of 35 students assigned to Cybersecurity, Second choice demand met
+fill_status: Oakland Middle School, 25 of 35 students assigned to Cybersecurity, Third choice demand met
+fill_status: Oakland Middle School, Cybersecurity B1 filled.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Coding, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Coding, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Coding, Third choice demand met
+fill_status: Oakland Middle School, 12 of 35 students assigned to Coding, Fourth choice demand met
+fill_status: Oakland Middle School, 19 of 35 students assigned to Coding, Fifth choice demand met
+fill_status: Oakland Middle School, 22 of 35 students assigned to Coding, Sixth choice demand met
+fill_status: Oakland Middle School, 22 students assigned to Coding, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Human Services, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Human Services, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Human Services, Third choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Human Services, Fourth choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to Human Services, Fifth choice demand met
+fill_status: Oakland Middle School, 10 of 35 students assigned to Human Services, Sixth choice demand met
+fill_status: Oakland Middle School, 10 students assigned to Human Services, All choices examined.
+fill_status: Oakland Middle School, 9 of 35 students assigned to Marketing Management, First choice demand met
+fill_status: Oakland Middle School, 14 of 35 students assigned to Marketing Management, Second choice demand met
+fill_status: Oakland Middle School, 15 of 35 students assigned to Marketing Management, Third choice demand met
+fill_status: Oakland Middle School, 15 of 35 students assigned to Marketing Management, Fourth choice demand met
+fill_status: Oakland Middle School, 19 of 35 students assigned to Marketing Management, Fifth choice demand met
+fill_status: Oakland Middle School, 19 of 35 students assigned to Marketing Management, Sixth choice demand met
+fill_status: Oakland Middle School, 19 students assigned to Marketing Management, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Banking & Finance, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Banking & Finance, Second choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to Banking & Finance, Third choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to Banking & Finance, Fourth choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to Banking & Finance, Fifth choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to Banking & Finance, Sixth choice demand met
+fill_status: Oakland Middle School, 3 students assigned to Banking & Finance, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to STEM Engineering, First choice demand met
+fill_status: Oakland Middle School, 1 of 35 students assigned to STEM Engineering, Second choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to STEM Engineering, Third choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to STEM Engineering, Fourth choice demand met
+fill_status: Oakland Middle School, 5 of 35 students assigned to STEM Engineering, Fifth choice demand met
+fill_status: Oakland Middle School, 5 of 35 students assigned to STEM Engineering, Sixth choice demand met
+fill_status: Oakland Middle School, 5 students assigned to STEM Engineering, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Business Management, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Business Management, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Business Management, Third choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Business Management, Fourth choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Business Management, Fifth choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Business Management, Sixth choice demand met
+fill_status: Oakland Middle School, 0 students assigned to Business Management, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, Third choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, Fourth choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, Fifth choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, Sixth choice demand met
+fill_status: Oakland Middle School, 0 students assigned to Culinary Arts, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Third choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Fourth choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Fifth choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Sixth choice demand met
+fill_status: Oakland Middle School, 0 students assigned to Leadership in Government, All choices examined.
+B1_Status
+B1_Status: Sport & Human Performance, 50
+B1_Status: Veterinary & Animal Science, 35
+B1_Status: Horticulture Sciences, 35
+B1_Status: Audio Visual Production, 35
+B1_Status: Digital Arts & Design, 35
+B1_Status: Criminal Justice & Correction Services, 35
+B1_Status: Cybersecurity, 35
+B1_Status: Coding, 22
+B1_Status: Human Services, 10
+B1_Status: Marketing Management, 19
+B1_Status: Banking & Finance, 3
+B1_Status: STEM Engineering, 5
+B1_Status: Business Management, 0
+B1_Status: Culinary Arts, 0
+B1_Status: Leadership in Government, 0
+B1_Status: 319/420
+B1_Status
+B1_Status: Sport & Human Performance, 50
+B1_Status: Veterinary & Animal Science, 35
+B1_Status: Horticulture Sciences, 35
+B1_Status: Audio Visual Production, 35
+B1_Status: Digital Arts & Design, 35
+B1_Status: Criminal Justice & Correction Services, 35
+B1_Status: Cybersecurity, 35
+B1_Status: Coding, 22
+B1_Status: Human Services, 20
+B1_Status: Marketing Management, 20
+B1_Status: Banking & Finance, 20
+B1_Status: STEM Engineering, 20
+B1_Status: Business Management, 20
+B1_Status: Culinary Arts, 19
+B1_Status: Leadership in Government, 19
+B1_Status: 420/420
+fill_status: Oakland Middle School, Sport & Human Performance B2 filled.
+fill_status: Oakland Middle School, Veterinary & Animal Science B2 filled.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Horticulture Sciences, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Horticulture Sciences, Second choice demand met
+fill_status: Oakland Middle School, 10 of 35 students assigned to Horticulture Sciences, Third choice demand met
+fill_status: Oakland Middle School, Horticulture Sciences B2 filled.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Audio Visual Production, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Audio Visual Production, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Audio Visual Production, Third choice demand met
+fill_status: Oakland Middle School, 4 of 35 students assigned to Audio Visual Production, Fourth choice demand met
+fill_status: Oakland Middle School, Audio Visual Production B2 filled.
+fill_status: Oakland Middle School, 2 of 35 students assigned to Digital Arts & Design, First choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to Digital Arts & Design, Second choice demand met
+fill_status: Oakland Middle School, 9 of 35 students assigned to Digital Arts & Design, Third choice demand met
+fill_status: Oakland Middle School, 28 of 35 students assigned to Digital Arts & Design, Fourth choice demand met
+fill_status: Oakland Middle School, Digital Arts & Design B2 filled.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Criminal Justice & Correction Services, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Criminal Justice & Correction Services, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Criminal Justice & Correction Services, Third choice demand met
+fill_status: Oakland Middle School, 7 of 35 students assigned to Criminal Justice & Correction Services, Fourth choice demand met
+fill_status: Oakland Middle School, 7 of 35 students assigned to Criminal Justice & Correction Services, Fifth choice demand met
+fill_status: Oakland Middle School, 29 of 35 students assigned to Criminal Justice & Correction Services, Sixth choice demand met
+fill_status: Oakland Middle School, 29 students assigned to Criminal Justice & Correction Services, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Cybersecurity, First choice demand met
+fill_status: Oakland Middle School, 1 of 35 students assigned to Cybersecurity, Second choice demand met
+fill_status: Oakland Middle School, 8 of 35 students assigned to Cybersecurity, Third choice demand met
+fill_status: Oakland Middle School, 19 of 35 students assigned to Cybersecurity, Fourth choice demand met
+fill_status: Oakland Middle School, 23 of 35 students assigned to Cybersecurity, Fifth choice demand met
+fill_status: Oakland Middle School, 26 of 35 students assigned to Cybersecurity, Sixth choice demand met
+fill_status: Oakland Middle School, 26 students assigned to Cybersecurity, All choices examined.
+fill_status: Oakland Middle School, 6 of 35 students assigned to Coding, First choice demand met
+fill_status: Oakland Middle School, 7 of 35 students assigned to Coding, Second choice demand met
+fill_status: Oakland Middle School, 14 of 35 students assigned to Coding, Third choice demand met
+fill_status: Oakland Middle School, 23 of 35 students assigned to Coding, Fourth choice demand met
+fill_status: Oakland Middle School, 23 of 35 students assigned to Coding, Fifth choice demand met
+fill_status: Oakland Middle School, 23 of 35 students assigned to Coding, Sixth choice demand met
+fill_status: Oakland Middle School, 23 students assigned to Coding, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Human Services, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Human Services, Second choice demand met
+fill_status: Oakland Middle School, 1 of 35 students assigned to Human Services, Third choice demand met
+fill_status: Oakland Middle School, 1 of 35 students assigned to Human Services, Fourth choice demand met
+fill_status: Oakland Middle School, 7 of 35 students assigned to Human Services, Fifth choice demand met
+fill_status: Oakland Middle School, 8 of 35 students assigned to Human Services, Sixth choice demand met
+fill_status: Oakland Middle School, 8 students assigned to Human Services, All choices examined.
+fill_status: Oakland Middle School, 7 of 35 students assigned to Marketing Management, First choice demand met
+fill_status: Oakland Middle School, 14 of 35 students assigned to Marketing Management, Second choice demand met
+fill_status: Oakland Middle School, 14 of 35 students assigned to Marketing Management, Third choice demand met
+fill_status: Oakland Middle School, 14 of 35 students assigned to Marketing Management, Fourth choice demand met
+fill_status: Oakland Middle School, 14 of 35 students assigned to Marketing Management, Fifth choice demand met
+fill_status: Oakland Middle School, 14 of 35 students assigned to Marketing Management, Sixth choice demand met
+fill_status: Oakland Middle School, 14 students assigned to Marketing Management, All choices examined.
+fill_status: Oakland Middle School, 1 of 35 students assigned to Banking & Finance, First choice demand met
+fill_status: Oakland Middle School, 1 of 35 students assigned to Banking & Finance, Second choice demand met
+fill_status: Oakland Middle School, 8 of 35 students assigned to Banking & Finance, Third choice demand met
+fill_status: Oakland Middle School, 12 of 35 students assigned to Banking & Finance, Fourth choice demand met
+fill_status: Oakland Middle School, 13 of 35 students assigned to Banking & Finance, Fifth choice demand met
+fill_status: Oakland Middle School, 14 of 35 students assigned to Banking & Finance, Sixth choice demand met
+fill_status: Oakland Middle School, 14 students assigned to Banking & Finance, All choices examined.
+fill_status: Oakland Middle School, 1 of 35 students assigned to STEM Engineering, First choice demand met
+fill_status: Oakland Middle School, 2 of 35 students assigned to STEM Engineering, Second choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to STEM Engineering, Third choice demand met
+fill_status: Oakland Middle School, 5 of 35 students assigned to STEM Engineering, Fourth choice demand met
+fill_status: Oakland Middle School, 5 of 35 students assigned to STEM Engineering, Fifth choice demand met
+fill_status: Oakland Middle School, 5 of 35 students assigned to STEM Engineering, Sixth choice demand met
+fill_status: Oakland Middle School, 5 students assigned to STEM Engineering, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Business Management, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Business Management, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Business Management, Third choice demand met
+fill_status: Oakland Middle School, 1 of 35 students assigned to Business Management, Fourth choice demand met
+fill_status: Oakland Middle School, 1 of 35 students assigned to Business Management, Fifth choice demand met
+fill_status: Oakland Middle School, 2 of 35 students assigned to Business Management, Sixth choice demand met
+fill_status: Oakland Middle School, 2 students assigned to Business Management, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, Third choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, Fourth choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, Fifth choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, Sixth choice demand met
+fill_status: Oakland Middle School, 0 students assigned to Culinary Arts, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Third choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Fourth choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Fifth choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Sixth choice demand met
+fill_status: Oakland Middle School, 0 students assigned to Leadership in Government, All choices examined.
+B2_Status
+B2_Status: Sport & Human Performance, 50
+B2_Status: Veterinary & Animal Science, 35
+B2_Status: Horticulture Sciences, 35
+B2_Status: Audio Visual Production, 35
+B2_Status: Digital Arts & Design, 35
+B2_Status: Criminal Justice & Correction Services, 29
+B2_Status: Cybersecurity, 26
+B2_Status: Coding, 23
+B2_Status: Human Services, 8
+B2_Status: Marketing Management, 14
+B2_Status: Banking & Finance, 14
+B2_Status: STEM Engineering, 5
+B2_Status: Business Management, 2
+B2_Status: Culinary Arts, 0
+B2_Status: Leadership in Government, 0
+B2_Status: 311/420
+B2_Status
+B2_Status: Sport & Human Performance, 50
+B2_Status: Veterinary & Animal Science, 35
+B2_Status: Horticulture Sciences, 35
+B2_Status: Audio Visual Production, 35
+B2_Status: Digital Arts & Design, 35
+B2_Status: Criminal Justice & Correction Services, 29
+B2_Status: Cybersecurity, 26
+B2_Status: Coding, 23
+B2_Status: Human Services, 22
+B2_Status: Marketing Management, 22
+B2_Status: Banking & Finance, 22
+B2_Status: STEM Engineering, 22
+B2_Status: Business Management, 22
+B2_Status: Culinary Arts, 21
+B2_Status: Leadership in Government, 21
+B2_Status: 420/420
+fill_status: Oakland Middle School, 26 of 50 students assigned to Sport & Human Performance, First choice demand met
+fill_status: Oakland Middle School, 35 of 50 students assigned to Sport & Human Performance, Second choice demand met
+fill_status: Oakland Middle School, 49 of 50 students assigned to Sport & Human Performance, Third choice demand met
+fill_status: Oakland Middle School, 49 of 50 students assigned to Sport & Human Performance, Fourth choice demand met
+fill_status: Oakland Middle School, Sport & Human Performance B3 filled.
+fill_status: Oakland Middle School, Veterinary & Animal Science B3 filled.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Horticulture Sciences, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Horticulture Sciences, Second choice demand met
+fill_status: Oakland Middle School, 6 of 35 students assigned to Horticulture Sciences, Third choice demand met
+fill_status: Oakland Middle School, Horticulture Sciences B3 filled.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Audio Visual Production, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Audio Visual Production, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Audio Visual Production, Third choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Audio Visual Production, Fourth choice demand met
+fill_status: Oakland Middle School, 14 of 35 students assigned to Audio Visual Production, Fifth choice demand met
+fill_status: Oakland Middle School, Audio Visual Production B3 filled.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Digital Arts & Design, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Digital Arts & Design, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Digital Arts & Design, Third choice demand met
+fill_status: Oakland Middle School, 4 of 35 students assigned to Digital Arts & Design, Fourth choice demand met
+fill_status: Oakland Middle School, 10 of 35 students assigned to Digital Arts & Design, Fifth choice demand met
+fill_status: Oakland Middle School, 13 of 35 students assigned to Digital Arts & Design, Sixth choice demand met
+fill_status: Oakland Middle School, 13 students assigned to Digital Arts & Design, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Criminal Justice & Correction Services, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Criminal Justice & Correction Services, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Criminal Justice & Correction Services, Third choice demand met
+fill_status: Oakland Middle School, 9 of 35 students assigned to Criminal Justice & Correction Services, Fourth choice demand met
+fill_status: Oakland Middle School, 9 of 35 students assigned to Criminal Justice & Correction Services, Fifth choice demand met
+fill_status: Oakland Middle School, 30 of 35 students assigned to Criminal Justice & Correction Services, Sixth choice demand met
+fill_status: Oakland Middle School, 30 students assigned to Criminal Justice & Correction Services, All choices examined.
+fill_status: Oakland Middle School, 3 of 35 students assigned to Cybersecurity, First choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to Cybersecurity, Second choice demand met
+fill_status: Oakland Middle School, 15 of 35 students assigned to Cybersecurity, Third choice demand met
+fill_status: Oakland Middle School, 26 of 35 students assigned to Cybersecurity, Fourth choice demand met
+fill_status: Oakland Middle School, 31 of 35 students assigned to Cybersecurity, Fifth choice demand met
+fill_status: Oakland Middle School, 32 of 35 students assigned to Cybersecurity, Sixth choice demand met
+fill_status: Oakland Middle School, 32 students assigned to Cybersecurity, All choices examined.
+fill_status: Oakland Middle School, 1 of 35 students assigned to Coding, First choice demand met
+fill_status: Oakland Middle School, 2 of 35 students assigned to Coding, Second choice demand met
+fill_status: Oakland Middle School, 10 of 35 students assigned to Coding, Third choice demand met
+fill_status: Oakland Middle School, 12 of 35 students assigned to Coding, Fourth choice demand met
+fill_status: Oakland Middle School, 12 of 35 students assigned to Coding, Fifth choice demand met
+fill_status: Oakland Middle School, 12 of 35 students assigned to Coding, Sixth choice demand met
+fill_status: Oakland Middle School, 12 students assigned to Coding, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Human Services, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Human Services, Second choice demand met
+fill_status: Oakland Middle School, 2 of 35 students assigned to Human Services, Third choice demand met
+fill_status: Oakland Middle School, 11 of 35 students assigned to Human Services, Fourth choice demand met
+fill_status: Oakland Middle School, 14 of 35 students assigned to Human Services, Fifth choice demand met
+fill_status: Oakland Middle School, 26 of 35 students assigned to Human Services, Sixth choice demand met
+fill_status: Oakland Middle School, 26 students assigned to Human Services, All choices examined.
+fill_status: Oakland Middle School, 3 of 35 students assigned to Marketing Management, First choice demand met
+fill_status: Oakland Middle School, 4 of 35 students assigned to Marketing Management, Second choice demand met
+fill_status: Oakland Middle School, 7 of 35 students assigned to Marketing Management, Third choice demand met
+fill_status: Oakland Middle School, 7 of 35 students assigned to Marketing Management, Fourth choice demand met
+fill_status: Oakland Middle School, 9 of 35 students assigned to Marketing Management, Fifth choice demand met
+fill_status: Oakland Middle School, 9 of 35 students assigned to Marketing Management, Sixth choice demand met
+fill_status: Oakland Middle School, 9 students assigned to Marketing Management, All choices examined.
+fill_status: Oakland Middle School, 2 of 35 students assigned to Banking & Finance, First choice demand met
+fill_status: Oakland Middle School, 2 of 35 students assigned to Banking & Finance, Second choice demand met
+fill_status: Oakland Middle School, 9 of 35 students assigned to Banking & Finance, Third choice demand met
+fill_status: Oakland Middle School, 10 of 35 students assigned to Banking & Finance, Fourth choice demand met
+fill_status: Oakland Middle School, 10 of 35 students assigned to Banking & Finance, Fifth choice demand met
+fill_status: Oakland Middle School, 10 of 35 students assigned to Banking & Finance, Sixth choice demand met
+fill_status: Oakland Middle School, 10 students assigned to Banking & Finance, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to STEM Engineering, First choice demand met
+fill_status: Oakland Middle School, 1 of 35 students assigned to STEM Engineering, Second choice demand met
+fill_status: Oakland Middle School, 5 of 35 students assigned to STEM Engineering, Third choice demand met
+fill_status: Oakland Middle School, 6 of 35 students assigned to STEM Engineering, Fourth choice demand met
+fill_status: Oakland Middle School, 7 of 35 students assigned to STEM Engineering, Fifth choice demand met
+fill_status: Oakland Middle School, 7 of 35 students assigned to STEM Engineering, Sixth choice demand met
+fill_status: Oakland Middle School, 7 students assigned to STEM Engineering, All choices examined.
+fill_status: Oakland Middle School, 4 of 35 students assigned to Business Management, First choice demand met
+fill_status: Oakland Middle School, 4 of 35 students assigned to Business Management, Second choice demand met
+fill_status: Oakland Middle School, 5 of 35 students assigned to Business Management, Third choice demand met
+fill_status: Oakland Middle School, 5 of 35 students assigned to Business Management, Fourth choice demand met
+fill_status: Oakland Middle School, 7 of 35 students assigned to Business Management, Fifth choice demand met
+fill_status: Oakland Middle School, 7 of 35 students assigned to Business Management, Sixth choice demand met
+fill_status: Oakland Middle School, 7 students assigned to Business Management, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, Third choice demand met
+fill_status: Oakland Middle School, 1 of 35 students assigned to Culinary Arts, Fourth choice demand met
+fill_status: Oakland Middle School, 1 of 35 students assigned to Culinary Arts, Fifth choice demand met
+fill_status: Oakland Middle School, 1 of 35 students assigned to Culinary Arts, Sixth choice demand met
+fill_status: Oakland Middle School, 1 students assigned to Culinary Arts, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Third choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Fourth choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Fifth choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Sixth choice demand met
+fill_status: Oakland Middle School, 0 students assigned to Leadership in Government, All choices examined.
+B3_Status
+B3_Status: Sport & Human Performance, 50
+B3_Status: Veterinary & Animal Science, 35
+B3_Status: Horticulture Sciences, 35
+B3_Status: Audio Visual Production, 35
+B3_Status: Digital Arts & Design, 13
+B3_Status: Criminal Justice & Correction Services, 30
+B3_Status: Cybersecurity, 32
+B3_Status: Coding, 12
+B3_Status: Human Services, 26
+B3_Status: Marketing Management, 9
+B3_Status: Banking & Finance, 10
+B3_Status: STEM Engineering, 7
+B3_Status: Business Management, 7
+B3_Status: Culinary Arts, 1
+B3_Status: Leadership in Government, 0
+B3_Status: 302/420
+B3_Status
+B3_Status: Sport & Human Performance, 50
+B3_Status: Veterinary & Animal Science, 35
+B3_Status: Horticulture Sciences, 35
+B3_Status: Audio Visual Production, 35
+B3_Status: Digital Arts & Design, 23
+B3_Status: Criminal Justice & Correction Services, 30
+B3_Status: Cybersecurity, 32
+B3_Status: Coding, 22
+B3_Status: Human Services, 26
+B3_Status: Marketing Management, 22
+B3_Status: Banking & Finance, 22
+B3_Status: STEM Engineering, 22
+B3_Status: Business Management, 22
+B3_Status: Culinary Arts, 22
+B3_Status: Leadership in Government, 22
+B3_Status: 420/420
+fill_status: Oakland Middle School, 0 of 50 students assigned to Sport & Human Performance, First choice demand met
+fill_status: Oakland Middle School, 0 of 50 students assigned to Sport & Human Performance, Second choice demand met
+fill_status: Oakland Middle School, 0 of 50 students assigned to Sport & Human Performance, Third choice demand met
+fill_status: Oakland Middle School, 0 of 50 students assigned to Sport & Human Performance, Fourth choice demand met
+fill_status: Oakland Middle School, 22 of 50 students assigned to Sport & Human Performance, Fifth choice demand met
+fill_status: Oakland Middle School, 22 of 50 students assigned to Sport & Human Performance, Sixth choice demand met
+fill_status: Oakland Middle School, 22 students assigned to Sport & Human Performance, All choices examined.
+fill_status: Oakland Middle School, 21 of 35 students assigned to Veterinary & Animal Science, First choice demand met
+fill_status: Oakland Middle School, 30 of 35 students assigned to Veterinary & Animal Science, Second choice demand met
+fill_status: Oakland Middle School, Veterinary & Animal Science B4 filled.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Horticulture Sciences, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Horticulture Sciences, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Horticulture Sciences, Third choice demand met
+fill_status: Oakland Middle School, 15 of 35 students assigned to Horticulture Sciences, Fourth choice demand met
+fill_status: Oakland Middle School, 25 of 35 students assigned to Horticulture Sciences, Fifth choice demand met
+fill_status: Oakland Middle School, Horticulture Sciences B4 filled.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Audio Visual Production, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Audio Visual Production, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Audio Visual Production, Third choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to Audio Visual Production, Fourth choice demand met
+fill_status: Oakland Middle School, 14 of 35 students assigned to Audio Visual Production, Fifth choice demand met
+fill_status: Oakland Middle School, 29 of 35 students assigned to Audio Visual Production, Sixth choice demand met
+fill_status: Oakland Middle School, 29 students assigned to Audio Visual Production, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Digital Arts & Design, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Digital Arts & Design, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Digital Arts & Design, Third choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Digital Arts & Design, Fourth choice demand met
+fill_status: Oakland Middle School, 6 of 35 students assigned to Digital Arts & Design, Fifth choice demand met
+fill_status: Oakland Middle School, 25 of 35 students assigned to Digital Arts & Design, Sixth choice demand met
+fill_status: Oakland Middle School, 25 students assigned to Digital Arts & Design, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Criminal Justice & Correction Services, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Criminal Justice & Correction Services, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Criminal Justice & Correction Services, Third choice demand met
+fill_status: Oakland Middle School, 10 of 35 students assigned to Criminal Justice & Correction Services, Fourth choice demand met
+fill_status: Oakland Middle School, 10 of 35 students assigned to Criminal Justice & Correction Services, Fifth choice demand met
+fill_status: Oakland Middle School, 23 of 35 students assigned to Criminal Justice & Correction Services, Sixth choice demand met
+fill_status: Oakland Middle School, 23 students assigned to Criminal Justice & Correction Services, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Cybersecurity, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Cybersecurity, Second choice demand met
+fill_status: Oakland Middle School, 7 of 35 students assigned to Cybersecurity, Third choice demand met
+fill_status: Oakland Middle School, 11 of 35 students assigned to Cybersecurity, Fourth choice demand met
+fill_status: Oakland Middle School, 12 of 35 students assigned to Cybersecurity, Fifth choice demand met
+fill_status: Oakland Middle School, 12 of 35 students assigned to Cybersecurity, Sixth choice demand met
+fill_status: Oakland Middle School, 12 students assigned to Cybersecurity, All choices examined.
+fill_status: Oakland Middle School, 3 of 35 students assigned to Coding, First choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to Coding, Second choice demand met
+fill_status: Oakland Middle School, 17 of 35 students assigned to Coding, Third choice demand met
+fill_status: Oakland Middle School, 25 of 35 students assigned to Coding, Fourth choice demand met
+fill_status: Oakland Middle School, 27 of 35 students assigned to Coding, Fifth choice demand met
+fill_status: Oakland Middle School, 27 of 35 students assigned to Coding, Sixth choice demand met
+fill_status: Oakland Middle School, 27 students assigned to Coding, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Human Services, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Human Services, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Human Services, Third choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to Human Services, Fourth choice demand met
+fill_status: Oakland Middle School, 8 of 35 students assigned to Human Services, Fifth choice demand met
+fill_status: Oakland Middle School, 21 of 35 students assigned to Human Services, Sixth choice demand met
+fill_status: Oakland Middle School, 21 students assigned to Human Services, All choices examined.
+fill_status: Oakland Middle School, 7 of 35 students assigned to Marketing Management, First choice demand met
+fill_status: Oakland Middle School, 14 of 35 students assigned to Marketing Management, Second choice demand met
+fill_status: Oakland Middle School, 16 of 35 students assigned to Marketing Management, Third choice demand met
+fill_status: Oakland Middle School, 16 of 35 students assigned to Marketing Management, Fourth choice demand met
+fill_status: Oakland Middle School, 16 of 35 students assigned to Marketing Management, Fifth choice demand met
+fill_status: Oakland Middle School, 16 of 35 students assigned to Marketing Management, Sixth choice demand met
+fill_status: Oakland Middle School, 16 students assigned to Marketing Management, All choices examined.
+fill_status: Oakland Middle School, 1 of 35 students assigned to Banking & Finance, First choice demand met
+fill_status: Oakland Middle School, 1 of 35 students assigned to Banking & Finance, Second choice demand met
+fill_status: Oakland Middle School, 10 of 35 students assigned to Banking & Finance, Third choice demand met
+fill_status: Oakland Middle School, 14 of 35 students assigned to Banking & Finance, Fourth choice demand met
+fill_status: Oakland Middle School, 15 of 35 students assigned to Banking & Finance, Fifth choice demand met
+fill_status: Oakland Middle School, 16 of 35 students assigned to Banking & Finance, Sixth choice demand met
+fill_status: Oakland Middle School, 16 students assigned to Banking & Finance, All choices examined.
+fill_status: Oakland Middle School, 3 of 35 students assigned to STEM Engineering, First choice demand met
+fill_status: Oakland Middle School, 5 of 35 students assigned to STEM Engineering, Second choice demand met
+fill_status: Oakland Middle School, 11 of 35 students assigned to STEM Engineering, Third choice demand met
+fill_status: Oakland Middle School, 11 of 35 students assigned to STEM Engineering, Fourth choice demand met
+fill_status: Oakland Middle School, 12 of 35 students assigned to STEM Engineering, Fifth choice demand met
+fill_status: Oakland Middle School, 13 of 35 students assigned to STEM Engineering, Sixth choice demand met
+fill_status: Oakland Middle School, 13 students assigned to STEM Engineering, All choices examined.
+fill_status: Oakland Middle School, 6 of 35 students assigned to Business Management, First choice demand met
+fill_status: Oakland Middle School, 8 of 35 students assigned to Business Management, Second choice demand met
+fill_status: Oakland Middle School, 12 of 35 students assigned to Business Management, Third choice demand met
+fill_status: Oakland Middle School, 12 of 35 students assigned to Business Management, Fourth choice demand met
+fill_status: Oakland Middle School, 14 of 35 students assigned to Business Management, Fifth choice demand met
+fill_status: Oakland Middle School, 14 of 35 students assigned to Business Management, Sixth choice demand met
+fill_status: Oakland Middle School, 14 students assigned to Business Management, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Culinary Arts, Third choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to Culinary Arts, Fourth choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to Culinary Arts, Fifth choice demand met
+fill_status: Oakland Middle School, 5 of 35 students assigned to Culinary Arts, Sixth choice demand met
+fill_status: Oakland Middle School, 5 students assigned to Culinary Arts, All choices examined.
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, First choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Second choice demand met
+fill_status: Oakland Middle School, 0 of 35 students assigned to Leadership in Government, Third choice demand met
+fill_status: Oakland Middle School, 2 of 35 students assigned to Leadership in Government, Fourth choice demand met
+fill_status: Oakland Middle School, 2 of 35 students assigned to Leadership in Government, Fifth choice demand met
+fill_status: Oakland Middle School, 3 of 35 students assigned to Leadership in Government, Sixth choice demand met
+fill_status: Oakland Middle School, 3 students assigned to Leadership in Government, All choices examined.
+B4_Status
+B4_Status: Sport & Human Performance, 22
+B4_Status: Veterinary & Animal Science, 35
+B4_Status: Horticulture Sciences, 35
+B4_Status: Audio Visual Production, 29
+B4_Status: Digital Arts & Design, 25
+B4_Status: Criminal Justice & Correction Services, 23
+B4_Status: Cybersecurity, 12
+B4_Status: Coding, 27
+B4_Status: Human Services, 21
+B4_Status: Marketing Management, 16
+B4_Status: Banking & Finance, 16
+B4_Status: STEM Engineering, 13
+B4_Status: Business Management, 14
+B4_Status: Culinary Arts, 5
+B4_Status: Leadership in Government, 3
+B4_Status: 296/420
+B4_Status
+B4_Status: Sport & Human Performance, 41
+B4_Status: Veterinary & Animal Science, 35
+B4_Status: Horticulture Sciences, 35
+B4_Status: Audio Visual Production, 29
+B4_Status: Digital Arts & Design, 26
+B4_Status: Criminal Justice & Correction Services, 26
+B4_Status: Cybersecurity, 26
+B4_Status: Coding, 27
+B4_Status: Human Services, 25
+B4_Status: Marketing Management, 25
+B4_Status: Banking & Finance, 25
+B4_Status: STEM Engineering, 25
+B4_Status: Business Management, 25
+B4_Status: Culinary Arts, 25
+B4_Status: Leadership in Government, 25
+B4_Status: 420/420
