@@ -46,6 +46,9 @@ for school in schools:
             if ('Library' in room) or ('Auditorium' in room):
                 capacity += 50
                 lg_rooms += 1
+            else:
+                capacity += 35
+                sm_rooms += 1
         except TypeError:
             capacity += 35
             sm_rooms += 1
