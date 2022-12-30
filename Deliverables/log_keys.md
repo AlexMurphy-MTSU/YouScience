@@ -1,0 +1,11 @@
+<table>
+    <tr>
+        <th>Format</th>
+        <th>Example</th>
+        <th>Explanation</th>
+        </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </table>
