@@ -41,7 +41,7 @@ capacity_vector_report = {
 
 # getting event year for file pathways
 try:
-    event_year = int(input('Enter 4-digit year of YouScience Event'))
+    event_year = int(input('Enter 4-digit year of YouScience Event\n'))
 except ValueError:
     event_year = 2022
 print(f"Running for YS Career Fair {event_year}")
@@ -101,10 +101,14 @@ for school in schools:
 
     #(E)
     # read in skyward roster for length, NOTE: currently reading from desktop folder
-    sky_p = f'/Users/amurphy/Documents/GitHub/YouScience/YouScienceData/Skyward/{event_year-1}-{event_year}/Skyward_{school}.xlsx'
-    sky_df = pd.read_excel(sky_p)
-    volume = len(sky_df.drop_duplicates("Student's School Email")) # necessary! 
-    capacity_report['8th Graders'].append(volume)
+    try:
+        sky_p = f'/Users/amurphy/Documents/GitHub/YouScience/YouScienceData/Skyward/{event_year-1}-{event_year}/Skyward_{school}.xlsx'
+        sky_df = pd.read_excel(sky_p)
+        volume = len(sky_df.drop_duplicates("Student's School Email")) # necessary! 
+        capacity_report['8th Graders'].append(volume)
+    except FileNotFoundError:
+        print(f'No Skyward rosters available for year: {event_year}. Report cancelled...')
+        quit()
     
     #(C), (G), pt. 1 set for default rooms
     capacity_vector = {}
