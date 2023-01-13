@@ -16,7 +16,7 @@ schools = ['Oakland Middle School',
     'Rockvale Middle School',
     'Rocky Fork Middle School',
     'Blackman Middle School',
-    'Thurman Francis Arts Academy',
+    # 'Thurman Francis Arts Academy',
     'Rock Springs Middle School',
     'LaVergne Middle School'
 ]
@@ -25,7 +25,8 @@ schools = ['Oakland Middle School',
 capacity_report = {
     #(A-E)
     'School':[],
-    'Status':[],
+    'Capacity Status':[],
+    'Pathway Status':[],
     'Assigned Default Capacity':[],
     'Assigned Max Capacity':[],
     '8th Graders':[],
@@ -78,6 +79,9 @@ def extract_capacity_vector(school):
     
     return {k: v for k, v in sorted(vector_dict.items(), key=lambda item: item[1], reverse=True)}
 
+# EDIT: 1/12/23 by Murphy, clause for checking if number of rooms >= num of Pathways offered
+djpath = '/Users/amurphy/Documents/GitHub/YouScience/direct_join_prepared.xlsx'
+dj_df = pd.read_excel(djpath)
 
 # building capacity report AND building capacity vector
 for school in schools:
@@ -91,6 +95,27 @@ for school in schools:
             planning_df = pd.read_excel(p,sheet_name=school)
     except:
         continue
+
+    # EDIT: 1/12/23 by Murphy, clause for checking if number of rooms >= num of Pathways offered
+    pathways_grouped = list(dj_df[dj_df[school].notna()][school])
+    pathways_uncoupled = []
+    for pos in pathways_grouped:
+        l = pos.split(', ')
+        if len(l)>1:
+            for x in l:
+                pathways_uncoupled.append(x)
+        else:
+            pathways_uncoupled.append(l)
+    num_pathways = len(pathways_uncoupled)
+    num_rooms = planning_df['MS Room Number'].notna().sum()
+    check = num_rooms - num_pathways
+    if check >= 0:
+        pos_status = f'{check} Extra Rooms'
+    else:
+        pos_status = f'{abs(check)} More Pathways Than Rooms'
+    capacity_report['Pathway Status'].append(pos_status)
+    # END EDIT: 1/12/23
+
     #(A,F)
     capacity_report['School'].append(school)
     capacity_vector_report['School'].append(school)
@@ -133,7 +158,7 @@ for school in schools:
         status = ['Insufficient',1]
     else:
         status = ['Suff. w/ All',2]
-    capacity_report['Status'].append(status[0])
+    capacity_report['Capacity Status'].append(status[0])
 
     #(G), pt. 2 - checking if we need to add conditionally assigned rooms
     if status[1] != 0: # NOT use only default
