@@ -11,8 +11,8 @@ schools = ['Oakland Middle School',
     'Siegel Middle School',
     'Whitworth-Buchanan Middle School',
     'Christiana Middle School',
-    'Smyrna Middle School',
-    'Stewarts Creek Middle School',
+    # 'Smyrna Middle School',
+    # 'Stewarts Creek Middle School',
     'Rockvale Middle School',
     'Rocky Fork Middle School',
     'Blackman Middle School',
@@ -105,16 +105,21 @@ for school in schools:
             for x in l:
                 pathways_uncoupled.append(x)
         else:
-            pathways_uncoupled.append(l)
-    num_pathways = len(pathways_uncoupled)
-    num_rooms = planning_df['MS Room Number'].notna().sum()
-    check = num_rooms - num_pathways
-    if check >= 0:
-        pos_status = f'{check} Extra Rooms'
+            pathways_uncoupled.append(l[0])
+    avail_rooms = [x for x in list(planning_df['MS Room Number']) if "(if needed)" not in str(x)]
+    num_pathways = len(set(pathways_uncoupled))
+    num_avail_rooms = len(avail_rooms)
+    num_all_rooms = planning_df['MS Room Number'].notna().sum()
+    avail_check = num_avail_rooms - num_pathways
+    all_check = num_all_rooms - num_pathways
+    if avail_check >= 0:
+        pos_status = f'{avail_check} Extra Rooms'
+    elif all_check >= 0:
+        pos_status = f'{all_check} Extra Rooms with "if needed"'
     else:
-        pos_status = f'{abs(check)} More Pathways Than Rooms'
+        pos_status = f'{abs(all_check)} More Pathways Than all Rooms'
     capacity_report['Pathway Status'].append(pos_status)
-    # END EDIT: 1/12/23
+    # END EDIT: 1/16/23 (fixed repeated POS, reinstated check for "if needed" rooms)
 
     #(A,F)
     capacity_report['School'].append(school)
