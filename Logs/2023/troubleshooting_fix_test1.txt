@@ -1,0 +1,315 @@
+fill_status: Oakland Middle School, Mechantronics B1 filled.
+fill_status: Oakland Middle School, BioSTEM B1 filled.
+fill_status: Oakland Middle School, Dietetics & Nutrition B1 filled.
+fill_status: Oakland Middle School, Health Science B1 filled.
+fill_status: Oakland Middle School, 3 of 25 students assigned to Agricultural Engineering & Applied Technologiess, First choice demand met
+fill_status: Oakland Middle School, 4 of 25 students assigned to Agricultural Engineering & Applied Technologiess, Second choice demand met
+fill_status: Oakland Middle School, Agricultural Engineering & Applied Technologiess B1 filled.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Veterinary & Animal Science/Horticulture Science, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Veterinary & Animal Science/Horticulture Science, Second choice demand met
+fill_status: Oakland Middle School, 10 of 25 students assigned to Veterinary & Animal Science/Horticulture Science, Third choice demand met
+fill_status: Oakland Middle School, Veterinary & Animal Science/Horticulture Science B1 filled.
+fill_status: Oakland Middle School, Teaching as a Profession B1 filled.
+fill_status: Oakland Middle School, 1 of 25 students assigned to Audio Visual Production, First choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Audio Visual Production, Second choice demand met
+fill_status: Oakland Middle School, 5 of 25 students assigned to Audio Visual Production, Third choice demand met
+fill_status: Oakland Middle School, Audio Visual Production B1 filled.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Digital Arts & Design, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Digital Arts & Design, Second choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Digital Arts & Design, Third choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Digital Arts & Design, Fourth choice demand met
+fill_status: Oakland Middle School, Digital Arts & Design B1 filled.
+fill_status: Oakland Middle School, Marketing Management B1 filled.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Cosmetology, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Cosmetology, Second choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Cosmetology, Third choice demand met
+fill_status: Oakland Middle School, 4 of 25 students assigned to Cosmetology, Fourth choice demand met
+fill_status: Oakland Middle School, 11 of 25 students assigned to Cosmetology, Fifth choice demand met
+fill_status: Oakland Middle School, Cosmetology B1 filled.
+fill_status: Oakland Middle School, 12 of 25 students assigned to Business Management, First choice demand met
+fill_status: Oakland Middle School, 14 of 25 students assigned to Business Management, Second choice demand met
+fill_status: Oakland Middle School, 18 of 25 students assigned to Business Management, Third choice demand met
+fill_status: Oakland Middle School, 18 of 25 students assigned to Business Management, Fourth choice demand met
+fill_status: Oakland Middle School, Business Management B1 filled.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Residential & Commercial Construction, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Residential & Commercial Construction, Second choice demand met
+fill_status: Oakland Middle School, 2 of 25 students assigned to Residential & Commercial Construction, Third choice demand met
+fill_status: Oakland Middle School, 11 of 25 students assigned to Residential & Commercial Construction, Fourth choice demand met
+fill_status: Oakland Middle School, 15 of 25 students assigned to Residential & Commercial Construction, Fifth choice demand met
+fill_status: Oakland Middle School, 17 of 25 students assigned to Residential & Commercial Construction, Sixth choice demand met
+fill_status: Oakland Middle School, 17 students assigned to Residential & Commercial Construction, All choices examined.
+fill_status: Oakland Middle School, 0 of 25 students assigned to MEP Systems, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to MEP Systems, Second choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to MEP Systems, Third choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to MEP Systems, Fourth choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to MEP Systems, Fifth choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to MEP Systems, Sixth choice demand met
+fill_status: Oakland Middle School, 0 students assigned to MEP Systems, All choices examined.
+fill_status: Oakland Middle School, 2 of 25 students assigned to Automotive Maintenance and Light Repair, First choice demand met
+fill_status: Oakland Middle School, 4 of 25 students assigned to Automotive Maintenance and Light Repair, Second choice demand met
+fill_status: Oakland Middle School, 5 of 25 students assigned to Automotive Maintenance and Light Repair, Third choice demand met
+fill_status: Oakland Middle School, 5 of 25 students assigned to Automotive Maintenance and Light Repair, Fourth choice demand met
+fill_status: Oakland Middle School, 8 of 25 students assigned to Automotive Maintenance and Light Repair, Fifth choice demand met
+fill_status: Oakland Middle School, 8 of 25 students assigned to Automotive Maintenance and Light Repair, Sixth choice demand met
+fill_status: Oakland Middle School, 8 students assigned to Automotive Maintenance and Light Repair, All choices examined.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Culinary Arts, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Culinary Arts, Second choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Culinary Arts, Third choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Culinary Arts, Fourth choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Culinary Arts, Fifth choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Culinary Arts, Sixth choice demand met
+fill_status: Oakland Middle School, 1 students assigned to Culinary Arts, All choices examined.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Leadership in Government, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Leadership in Government, Second choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Leadership in Government, Third choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Leadership in Government, Fourth choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Leadership in Government, Fifth choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Leadership in Government, Sixth choice demand met
+fill_status: Oakland Middle School, 1 students assigned to Leadership in Government, All choices examined.
+B1_Status: Oakland Middle School-Mechantronics, 40
+B1_Status: Oakland Middle School-BioSTEM, 25
+B1_Status: Oakland Middle School-Dietetics & Nutrition, 25
+B1_Status: Oakland Middle School-Health Science, 25
+B1_Status: Oakland Middle School-Agricultural Engineering & Applied Technologiess, 25
+B1_Status: Oakland Middle School-Veterinary & Animal Science/Horticulture Science, 25
+B1_Status: Oakland Middle School-Teaching as a Profession, 25
+B1_Status: Oakland Middle School-Audio Visual Production, 25
+B1_Status: Oakland Middle School-Digital Arts & Design, 25
+B1_Status: Oakland Middle School-Marketing Management, 25
+B1_Status: Oakland Middle School-Cosmetology, 25
+B1_Status: Oakland Middle School-Business Management, 25
+B1_Status: Oakland Middle School-Residential & Commercial Construction, 17
+B1_Status: Oakland Middle School-MEP Systems, 0
+B1_Status: Oakland Middle School-Automotive Maintenance and Light Repair, 8
+B1_Status: Oakland Middle School-Culinary Arts, 1
+B1_Status: Oakland Middle School-Leadership in Government, 1
+B1_Fill_Status: Oakland Middle School 342/426
+B1_Status: Oakland Middle School-Mechantronics, 40
+B1_Status: Oakland Middle School-BioSTEM, 25
+B1_Status: Oakland Middle School-Dietetics & Nutrition, 25
+B1_Status: Oakland Middle School-Health Science, 25
+B1_Status: Oakland Middle School-Agricultural Engineering & Applied Technologiess, 25
+B1_Status: Oakland Middle School-Veterinary & Animal Science/Horticulture Science, 25
+B1_Status: Oakland Middle School-Teaching as a Profession, 25
+B1_Status: Oakland Middle School-Audio Visual Production, 25
+B1_Status: Oakland Middle School-Digital Arts & Design, 25
+B1_Status: Oakland Middle School-Marketing Management, 25
+B1_Status: Oakland Middle School-Cosmetology, 25
+B1_Status: Oakland Middle School-Business Management, 25
+B1_Status: Oakland Middle School-Residential & Commercial Construction, 23
+B1_Status: Oakland Middle School-MEP Systems, 22
+B1_Status: Oakland Middle School-Automotive Maintenance and Light Repair, 22
+B1_Status: Oakland Middle School-Culinary Arts, 22
+B1_Status: Oakland Middle School-Leadership in Government, 22
+B1_Fill_Status: Oakland Middle School 426/426
+fill_status: Oakland Middle School, 31 of 40 students assigned to Mechantronics, First choice demand met
+fill_status: Oakland Middle School, Mechantronics B2 filled.
+fill_status: Oakland Middle School, BioSTEM B2 filled.
+fill_status: Oakland Middle School, Dietetics & Nutrition B2 filled.
+fill_status: Oakland Middle School, Health Science B2 filled.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Agricultural Engineering & Applied Technologiess, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Agricultural Engineering & Applied Technologiess, Second choice demand met
+fill_status: Oakland Middle School, 11 of 25 students assigned to Agricultural Engineering & Applied Technologiess, Third choice demand met
+fill_status: Oakland Middle School, Agricultural Engineering & Applied Technologiess B2 filled.
+fill_status: Oakland Middle School, 3 of 25 students assigned to Veterinary & Animal Science/Horticulture Science, First choice demand met
+fill_status: Oakland Middle School, 4 of 25 students assigned to Veterinary & Animal Science/Horticulture Science, Second choice demand met
+fill_status: Oakland Middle School, 16 of 25 students assigned to Veterinary & Animal Science/Horticulture Science, Third choice demand met
+fill_status: Oakland Middle School, Veterinary & Animal Science/Horticulture Science B2 filled.
+fill_status: Oakland Middle School, 21 of 25 students assigned to Teaching as a Profession, First choice demand met
+fill_status: Oakland Middle School, Teaching as a Profession B2 filled.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Audio Visual Production, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Audio Visual Production, Second choice demand met
+fill_status: Oakland Middle School, 3 of 25 students assigned to Audio Visual Production, Third choice demand met
+fill_status: Oakland Middle School, 10 of 25 students assigned to Audio Visual Production, Fourth choice demand met
+fill_status: Oakland Middle School, Audio Visual Production B2 filled.
+fill_status: Oakland Middle School, 1 of 25 students assigned to Digital Arts & Design, First choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Digital Arts & Design, Second choice demand met
+fill_status: Oakland Middle School, 3 of 25 students assigned to Digital Arts & Design, Third choice demand met
+fill_status: Oakland Middle School, 12 of 25 students assigned to Digital Arts & Design, Fourth choice demand met
+fill_status: Oakland Middle School, 20 of 25 students assigned to Digital Arts & Design, Fifth choice demand met
+fill_status: Oakland Middle School, Digital Arts & Design B2 filled.
+fill_status: Oakland Middle School, 6 of 25 students assigned to Marketing Management, First choice demand met
+fill_status: Oakland Middle School, 19 of 25 students assigned to Marketing Management, Second choice demand met
+fill_status: Oakland Middle School, 20 of 25 students assigned to Marketing Management, Third choice demand met
+fill_status: Oakland Middle School, 20 of 25 students assigned to Marketing Management, Fourth choice demand met
+fill_status: Oakland Middle School, Marketing Management B2 filled.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Cosmetology, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Cosmetology, Second choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Cosmetology, Third choice demand met
+fill_status: Oakland Middle School, 9 of 25 students assigned to Cosmetology, Fourth choice demand met
+fill_status: Oakland Middle School, 16 of 25 students assigned to Cosmetology, Fifth choice demand met
+fill_status: Oakland Middle School, Cosmetology B2 filled.
+fill_status: Oakland Middle School, 8 of 25 students assigned to Business Management, First choice demand met
+fill_status: Oakland Middle School, 9 of 25 students assigned to Business Management, Second choice demand met
+fill_status: Oakland Middle School, 12 of 25 students assigned to Business Management, Third choice demand met
+fill_status: Oakland Middle School, 12 of 25 students assigned to Business Management, Fourth choice demand met
+fill_status: Oakland Middle School, 17 of 25 students assigned to Business Management, Fifth choice demand met
+fill_status: Oakland Middle School, 17 of 25 students assigned to Business Management, Sixth choice demand met
+fill_status: Oakland Middle School, 17 students assigned to Business Management, All choices examined.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Residential & Commercial Construction, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Residential & Commercial Construction, Second choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Residential & Commercial Construction, Third choice demand met
+fill_status: Oakland Middle School, 3 of 25 students assigned to Residential & Commercial Construction, Fourth choice demand met
+fill_status: Oakland Middle School, 8 of 25 students assigned to Residential & Commercial Construction, Fifth choice demand met
+fill_status: Oakland Middle School, 11 of 25 students assigned to Residential & Commercial Construction, Sixth choice demand met
+fill_status: Oakland Middle School, 11 students assigned to Residential & Commercial Construction, All choices examined.
+fill_status: Oakland Middle School, 0 of 25 students assigned to MEP Systems, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to MEP Systems, Second choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to MEP Systems, Third choice demand met
+fill_status: Oakland Middle School, 2 of 25 students assigned to MEP Systems, Fourth choice demand met
+fill_status: Oakland Middle School, 3 of 25 students assigned to MEP Systems, Fifth choice demand met
+fill_status: Oakland Middle School, 3 of 25 students assigned to MEP Systems, Sixth choice demand met
+fill_status: Oakland Middle School, 3 students assigned to MEP Systems, All choices examined.
+fill_status: Oakland Middle School, 2 of 25 students assigned to Automotive Maintenance and Light Repair, First choice demand met
+fill_status: Oakland Middle School, 7 of 25 students assigned to Automotive Maintenance and Light Repair, Second choice demand met
+fill_status: Oakland Middle School, 8 of 25 students assigned to Automotive Maintenance and Light Repair, Third choice demand met
+fill_status: Oakland Middle School, 8 of 25 students assigned to Automotive Maintenance and Light Repair, Fourth choice demand met
+fill_status: Oakland Middle School, 10 of 25 students assigned to Automotive Maintenance and Light Repair, Fifth choice demand met
+fill_status: Oakland Middle School, 10 of 25 students assigned to Automotive Maintenance and Light Repair, Sixth choice demand met
+fill_status: Oakland Middle School, 10 students assigned to Automotive Maintenance and Light Repair, All choices examined.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Culinary Arts, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Culinary Arts, Second choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Culinary Arts, Third choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Culinary Arts, Fourth choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Culinary Arts, Fifth choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Culinary Arts, Sixth choice demand met
+fill_status: Oakland Middle School, 1 students assigned to Culinary Arts, All choices examined.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Leadership in Government, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Leadership in Government, Second choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Leadership in Government, Third choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Leadership in Government, Fourth choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Leadership in Government, Fifth choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Leadership in Government, Sixth choice demand met
+fill_status: Oakland Middle School, 1 students assigned to Leadership in Government, All choices examined.
+B2_Status: Oakland Middle School-Mechantronics, 40
+B2_Status: Oakland Middle School-BioSTEM, 25
+B2_Status: Oakland Middle School-Dietetics & Nutrition, 25
+B2_Status: Oakland Middle School-Health Science, 25
+B2_Status: Oakland Middle School-Agricultural Engineering & Applied Technologiess, 25
+B2_Status: Oakland Middle School-Veterinary & Animal Science/Horticulture Science, 25
+B2_Status: Oakland Middle School-Teaching as a Profession, 25
+B2_Status: Oakland Middle School-Audio Visual Production, 25
+B2_Status: Oakland Middle School-Digital Arts & Design, 25
+B2_Status: Oakland Middle School-Marketing Management, 25
+B2_Status: Oakland Middle School-Cosmetology, 25
+B2_Status: Oakland Middle School-Business Management, 17
+B2_Status: Oakland Middle School-Residential & Commercial Construction, 11
+B2_Status: Oakland Middle School-MEP Systems, 3
+B2_Status: Oakland Middle School-Automotive Maintenance and Light Repair, 10
+B2_Status: Oakland Middle School-Culinary Arts, 1
+B2_Status: Oakland Middle School-Leadership in Government, 1
+B2_Fill_Status: Oakland Middle School 333/426
+B2_Status: Oakland Middle School-Mechantronics, 40
+B2_Status: Oakland Middle School-BioSTEM, 25
+B2_Status: Oakland Middle School-Dietetics & Nutrition, 25
+B2_Status: Oakland Middle School-Health Science, 25
+B2_Status: Oakland Middle School-Agricultural Engineering & Applied Technologiess, 25
+B2_Status: Oakland Middle School-Veterinary & Animal Science/Horticulture Science, 25
+B2_Status: Oakland Middle School-Teaching as a Profession, 25
+B2_Status: Oakland Middle School-Audio Visual Production, 25
+B2_Status: Oakland Middle School-Digital Arts & Design, 25
+B2_Status: Oakland Middle School-Marketing Management, 25
+B2_Status: Oakland Middle School-Cosmetology, 25
+B2_Status: Oakland Middle School-Business Management, 23
+B2_Status: Oakland Middle School-Residential & Commercial Construction, 23
+B2_Status: Oakland Middle School-MEP Systems, 23
+B2_Status: Oakland Middle School-Automotive Maintenance and Light Repair, 23
+B2_Status: Oakland Middle School-Culinary Arts, 22
+B2_Status: Oakland Middle School-Leadership in Government, 22
+B2_Fill_Status: Oakland Middle School 426/426
+fill_status: Oakland Middle School, 0 of 40 students assigned to Mechantronics, First choice demand met
+fill_status: Oakland Middle School, 32 of 40 students assigned to Mechantronics, Second choice demand met
+fill_status: Oakland Middle School, Mechantronics B3 filled.
+fill_status: Oakland Middle School, BioSTEM B3 filled.
+fill_status: Oakland Middle School, Dietetics & Nutrition B3 filled.
+fill_status: Oakland Middle School, Health Science B3 filled.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Agricultural Engineering & Applied Technologiess, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Agricultural Engineering & Applied Technologiess, Second choice demand met
+fill_status: Oakland Middle School, 4 of 25 students assigned to Agricultural Engineering & Applied Technologiess, Third choice demand met
+fill_status: Oakland Middle School, Agricultural Engineering & Applied Technologiess B3 filled.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Veterinary & Animal Science/Horticulture Science, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Veterinary & Animal Science/Horticulture Science, Second choice demand met
+fill_status: Oakland Middle School, 6 of 25 students assigned to Veterinary & Animal Science/Horticulture Science, Third choice demand met
+fill_status: Oakland Middle School, Veterinary & Animal Science/Horticulture Science B3 filled.
+fill_status: Oakland Middle School, 4 of 25 students assigned to Teaching as a Profession, First choice demand met
+fill_status: Oakland Middle School, Teaching as a Profession B3 filled.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Audio Visual Production, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Audio Visual Production, Second choice demand met
+fill_status: Oakland Middle School, 2 of 25 students assigned to Audio Visual Production, Third choice demand met
+fill_status: Oakland Middle School, 2 of 25 students assigned to Audio Visual Production, Fourth choice demand met
+fill_status: Oakland Middle School, 21 of 25 students assigned to Audio Visual Production, Fifth choice demand met
+fill_status: Oakland Middle School, Audio Visual Production B3 filled.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Digital Arts & Design, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Digital Arts & Design, Second choice demand met
+fill_status: Oakland Middle School, 5 of 25 students assigned to Digital Arts & Design, Third choice demand met
+fill_status: Oakland Middle School, 20 of 25 students assigned to Digital Arts & Design, Fourth choice demand met
+fill_status: Oakland Middle School, Digital Arts & Design B3 filled.
+fill_status: Oakland Middle School, 11 of 25 students assigned to Marketing Management, First choice demand met
+fill_status: Oakland Middle School, Marketing Management B3 filled.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Cosmetology, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Cosmetology, Second choice demand met
+fill_status: Oakland Middle School, 1 of 25 students assigned to Cosmetology, Third choice demand met
+fill_status: Oakland Middle School, 3 of 25 students assigned to Cosmetology, Fourth choice demand met
+fill_status: Oakland Middle School, 5 of 25 students assigned to Cosmetology, Fifth choice demand met
+fill_status: Oakland Middle School, 17 of 25 students assigned to Cosmetology, Sixth choice demand met
+fill_status: Oakland Middle School, 17 students assigned to Cosmetology, All choices examined.
+fill_status: Oakland Middle School, 2 of 25 students assigned to Business Management, First choice demand met
+fill_status: Oakland Middle School, 3 of 25 students assigned to Business Management, Second choice demand met
+fill_status: Oakland Middle School, 11 of 25 students assigned to Business Management, Third choice demand met
+fill_status: Oakland Middle School, 11 of 25 students assigned to Business Management, Fourth choice demand met
+fill_status: Oakland Middle School, 16 of 25 students assigned to Business Management, Fifth choice demand met
+fill_status: Oakland Middle School, 16 of 25 students assigned to Business Management, Sixth choice demand met
+fill_status: Oakland Middle School, 16 students assigned to Business Management, All choices examined.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Residential & Commercial Construction, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Residential & Commercial Construction, Second choice demand met
+fill_status: Oakland Middle School, 2 of 25 students assigned to Residential & Commercial Construction, Third choice demand met
+fill_status: Oakland Middle School, 4 of 25 students assigned to Residential & Commercial Construction, Fourth choice demand met
+fill_status: Oakland Middle School, 6 of 25 students assigned to Residential & Commercial Construction, Fifth choice demand met
+fill_status: Oakland Middle School, 7 of 25 students assigned to Residential & Commercial Construction, Sixth choice demand met
+fill_status: Oakland Middle School, 7 students assigned to Residential & Commercial Construction, All choices examined.
+fill_status: Oakland Middle School, 0 of 25 students assigned to MEP Systems, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to MEP Systems, Second choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to MEP Systems, Third choice demand met
+fill_status: Oakland Middle School, 5 of 25 students assigned to MEP Systems, Fourth choice demand met
+fill_status: Oakland Middle School, 7 of 25 students assigned to MEP Systems, Fifth choice demand met
+fill_status: Oakland Middle School, 10 of 25 students assigned to MEP Systems, Sixth choice demand met
+fill_status: Oakland Middle School, 10 students assigned to MEP Systems, All choices examined.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Automotive Maintenance and Light Repair, First choice demand met
+fill_status: Oakland Middle School, 3 of 25 students assigned to Automotive Maintenance and Light Repair, Second choice demand met
+fill_status: Oakland Middle School, 4 of 25 students assigned to Automotive Maintenance and Light Repair, Third choice demand met
+fill_status: Oakland Middle School, 4 of 25 students assigned to Automotive Maintenance and Light Repair, Fourth choice demand met
+fill_status: Oakland Middle School, 7 of 25 students assigned to Automotive Maintenance and Light Repair, Fifth choice demand met
+fill_status: Oakland Middle School, 7 of 25 students assigned to Automotive Maintenance and Light Repair, Sixth choice demand met
+fill_status: Oakland Middle School, 7 students assigned to Automotive Maintenance and Light Repair, All choices examined.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Culinary Arts, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Culinary Arts, Second choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Culinary Arts, Third choice demand met
+fill_status: Oakland Middle School, 2 of 25 students assigned to Culinary Arts, Fourth choice demand met
+fill_status: Oakland Middle School, 3 of 25 students assigned to Culinary Arts, Fifth choice demand met
+fill_status: Oakland Middle School, 3 of 25 students assigned to Culinary Arts, Sixth choice demand met
+fill_status: Oakland Middle School, 3 students assigned to Culinary Arts, All choices examined.
+fill_status: Oakland Middle School, 0 of 25 students assigned to Leadership in Government, First choice demand met
+fill_status: Oakland Middle School, 0 of 25 students assigned to Leadership in Government, Second choice demand met
+fill_status: Oakland Middle School, 3 of 25 students assigned to Leadership in Government, Third choice demand met
+fill_status: Oakland Middle School, 5 of 25 students assigned to Leadership in Government, Fourth choice demand met
+fill_status: Oakland Middle School, 5 of 25 students assigned to Leadership in Government, Fifth choice demand met
+fill_status: Oakland Middle School, 5 of 25 students assigned to Leadership in Government, Sixth choice demand met
+fill_status: Oakland Middle School, 5 students assigned to Leadership in Government, All choices examined.
+B3_Status: Oakland Middle School-Mechantronics, 40
+B3_Status: Oakland Middle School-BioSTEM, 25
+B3_Status: Oakland Middle School-Dietetics & Nutrition, 25
+B3_Status: Oakland Middle School-Health Science, 25
+B3_Status: Oakland Middle School-Agricultural Engineering & Applied Technologiess, 25
+B3_Status: Oakland Middle School-Veterinary & Animal Science/Horticulture Science, 25
+B3_Status: Oakland Middle School-Teaching as a Profession, 25
+B3_Status: Oakland Middle School-Audio Visual Production, 25
+B3_Status: Oakland Middle School-Digital Arts & Design, 25
+B3_Status: Oakland Middle School-Marketing Management, 25
+B3_Status: Oakland Middle School-Cosmetology, 17
+B3_Status: Oakland Middle School-Business Management, 16
+B3_Status: Oakland Middle School-Residential & Commercial Construction, 7
+B3_Status: Oakland Middle School-MEP Systems, 10
+B3_Status: Oakland Middle School-Automotive Maintenance and Light Repair, 7
+B3_Status: Oakland Middle School-Culinary Arts, 3
+B3_Status: Oakland Middle School-Leadership in Government, 5
+B3_Fill_Status: Oakland Middle School 330/426

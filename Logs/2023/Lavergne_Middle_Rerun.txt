@@ -1,0 +1,314 @@
+fill_status: LaVergne Middle School, 17 of 50 students assigned to Virtual Reality, First choice demand met
+fill_status: LaVergne Middle School, 25 of 50 students assigned to Virtual Reality, Second choice demand met
+fill_status: LaVergne Middle School, Virtual Reality B1 filled.
+fill_status: LaVergne Middle School, Marketing Management B1 filled.
+fill_status: LaVergne Middle School, Health Science B1 filled.
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Audio Visual Production, First choice demand met
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Audio Visual Production, Second choice demand met
+fill_status: LaVergne Middle School, 5 of 50 students assigned to Audio Visual Production, Third choice demand met
+fill_status: LaVergne Middle School, 22 of 50 students assigned to Audio Visual Production, Fourth choice demand met
+fill_status: LaVergne Middle School, Audio Visual Production B1 filled.
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Veterinary & Animal Science/Horticulture, First choice demand met
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Veterinary & Animal Science/Horticulture, Second choice demand met
+fill_status: LaVergne Middle School, 16 of 50 students assigned to Veterinary & Animal Science/Horticulture, Third choice demand met
+fill_status: LaVergne Middle School, Veterinary & Animal Science/Horticulture B1 filled.
+fill_status: LaVergne Middle School, 23 of 50 students assigned to Educational Counseling & Social Services, First choice demand met
+fill_status: LaVergne Middle School, 49 of 50 students assigned to Educational Counseling & Social Services, Second choice demand met
+fill_status: LaVergne Middle School, 49 of 50 students assigned to Educational Counseling & Social Services, Third choice demand met
+fill_status: LaVergne Middle School, 49 of 50 students assigned to Educational Counseling & Social Services, Fourth choice demand met
+fill_status: LaVergne Middle School, 49 of 50 students assigned to Educational Counseling & Social Services, Fifth choice demand met
+fill_status: LaVergne Middle School, 49 of 50 students assigned to Educational Counseling & Social Services, Sixth choice demand met
+fill_status: LaVergne Middle School, 49 students assigned to Educational Counseling & Social Services, All choices examined.
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Criminal Justice & Correction Services, First choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Criminal Justice & Correction Services, Second choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Criminal Justice & Correction Services, Third choice demand met
+fill_status: LaVergne Middle School, 5 of 25 students assigned to Criminal Justice & Correction Services, Fourth choice demand met
+fill_status: LaVergne Middle School, 5 of 25 students assigned to Criminal Justice & Correction Services, Fifth choice demand met
+fill_status: LaVergne Middle School, 23 of 25 students assigned to Criminal Justice & Correction Services, Sixth choice demand met
+fill_status: LaVergne Middle School, 23 students assigned to Criminal Justice & Correction Services, All choices examined.
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Cosmetology/Barbering, First choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Cosmetology/Barbering, Second choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Cosmetology/Barbering, Third choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Cosmetology/Barbering, Fourth choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Cosmetology/Barbering, Fifth choice demand met
+fill_status: LaVergne Middle School, 1 of 25 students assigned to Cosmetology/Barbering, Sixth choice demand met
+fill_status: LaVergne Middle School, 1 students assigned to Cosmetology/Barbering, All choices examined.
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Networking Systems, First choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Networking Systems, Second choice demand met
+fill_status: LaVergne Middle School, 4 of 25 students assigned to Networking Systems, Third choice demand met
+fill_status: LaVergne Middle School, 10 of 25 students assigned to Networking Systems, Fourth choice demand met
+fill_status: LaVergne Middle School, 11 of 25 students assigned to Networking Systems, Fifth choice demand met
+fill_status: LaVergne Middle School, 12 of 25 students assigned to Networking Systems, Sixth choice demand met
+fill_status: LaVergne Middle School, 12 students assigned to Networking Systems, All choices examined.
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Leadership in Government, First choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Leadership in Government, Second choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Leadership in Government, Third choice demand met
+fill_status: LaVergne Middle School, 3 of 25 students assigned to Leadership in Government, Fourth choice demand met
+fill_status: LaVergne Middle School, 3 of 25 students assigned to Leadership in Government, Fifth choice demand met
+fill_status: LaVergne Middle School, 4 of 25 students assigned to Leadership in Government, Sixth choice demand met
+fill_status: LaVergne Middle School, 4 students assigned to Leadership in Government, All choices examined.
+B1_Status: LaVergne Middle School-Virtual Reality, 50
+B1_Status: LaVergne Middle School-Marketing Management, 50
+B1_Status: LaVergne Middle School-Health Science, 50
+B1_Status: LaVergne Middle School-Audio Visual Production, 50
+B1_Status: LaVergne Middle School-Veterinary & Animal Science/Horticulture, 50
+B1_Status: LaVergne Middle School-Educational Counseling & Social Services, 49
+B1_Status: LaVergne Middle School-Criminal Justice & Correction Services, 23
+B1_Status: LaVergne Middle School-Cosmetology/Barbering, 1
+B1_Status: LaVergne Middle School-Networking Systems, 12
+B1_Status: LaVergne Middle School-Leadership in Government, 4
+B1_Fill_Status: LaVergne Middle School 339/401
+B1_Status: LaVergne Middle School-Virtual Reality, 51
+B1_Status: LaVergne Middle School-Marketing Management, 50
+B1_Status: LaVergne Middle School-Health Science, 50
+B1_Status: LaVergne Middle School-Audio Visual Production, 50
+B1_Status: LaVergne Middle School-Veterinary & Animal Science/Horticulture, 50
+B1_Status: LaVergne Middle School-Educational Counseling & Social Services, 50
+B1_Status: LaVergne Middle School-Criminal Justice & Correction Services, 25
+B1_Status: LaVergne Middle School-Cosmetology/Barbering, 25
+B1_Status: LaVergne Middle School-Networking Systems, 25
+B1_Status: LaVergne Middle School-Leadership in Government, 25
+B1_Fill_Status: LaVergne Middle School 401/401
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Virtual Reality, First choice demand met
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Virtual Reality, Second choice demand met
+fill_status: LaVergne Middle School, 34 of 50 students assigned to Virtual Reality, Third choice demand met
+fill_status: LaVergne Middle School, Virtual Reality B2 filled.
+fill_status: LaVergne Middle School, 24 of 50 students assigned to Marketing Management, First choice demand met
+fill_status: LaVergne Middle School, Marketing Management B2 filled.
+fill_status: LaVergne Middle School, Health Science B2 filled.
+fill_status: LaVergne Middle School, 1 of 50 students assigned to Audio Visual Production, First choice demand met
+fill_status: LaVergne Middle School, 3 of 50 students assigned to Audio Visual Production, Second choice demand met
+fill_status: LaVergne Middle School, 9 of 50 students assigned to Audio Visual Production, Third choice demand met
+fill_status: LaVergne Middle School, 16 of 50 students assigned to Audio Visual Production, Fourth choice demand met
+fill_status: LaVergne Middle School, 38 of 50 students assigned to Audio Visual Production, Fifth choice demand met
+fill_status: LaVergne Middle School, Audio Visual Production B2 filled.
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Veterinary & Animal Science/Horticulture, First choice demand met
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Veterinary & Animal Science/Horticulture, Second choice demand met
+fill_status: LaVergne Middle School, 9 of 50 students assigned to Veterinary & Animal Science/Horticulture, Third choice demand met
+fill_status: LaVergne Middle School, 39 of 50 students assigned to Veterinary & Animal Science/Horticulture, Fourth choice demand met
+fill_status: LaVergne Middle School, 45 of 50 students assigned to Veterinary & Animal Science/Horticulture, Fifth choice demand met
+fill_status: LaVergne Middle School, 49 of 50 students assigned to Veterinary & Animal Science/Horticulture, Sixth choice demand met
+fill_status: LaVergne Middle School, 49 students assigned to Veterinary & Animal Science/Horticulture, All choices examined.
+fill_status: LaVergne Middle School, 8 of 50 students assigned to Educational Counseling & Social Services, First choice demand met
+fill_status: LaVergne Middle School, 27 of 50 students assigned to Educational Counseling & Social Services, Second choice demand met
+fill_status: LaVergne Middle School, 27 of 50 students assigned to Educational Counseling & Social Services, Third choice demand met
+fill_status: LaVergne Middle School, 27 of 50 students assigned to Educational Counseling & Social Services, Fourth choice demand met
+fill_status: LaVergne Middle School, 27 of 50 students assigned to Educational Counseling & Social Services, Fifth choice demand met
+fill_status: LaVergne Middle School, 27 of 50 students assigned to Educational Counseling & Social Services, Sixth choice demand met
+fill_status: LaVergne Middle School, 27 students assigned to Educational Counseling & Social Services, All choices examined.
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Criminal Justice & Correction Services, First choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Criminal Justice & Correction Services, Second choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Criminal Justice & Correction Services, Third choice demand met
+fill_status: LaVergne Middle School, 4 of 25 students assigned to Criminal Justice & Correction Services, Fourth choice demand met
+fill_status: LaVergne Middle School, 4 of 25 students assigned to Criminal Justice & Correction Services, Fifth choice demand met
+fill_status: LaVergne Middle School, Criminal Justice & Correction Services B2 filled.
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Cosmetology/Barbering, First choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Cosmetology/Barbering, Second choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Cosmetology/Barbering, Third choice demand met
+fill_status: LaVergne Middle School, 3 of 25 students assigned to Cosmetology/Barbering, Fourth choice demand met
+fill_status: LaVergne Middle School, 4 of 25 students assigned to Cosmetology/Barbering, Fifth choice demand met
+fill_status: LaVergne Middle School, 9 of 25 students assigned to Cosmetology/Barbering, Sixth choice demand met
+fill_status: LaVergne Middle School, 9 students assigned to Cosmetology/Barbering, All choices examined.
+fill_status: LaVergne Middle School, 5 of 25 students assigned to Networking Systems, First choice demand met
+fill_status: LaVergne Middle School, 5 of 25 students assigned to Networking Systems, Second choice demand met
+fill_status: LaVergne Middle School, 5 of 25 students assigned to Networking Systems, Third choice demand met
+fill_status: LaVergne Middle School, 7 of 25 students assigned to Networking Systems, Fourth choice demand met
+fill_status: LaVergne Middle School, 12 of 25 students assigned to Networking Systems, Fifth choice demand met
+fill_status: LaVergne Middle School, 12 of 25 students assigned to Networking Systems, Sixth choice demand met
+fill_status: LaVergne Middle School, 12 students assigned to Networking Systems, All choices examined.
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Leadership in Government, First choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Leadership in Government, Second choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Leadership in Government, Third choice demand met
+fill_status: LaVergne Middle School, 5 of 25 students assigned to Leadership in Government, Fourth choice demand met
+fill_status: LaVergne Middle School, 5 of 25 students assigned to Leadership in Government, Fifth choice demand met
+fill_status: LaVergne Middle School, 6 of 25 students assigned to Leadership in Government, Sixth choice demand met
+fill_status: LaVergne Middle School, 6 students assigned to Leadership in Government, All choices examined.
+B2_Status: LaVergne Middle School-Virtual Reality, 50
+B2_Status: LaVergne Middle School-Marketing Management, 50
+B2_Status: LaVergne Middle School-Health Science, 50
+B2_Status: LaVergne Middle School-Audio Visual Production, 50
+B2_Status: LaVergne Middle School-Veterinary & Animal Science/Horticulture, 49
+B2_Status: LaVergne Middle School-Educational Counseling & Social Services, 27
+B2_Status: LaVergne Middle School-Criminal Justice & Correction Services, 25
+B2_Status: LaVergne Middle School-Cosmetology/Barbering, 9
+B2_Status: LaVergne Middle School-Networking Systems, 12
+B2_Status: LaVergne Middle School-Leadership in Government, 6
+B2_Fill_Status: LaVergne Middle School 328/401
+B2_Status: LaVergne Middle School-Virtual Reality, 51
+B2_Status: LaVergne Middle School-Marketing Management, 50
+B2_Status: LaVergne Middle School-Health Science, 50
+B2_Status: LaVergne Middle School-Audio Visual Production, 50
+B2_Status: LaVergne Middle School-Veterinary & Animal Science/Horticulture, 50
+B2_Status: LaVergne Middle School-Educational Counseling & Social Services, 50
+B2_Status: LaVergne Middle School-Criminal Justice & Correction Services, 25
+B2_Status: LaVergne Middle School-Cosmetology/Barbering, 25
+B2_Status: LaVergne Middle School-Networking Systems, 25
+B2_Status: LaVergne Middle School-Leadership in Government, 25
+B2_Fill_Status: LaVergne Middle School 401/401
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Virtual Reality, First choice demand met
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Virtual Reality, Second choice demand met
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Virtual Reality, Third choice demand met
+fill_status: LaVergne Middle School, 26 of 50 students assigned to Virtual Reality, Fourth choice demand met
+fill_status: LaVergne Middle School, Virtual Reality B3 filled.
+fill_status: LaVergne Middle School, 5 of 50 students assigned to Marketing Management, First choice demand met
+fill_status: LaVergne Middle School, Marketing Management B3 filled.
+fill_status: LaVergne Middle School, 35 of 50 students assigned to Health Science, First choice demand met
+fill_status: LaVergne Middle School, 41 of 50 students assigned to Health Science, Second choice demand met
+fill_status: LaVergne Middle School, Health Science B3 filled.
+fill_status: LaVergne Middle School, 1 of 50 students assigned to Audio Visual Production, First choice demand met
+fill_status: LaVergne Middle School, 3 of 50 students assigned to Audio Visual Production, Second choice demand met
+fill_status: LaVergne Middle School, 11 of 50 students assigned to Audio Visual Production, Third choice demand met
+fill_status: LaVergne Middle School, 14 of 50 students assigned to Audio Visual Production, Fourth choice demand met
+fill_status: LaVergne Middle School, 19 of 50 students assigned to Audio Visual Production, Fifth choice demand met
+fill_status: LaVergne Middle School, 45 of 50 students assigned to Audio Visual Production, Sixth choice demand met
+fill_status: LaVergne Middle School, 45 students assigned to Audio Visual Production, All choices examined.
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Veterinary & Animal Science/Horticulture, First choice demand met
+fill_status: LaVergne Middle School, 1 of 50 students assigned to Veterinary & Animal Science/Horticulture, Second choice demand met
+fill_status: LaVergne Middle School, 4 of 50 students assigned to Veterinary & Animal Science/Horticulture, Third choice demand met
+fill_status: LaVergne Middle School, 19 of 50 students assigned to Veterinary & Animal Science/Horticulture, Fourth choice demand met
+fill_status: LaVergne Middle School, 24 of 50 students assigned to Veterinary & Animal Science/Horticulture, Fifth choice demand met
+fill_status: LaVergne Middle School, 26 of 50 students assigned to Veterinary & Animal Science/Horticulture, Sixth choice demand met
+fill_status: LaVergne Middle School, 26 students assigned to Veterinary & Animal Science/Horticulture, All choices examined.
+fill_status: LaVergne Middle School, 11 of 50 students assigned to Educational Counseling & Social Services, First choice demand met
+fill_status: LaVergne Middle School, 35 of 50 students assigned to Educational Counseling & Social Services, Second choice demand met
+fill_status: LaVergne Middle School, 35 of 50 students assigned to Educational Counseling & Social Services, Third choice demand met
+fill_status: LaVergne Middle School, 35 of 50 students assigned to Educational Counseling & Social Services, Fourth choice demand met
+fill_status: LaVergne Middle School, 35 of 50 students assigned to Educational Counseling & Social Services, Fifth choice demand met
+fill_status: LaVergne Middle School, 35 of 50 students assigned to Educational Counseling & Social Services, Sixth choice demand met
+fill_status: LaVergne Middle School, 35 students assigned to Educational Counseling & Social Services, All choices examined.
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Criminal Justice & Correction Services, First choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Criminal Justice & Correction Services, Second choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Criminal Justice & Correction Services, Third choice demand met
+fill_status: LaVergne Middle School, 10 of 25 students assigned to Criminal Justice & Correction Services, Fourth choice demand met
+fill_status: LaVergne Middle School, 10 of 25 students assigned to Criminal Justice & Correction Services, Fifth choice demand met
+fill_status: LaVergne Middle School, Criminal Justice & Correction Services B3 filled.
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Cosmetology/Barbering, First choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Cosmetology/Barbering, Second choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Cosmetology/Barbering, Third choice demand met
+fill_status: LaVergne Middle School, 1 of 25 students assigned to Cosmetology/Barbering, Fourth choice demand met
+fill_status: LaVergne Middle School, 11 of 25 students assigned to Cosmetology/Barbering, Fifth choice demand met
+fill_status: LaVergne Middle School, 20 of 25 students assigned to Cosmetology/Barbering, Sixth choice demand met
+fill_status: LaVergne Middle School, 20 students assigned to Cosmetology/Barbering, All choices examined.
+fill_status: LaVergne Middle School, 1 of 25 students assigned to Networking Systems, First choice demand met
+fill_status: LaVergne Middle School, 2 of 25 students assigned to Networking Systems, Second choice demand met
+fill_status: LaVergne Middle School, 2 of 25 students assigned to Networking Systems, Third choice demand met
+fill_status: LaVergne Middle School, 2 of 25 students assigned to Networking Systems, Fourth choice demand met
+fill_status: LaVergne Middle School, 3 of 25 students assigned to Networking Systems, Fifth choice demand met
+fill_status: LaVergne Middle School, 3 of 25 students assigned to Networking Systems, Sixth choice demand met
+fill_status: LaVergne Middle School, 3 students assigned to Networking Systems, All choices examined.
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Leadership in Government, First choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Leadership in Government, Second choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Leadership in Government, Third choice demand met
+fill_status: LaVergne Middle School, 6 of 25 students assigned to Leadership in Government, Fourth choice demand met
+fill_status: LaVergne Middle School, 6 of 25 students assigned to Leadership in Government, Fifth choice demand met
+fill_status: LaVergne Middle School, 7 of 25 students assigned to Leadership in Government, Sixth choice demand met
+fill_status: LaVergne Middle School, 7 students assigned to Leadership in Government, All choices examined.
+B3_Status: LaVergne Middle School-Virtual Reality, 50
+B3_Status: LaVergne Middle School-Marketing Management, 50
+B3_Status: LaVergne Middle School-Health Science, 50
+B3_Status: LaVergne Middle School-Audio Visual Production, 45
+B3_Status: LaVergne Middle School-Veterinary & Animal Science/Horticulture, 26
+B3_Status: LaVergne Middle School-Educational Counseling & Social Services, 35
+B3_Status: LaVergne Middle School-Criminal Justice & Correction Services, 25
+B3_Status: LaVergne Middle School-Cosmetology/Barbering, 20
+B3_Status: LaVergne Middle School-Networking Systems, 3
+B3_Status: LaVergne Middle School-Leadership in Government, 7
+B3_Fill_Status: LaVergne Middle School 311/401
+B3_Status: LaVergne Middle School-Virtual Reality, 51
+B3_Status: LaVergne Middle School-Marketing Management, 50
+B3_Status: LaVergne Middle School-Health Science, 50
+B3_Status: LaVergne Middle School-Audio Visual Production, 50
+B3_Status: LaVergne Middle School-Veterinary & Animal Science/Horticulture, 50
+B3_Status: LaVergne Middle School-Educational Counseling & Social Services, 50
+B3_Status: LaVergne Middle School-Criminal Justice & Correction Services, 25
+B3_Status: LaVergne Middle School-Cosmetology/Barbering, 25
+B3_Status: LaVergne Middle School-Networking Systems, 25
+B3_Status: LaVergne Middle School-Leadership in Government, 25
+B3_Fill_Status: LaVergne Middle School 401/401
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Virtual Reality, First choice demand met
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Virtual Reality, Second choice demand met
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Virtual Reality, Third choice demand met
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Virtual Reality, Fourth choice demand met
+fill_status: LaVergne Middle School, 29 of 50 students assigned to Virtual Reality, Fifth choice demand met
+fill_status: LaVergne Middle School, Virtual Reality B4 filled.
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Marketing Management, First choice demand met
+fill_status: LaVergne Middle School, 28 of 50 students assigned to Marketing Management, Second choice demand met
+fill_status: LaVergne Middle School, 39 of 50 students assigned to Marketing Management, Third choice demand met
+fill_status: LaVergne Middle School, 39 of 50 students assigned to Marketing Management, Fourth choice demand met
+fill_status: LaVergne Middle School, Marketing Management B4 filled.
+fill_status: LaVergne Middle School, 7 of 50 students assigned to Health Science, First choice demand met
+fill_status: LaVergne Middle School, 10 of 50 students assigned to Health Science, Second choice demand met
+fill_status: LaVergne Middle School, 30 of 50 students assigned to Health Science, Third choice demand met
+fill_status: LaVergne Middle School, 30 of 50 students assigned to Health Science, Fourth choice demand met
+fill_status: LaVergne Middle School, 44 of 50 students assigned to Health Science, Fifth choice demand met
+fill_status: LaVergne Middle School, 44 of 50 students assigned to Health Science, Sixth choice demand met
+fill_status: LaVergne Middle School, 44 students assigned to Health Science, All choices examined.
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Audio Visual Production, First choice demand met
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Audio Visual Production, Second choice demand met
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Audio Visual Production, Third choice demand met
+fill_status: LaVergne Middle School, 0 of 50 students assigned to Audio Visual Production, Fourth choice demand met
+fill_status: LaVergne Middle School, 4 of 50 students assigned to Audio Visual Production, Fifth choice demand met
+fill_status: LaVergne Middle School, 14 of 50 students assigned to Audio Visual Production, Sixth choice demand met
+fill_status: LaVergne Middle School, 14 students assigned to Audio Visual Production, All choices examined.
+fill_status: LaVergne Middle School, 2 of 50 students assigned to Veterinary & Animal Science/Horticulture, First choice demand met
+fill_status: LaVergne Middle School, 2 of 50 students assigned to Veterinary & Animal Science/Horticulture, Second choice demand met
+fill_status: LaVergne Middle School, 9 of 50 students assigned to Veterinary & Animal Science/Horticulture, Third choice demand met
+fill_status: LaVergne Middle School, 22 of 50 students assigned to Veterinary & Animal Science/Horticulture, Fourth choice demand met
+fill_status: LaVergne Middle School, 26 of 50 students assigned to Veterinary & Animal Science/Horticulture, Fifth choice demand met
+fill_status: LaVergne Middle School, 28 of 50 students assigned to Veterinary & Animal Science/Horticulture, Sixth choice demand met
+fill_status: LaVergne Middle School, 28 students assigned to Veterinary & Animal Science/Horticulture, All choices examined.
+fill_status: LaVergne Middle School, 4 of 50 students assigned to Educational Counseling & Social Services, First choice demand met
+fill_status: LaVergne Middle School, 12 of 50 students assigned to Educational Counseling & Social Services, Second choice demand met
+fill_status: LaVergne Middle School, 12 of 50 students assigned to Educational Counseling & Social Services, Third choice demand met
+fill_status: LaVergne Middle School, 12 of 50 students assigned to Educational Counseling & Social Services, Fourth choice demand met
+fill_status: LaVergne Middle School, 12 of 50 students assigned to Educational Counseling & Social Services, Fifth choice demand met
+fill_status: LaVergne Middle School, 12 of 50 students assigned to Educational Counseling & Social Services, Sixth choice demand met
+fill_status: LaVergne Middle School, 12 students assigned to Educational Counseling & Social Services, All choices examined.
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Criminal Justice & Correction Services, First choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Criminal Justice & Correction Services, Second choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Criminal Justice & Correction Services, Third choice demand met
+fill_status: LaVergne Middle School, 5 of 25 students assigned to Criminal Justice & Correction Services, Fourth choice demand met
+fill_status: LaVergne Middle School, 5 of 25 students assigned to Criminal Justice & Correction Services, Fifth choice demand met
+fill_status: LaVergne Middle School, Criminal Justice & Correction Services B4 filled.
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Cosmetology/Barbering, First choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Cosmetology/Barbering, Second choice demand met
+fill_status: LaVergne Middle School, 3 of 25 students assigned to Cosmetology/Barbering, Third choice demand met
+fill_status: LaVergne Middle School, 7 of 25 students assigned to Cosmetology/Barbering, Fourth choice demand met
+fill_status: LaVergne Middle School, 23 of 25 students assigned to Cosmetology/Barbering, Fifth choice demand met
+fill_status: LaVergne Middle School, Cosmetology/Barbering B4 filled.
+fill_status: LaVergne Middle School, 4 of 25 students assigned to Networking Systems, First choice demand met
+fill_status: LaVergne Middle School, 4 of 25 students assigned to Networking Systems, Second choice demand met
+fill_status: LaVergne Middle School, 10 of 25 students assigned to Networking Systems, Third choice demand met
+fill_status: LaVergne Middle School, 15 of 25 students assigned to Networking Systems, Fourth choice demand met
+fill_status: LaVergne Middle School, 18 of 25 students assigned to Networking Systems, Fifth choice demand met
+fill_status: LaVergne Middle School, 18 of 25 students assigned to Networking Systems, Sixth choice demand met
+fill_status: LaVergne Middle School, 18 students assigned to Networking Systems, All choices examined.
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Leadership in Government, First choice demand met
+fill_status: LaVergne Middle School, 0 of 25 students assigned to Leadership in Government, Second choice demand met
+fill_status: LaVergne Middle School, 3 of 25 students assigned to Leadership in Government, Third choice demand met
+fill_status: LaVergne Middle School, 9 of 25 students assigned to Leadership in Government, Fourth choice demand met
+fill_status: LaVergne Middle School, 9 of 25 students assigned to Leadership in Government, Fifth choice demand met
+fill_status: LaVergne Middle School, 11 of 25 students assigned to Leadership in Government, Sixth choice demand met
+fill_status: LaVergne Middle School, 11 students assigned to Leadership in Government, All choices examined.
+B4_Status: LaVergne Middle School-Virtual Reality, 50
+B4_Status: LaVergne Middle School-Marketing Management, 50
+B4_Status: LaVergne Middle School-Health Science, 44
+B4_Status: LaVergne Middle School-Audio Visual Production, 14
+B4_Status: LaVergne Middle School-Veterinary & Animal Science/Horticulture, 28
+B4_Status: LaVergne Middle School-Educational Counseling & Social Services, 12
+B4_Status: LaVergne Middle School-Criminal Justice & Correction Services, 25
+B4_Status: LaVergne Middle School-Cosmetology/Barbering, 25
+B4_Status: LaVergne Middle School-Networking Systems, 18
+B4_Status: LaVergne Middle School-Leadership in Government, 11
+B4_Fill_Status: LaVergne Middle School 277/401
+B4_Status: LaVergne Middle School-Virtual Reality, 51
+B4_Status: LaVergne Middle School-Marketing Management, 50
+B4_Status: LaVergne Middle School-Health Science, 50
+B4_Status: LaVergne Middle School-Audio Visual Production, 50
+B4_Status: LaVergne Middle School-Veterinary & Animal Science/Horticulture, 50
+B4_Status: LaVergne Middle School-Educational Counseling & Social Services, 50
+B4_Status: LaVergne Middle School-Criminal Justice & Correction Services, 25
+B4_Status: LaVergne Middle School-Cosmetology/Barbering, 25
+B4_Status: LaVergne Middle School-Networking Systems, 25
+B4_Status: LaVergne Middle School-Leadership in Government, 25
+B4_Fill_Status: LaVergne Middle School 401/401
