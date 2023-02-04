@@ -12,14 +12,14 @@ schools = [
     # 'Siegel Middle School',
     # 'Whitworth-Buchanan Middle School',
     # 'Christiana Middle School',
-    # 'Smyrna Middle School',
+    'Smyrna Middle School',
     # 'Stewarts Creek Middle School',
     # 'Rockvale Middle School',
     # 'Rocky Fork Middle School',
     # 'Blackman Middle School',
     # ## 'Thurman Francis Arts Academy',
     # 'Rock Springs Middle School',
-    'LaVergne Middle School'
+    # 'LaVergne Middle School'
 ]
 
 # capacity report features

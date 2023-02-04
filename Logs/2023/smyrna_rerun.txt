@@ -1,0 +1,475 @@
+fill_status: Smyrna Middle School, 21 of 40 students assigned to Banking & Finance, First choice demand met
+fill_status: Smyrna Middle School, Banking & Finance B1 filled.
+fill_status: Smyrna Middle School, Marketing Management B1 filled.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Fashion Design, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Fashion Design, Second choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to Fashion Design, Third choice demand met
+fill_status: Smyrna Middle School, 28 of 30 students assigned to Fashion Design, Fourth choice demand met
+fill_status: Smyrna Middle School, Fashion Design B1 filled.
+fill_status: Smyrna Middle School, Health Science B1 filled.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Horticulture Science, First choice demand met
+fill_status: Smyrna Middle School, 1 of 30 students assigned to Horticulture Science, Second choice demand met
+fill_status: Smyrna Middle School, 18 of 30 students assigned to Horticulture Science, Third choice demand met
+fill_status: Smyrna Middle School, Horticulture Science B1 filled.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Veterinary & Animal Science, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Veterinary & Animal Science, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Veterinary & Animal Science, Third choice demand met
+fill_status: Smyrna Middle School, Veterinary & Animal Science B1 filled.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Criminal Justice & Correction Services, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Criminal Justice & Correction Services, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Criminal Justice & Correction Services, Third choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to Criminal Justice & Correction Services, Fourth choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to Criminal Justice & Correction Services, Fifth choice demand met
+fill_status: Smyrna Middle School, 29 of 30 students assigned to Criminal Justice & Correction Services, Sixth choice demand met
+fill_status: Smyrna Middle School, 29 students assigned to Criminal Justice & Correction Services, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Audio Visual Production, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Audio Visual Production, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Audio Visual Production, Third choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Audio Visual Production, Fourth choice demand met
+fill_status: Smyrna Middle School, 8 of 30 students assigned to Audio Visual Production, Fifth choice demand met
+fill_status: Smyrna Middle School, 24 of 30 students assigned to Audio Visual Production, Sixth choice demand met
+fill_status: Smyrna Middle School, 24 students assigned to Audio Visual Production, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Digital Arts & Design, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Digital Arts & Design, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Digital Arts & Design, Third choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Digital Arts & Design, Fourth choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Digital Arts & Design, Fifth choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Digital Arts & Design, Sixth choice demand met
+fill_status: Smyrna Middle School, 0 students assigned to Digital Arts & Design, All choices examined.
+fill_status: Smyrna Middle School, 2 of 30 students assigned to STEM Technology, First choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to STEM Technology, Second choice demand met
+fill_status: Smyrna Middle School, 10 of 30 students assigned to STEM Technology, Third choice demand met
+fill_status: Smyrna Middle School, 12 of 30 students assigned to STEM Technology, Fourth choice demand met
+fill_status: Smyrna Middle School, 15 of 30 students assigned to STEM Technology, Fifth choice demand met
+fill_status: Smyrna Middle School, 15 of 30 students assigned to STEM Technology, Sixth choice demand met
+fill_status: Smyrna Middle School, 15 students assigned to STEM Technology, All choices examined.
+fill_status: Smyrna Middle School, 2 of 30 students assigned to Teaching as a Profession, First choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to Teaching as a Profession, Second choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to Teaching as a Profession, Third choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to Teaching as a Profession, Fourth choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to Teaching as a Profession, Fifth choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to Teaching as a Profession, Sixth choice demand met
+fill_status: Smyrna Middle School, 6 students assigned to Teaching as a Profession, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Interior Design, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Interior Design, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Interior Design, Third choice demand met
+fill_status: Smyrna Middle School, 3 of 30 students assigned to Interior Design, Fourth choice demand met
+fill_status: Smyrna Middle School, 3 of 30 students assigned to Interior Design, Fifth choice demand met
+fill_status: Smyrna Middle School, 3 of 30 students assigned to Interior Design, Sixth choice demand met
+fill_status: Smyrna Middle School, 3 students assigned to Interior Design, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to MEP Systems, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to MEP Systems, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to MEP Systems, Third choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to MEP Systems, Fourth choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to MEP Systems, Fifth choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to MEP Systems, Sixth choice demand met
+fill_status: Smyrna Middle School, 0 students assigned to MEP Systems, All choices examined.
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Leadership in Government, First choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Leadership in Government, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Leadership in Government, Third choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Leadership in Government, Fourth choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Leadership in Government, Fifth choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Leadership in Government, Sixth choice demand met
+fill_status: Smyrna Middle School, 0 students assigned to Leadership in Government, All choices examined.
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, First choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Third choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Fourth choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Fifth choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Sixth choice demand met
+fill_status: Smyrna Middle School, 0 students assigned to Culinary Arts, All choices examined.
+B1_Status: Smyrna Middle School-Banking & Finance, 40
+B1_Status: Smyrna Middle School-Marketing Management, 30
+B1_Status: Smyrna Middle School-Fashion Design, 30
+B1_Status: Smyrna Middle School-Health Science, 30
+B1_Status: Smyrna Middle School-Horticulture Science, 30
+B1_Status: Smyrna Middle School-Veterinary & Animal Science, 30
+B1_Status: Smyrna Middle School-Criminal Justice & Correction Services, 29
+B1_Status: Smyrna Middle School-Audio Visual Production, 24
+B1_Status: Smyrna Middle School-Digital Arts & Design, 0
+B1_Status: Smyrna Middle School-STEM Technology, 15
+B1_Status: Smyrna Middle School-Teaching as a Profession, 6
+B1_Status: Smyrna Middle School-Interior Design, 3
+B1_Status: Smyrna Middle School-MEP Systems, 0
+B1_Status: Smyrna Middle School-Leadership in Government, 0
+B1_Status: Smyrna Middle School-Culinary Arts, 0
+B1_Fill_Status: Smyrna Middle School 267/361
+B1_Status: Smyrna Middle School-Banking & Finance, 40
+B1_Status: Smyrna Middle School-Marketing Management, 30
+B1_Status: Smyrna Middle School-Fashion Design, 30
+B1_Status: Smyrna Middle School-Health Science, 30
+B1_Status: Smyrna Middle School-Horticulture Science, 30
+B1_Status: Smyrna Middle School-Veterinary & Animal Science, 30
+B1_Status: Smyrna Middle School-Criminal Justice & Correction Services, 29
+B1_Status: Smyrna Middle School-Audio Visual Production, 24
+B1_Status: Smyrna Middle School-Digital Arts & Design, 23
+B1_Status: Smyrna Middle School-STEM Technology, 23
+B1_Status: Smyrna Middle School-Teaching as a Profession, 23
+B1_Status: Smyrna Middle School-Interior Design, 23
+B1_Status: Smyrna Middle School-MEP Systems, 22
+B1_Status: Smyrna Middle School-Leadership in Government, 2
+B1_Status: Smyrna Middle School-Culinary Arts, 2
+B1_Fill_Status: Smyrna Middle School 361/361
+fill_status: Smyrna Middle School, 0 of 40 students assigned to Banking & Finance, First choice demand met
+fill_status: Smyrna Middle School, 5 of 40 students assigned to Banking & Finance, Second choice demand met
+fill_status: Smyrna Middle School, Banking & Finance B2 filled.
+fill_status: Smyrna Middle School, 26 of 30 students assigned to Marketing Management, First choice demand met
+fill_status: Smyrna Middle School, Marketing Management B2 filled.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Fashion Design, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Fashion Design, Second choice demand met
+fill_status: Smyrna Middle School, 2 of 30 students assigned to Fashion Design, Third choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to Fashion Design, Fourth choice demand met
+fill_status: Smyrna Middle School, Fashion Design B2 filled.
+fill_status: Smyrna Middle School, Health Science B2 filled.
+fill_status: Smyrna Middle School, 1 of 30 students assigned to Horticulture Science, First choice demand met
+fill_status: Smyrna Middle School, 1 of 30 students assigned to Horticulture Science, Second choice demand met
+fill_status: Smyrna Middle School, 15 of 30 students assigned to Horticulture Science, Third choice demand met
+fill_status: Smyrna Middle School, Horticulture Science B2 filled.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Veterinary & Animal Science, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Veterinary & Animal Science, Second choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to Veterinary & Animal Science, Third choice demand met
+fill_status: Smyrna Middle School, 17 of 30 students assigned to Veterinary & Animal Science, Fourth choice demand met
+fill_status: Smyrna Middle School, 23 of 30 students assigned to Veterinary & Animal Science, Fifth choice demand met
+fill_status: Smyrna Middle School, Veterinary & Animal Science B2 filled.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Criminal Justice & Correction Services, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Criminal Justice & Correction Services, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Criminal Justice & Correction Services, Third choice demand met
+fill_status: Smyrna Middle School, 4 of 30 students assigned to Criminal Justice & Correction Services, Fourth choice demand met
+fill_status: Smyrna Middle School, 4 of 30 students assigned to Criminal Justice & Correction Services, Fifth choice demand met
+fill_status: Smyrna Middle School, 18 of 30 students assigned to Criminal Justice & Correction Services, Sixth choice demand met
+fill_status: Smyrna Middle School, 18 students assigned to Criminal Justice & Correction Services, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Audio Visual Production, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Audio Visual Production, Second choice demand met
+fill_status: Smyrna Middle School, 1 of 30 students assigned to Audio Visual Production, Third choice demand met
+fill_status: Smyrna Middle School, 8 of 30 students assigned to Audio Visual Production, Fourth choice demand met
+fill_status: Smyrna Middle School, 11 of 30 students assigned to Audio Visual Production, Fifth choice demand met
+fill_status: Smyrna Middle School, 15 of 30 students assigned to Audio Visual Production, Sixth choice demand met
+fill_status: Smyrna Middle School, 15 students assigned to Audio Visual Production, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Digital Arts & Design, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Digital Arts & Design, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Digital Arts & Design, Third choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Digital Arts & Design, Fourth choice demand met
+fill_status: Smyrna Middle School, 4 of 30 students assigned to Digital Arts & Design, Fifth choice demand met
+fill_status: Smyrna Middle School, 14 of 30 students assigned to Digital Arts & Design, Sixth choice demand met
+fill_status: Smyrna Middle School, 14 students assigned to Digital Arts & Design, All choices examined.
+fill_status: Smyrna Middle School, 1 of 30 students assigned to STEM Technology, First choice demand met
+fill_status: Smyrna Middle School, 2 of 30 students assigned to STEM Technology, Second choice demand met
+fill_status: Smyrna Middle School, 3 of 30 students assigned to STEM Technology, Third choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to STEM Technology, Fourth choice demand met
+fill_status: Smyrna Middle School, 10 of 30 students assigned to STEM Technology, Fifth choice demand met
+fill_status: Smyrna Middle School, 11 of 30 students assigned to STEM Technology, Sixth choice demand met
+fill_status: Smyrna Middle School, 11 students assigned to STEM Technology, All choices examined.
+fill_status: Smyrna Middle School, 4 of 30 students assigned to Teaching as a Profession, First choice demand met
+fill_status: Smyrna Middle School, 8 of 30 students assigned to Teaching as a Profession, Second choice demand met
+fill_status: Smyrna Middle School, 8 of 30 students assigned to Teaching as a Profession, Third choice demand met
+fill_status: Smyrna Middle School, 8 of 30 students assigned to Teaching as a Profession, Fourth choice demand met
+fill_status: Smyrna Middle School, 8 of 30 students assigned to Teaching as a Profession, Fifth choice demand met
+fill_status: Smyrna Middle School, 8 of 30 students assigned to Teaching as a Profession, Sixth choice demand met
+fill_status: Smyrna Middle School, 8 students assigned to Teaching as a Profession, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Interior Design, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Interior Design, Second choice demand met
+fill_status: Smyrna Middle School, 2 of 30 students assigned to Interior Design, Third choice demand met
+fill_status: Smyrna Middle School, 3 of 30 students assigned to Interior Design, Fourth choice demand met
+fill_status: Smyrna Middle School, 3 of 30 students assigned to Interior Design, Fifth choice demand met
+fill_status: Smyrna Middle School, 4 of 30 students assigned to Interior Design, Sixth choice demand met
+fill_status: Smyrna Middle School, 4 students assigned to Interior Design, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to MEP Systems, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to MEP Systems, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to MEP Systems, Third choice demand met
+fill_status: Smyrna Middle School, 1 of 30 students assigned to MEP Systems, Fourth choice demand met
+fill_status: Smyrna Middle School, 1 of 30 students assigned to MEP Systems, Fifth choice demand met
+fill_status: Smyrna Middle School, 1 of 30 students assigned to MEP Systems, Sixth choice demand met
+fill_status: Smyrna Middle School, 1 students assigned to MEP Systems, All choices examined.
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Leadership in Government, First choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Leadership in Government, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Leadership in Government, Third choice demand met
+fill_status: Smyrna Middle School, 2 of 10 students assigned to Leadership in Government, Fourth choice demand met
+fill_status: Smyrna Middle School, 2 of 10 students assigned to Leadership in Government, Fifth choice demand met
+fill_status: Smyrna Middle School, 2 of 10 students assigned to Leadership in Government, Sixth choice demand met
+fill_status: Smyrna Middle School, 2 students assigned to Leadership in Government, All choices examined.
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, First choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Third choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Fourth choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Fifth choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Sixth choice demand met
+fill_status: Smyrna Middle School, 0 students assigned to Culinary Arts, All choices examined.
+B2_Status: Smyrna Middle School-Banking & Finance, 40
+B2_Status: Smyrna Middle School-Marketing Management, 30
+B2_Status: Smyrna Middle School-Fashion Design, 30
+B2_Status: Smyrna Middle School-Health Science, 30
+B2_Status: Smyrna Middle School-Horticulture Science, 30
+B2_Status: Smyrna Middle School-Veterinary & Animal Science, 30
+B2_Status: Smyrna Middle School-Criminal Justice & Correction Services, 18
+B2_Status: Smyrna Middle School-Audio Visual Production, 15
+B2_Status: Smyrna Middle School-Digital Arts & Design, 14
+B2_Status: Smyrna Middle School-STEM Technology, 11
+B2_Status: Smyrna Middle School-Teaching as a Profession, 8
+B2_Status: Smyrna Middle School-Interior Design, 4
+B2_Status: Smyrna Middle School-MEP Systems, 1
+B2_Status: Smyrna Middle School-Leadership in Government, 2
+B2_Status: Smyrna Middle School-Culinary Arts, 0
+B2_Fill_Status: Smyrna Middle School 263/361
+B2_Status: Smyrna Middle School-Banking & Finance, 40
+B2_Status: Smyrna Middle School-Marketing Management, 30
+B2_Status: Smyrna Middle School-Fashion Design, 30
+B2_Status: Smyrna Middle School-Health Science, 30
+B2_Status: Smyrna Middle School-Horticulture Science, 30
+B2_Status: Smyrna Middle School-Veterinary & Animal Science, 30
+B2_Status: Smyrna Middle School-Criminal Justice & Correction Services, 24
+B2_Status: Smyrna Middle School-Audio Visual Production, 24
+B2_Status: Smyrna Middle School-Digital Arts & Design, 23
+B2_Status: Smyrna Middle School-STEM Technology, 24
+B2_Status: Smyrna Middle School-Teaching as a Profession, 24
+B2_Status: Smyrna Middle School-Interior Design, 23
+B2_Status: Smyrna Middle School-MEP Systems, 23
+B2_Status: Smyrna Middle School-Leadership in Government, 3
+B2_Status: Smyrna Middle School-Culinary Arts, 3
+B2_Fill_Status: Smyrna Middle School 361/361
+fill_status: Smyrna Middle School, 0 of 40 students assigned to Banking & Finance, First choice demand met
+fill_status: Smyrna Middle School, 0 of 40 students assigned to Banking & Finance, Second choice demand met
+fill_status: Smyrna Middle School, 34 of 40 students assigned to Banking & Finance, Third choice demand met
+fill_status: Smyrna Middle School, Banking & Finance B3 filled.
+fill_status: Smyrna Middle School, 2 of 30 students assigned to Marketing Management, First choice demand met
+fill_status: Smyrna Middle School, Marketing Management B3 filled.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Fashion Design, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Fashion Design, Second choice demand met
+fill_status: Smyrna Middle School, 1 of 30 students assigned to Fashion Design, Third choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to Fashion Design, Fourth choice demand met
+fill_status: Smyrna Middle School, 28 of 30 students assigned to Fashion Design, Fifth choice demand met
+fill_status: Smyrna Middle School, Fashion Design B3 filled.
+fill_status: Smyrna Middle School, 21 of 30 students assigned to Health Science, First choice demand met
+fill_status: Smyrna Middle School, 25 of 30 students assigned to Health Science, Second choice demand met
+fill_status: Smyrna Middle School, Health Science B3 filled.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Horticulture Science, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Horticulture Science, Second choice demand met
+fill_status: Smyrna Middle School, 4 of 30 students assigned to Horticulture Science, Third choice demand met
+fill_status: Smyrna Middle School, 25 of 30 students assigned to Horticulture Science, Fourth choice demand met
+fill_status: Smyrna Middle School, Horticulture Science B3 filled.
+fill_status: Smyrna Middle School, 1 of 30 students assigned to Veterinary & Animal Science, First choice demand met
+fill_status: Smyrna Middle School, 1 of 30 students assigned to Veterinary & Animal Science, Second choice demand met
+fill_status: Smyrna Middle School, 15 of 30 students assigned to Veterinary & Animal Science, Third choice demand met
+fill_status: Smyrna Middle School, 21 of 30 students assigned to Veterinary & Animal Science, Fourth choice demand met
+fill_status: Smyrna Middle School, 24 of 30 students assigned to Veterinary & Animal Science, Fifth choice demand met
+fill_status: Smyrna Middle School, Veterinary & Animal Science B3 filled.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Criminal Justice & Correction Services, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Criminal Justice & Correction Services, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Criminal Justice & Correction Services, Third choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to Criminal Justice & Correction Services, Fourth choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to Criminal Justice & Correction Services, Fifth choice demand met
+fill_status: Smyrna Middle School, 12 of 30 students assigned to Criminal Justice & Correction Services, Sixth choice demand met
+fill_status: Smyrna Middle School, 12 students assigned to Criminal Justice & Correction Services, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Audio Visual Production, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Audio Visual Production, Second choice demand met
+fill_status: Smyrna Middle School, 2 of 30 students assigned to Audio Visual Production, Third choice demand met
+fill_status: Smyrna Middle School, 8 of 30 students assigned to Audio Visual Production, Fourth choice demand met
+fill_status: Smyrna Middle School, 8 of 30 students assigned to Audio Visual Production, Fifth choice demand met
+fill_status: Smyrna Middle School, 13 of 30 students assigned to Audio Visual Production, Sixth choice demand met
+fill_status: Smyrna Middle School, 13 students assigned to Audio Visual Production, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Digital Arts & Design, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Digital Arts & Design, Second choice demand met
+fill_status: Smyrna Middle School, 1 of 30 students assigned to Digital Arts & Design, Third choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to Digital Arts & Design, Fourth choice demand met
+fill_status: Smyrna Middle School, 7 of 30 students assigned to Digital Arts & Design, Fifth choice demand met
+fill_status: Smyrna Middle School, 15 of 30 students assigned to Digital Arts & Design, Sixth choice demand met
+fill_status: Smyrna Middle School, 15 students assigned to Digital Arts & Design, All choices examined.
+fill_status: Smyrna Middle School, 3 of 30 students assigned to STEM Technology, First choice demand met
+fill_status: Smyrna Middle School, 7 of 30 students assigned to STEM Technology, Second choice demand met
+fill_status: Smyrna Middle School, 9 of 30 students assigned to STEM Technology, Third choice demand met
+fill_status: Smyrna Middle School, 11 of 30 students assigned to STEM Technology, Fourth choice demand met
+fill_status: Smyrna Middle School, 12 of 30 students assigned to STEM Technology, Fifth choice demand met
+fill_status: Smyrna Middle School, 12 of 30 students assigned to STEM Technology, Sixth choice demand met
+fill_status: Smyrna Middle School, 12 students assigned to STEM Technology, All choices examined.
+fill_status: Smyrna Middle School, 1 of 30 students assigned to Teaching as a Profession, First choice demand met
+fill_status: Smyrna Middle School, 9 of 30 students assigned to Teaching as a Profession, Second choice demand met
+fill_status: Smyrna Middle School, 9 of 30 students assigned to Teaching as a Profession, Third choice demand met
+fill_status: Smyrna Middle School, 9 of 30 students assigned to Teaching as a Profession, Fourth choice demand met
+fill_status: Smyrna Middle School, 9 of 30 students assigned to Teaching as a Profession, Fifth choice demand met
+fill_status: Smyrna Middle School, 9 of 30 students assigned to Teaching as a Profession, Sixth choice demand met
+fill_status: Smyrna Middle School, 9 students assigned to Teaching as a Profession, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Interior Design, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Interior Design, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Interior Design, Third choice demand met
+fill_status: Smyrna Middle School, 4 of 30 students assigned to Interior Design, Fourth choice demand met
+fill_status: Smyrna Middle School, 4 of 30 students assigned to Interior Design, Fifth choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to Interior Design, Sixth choice demand met
+fill_status: Smyrna Middle School, 6 students assigned to Interior Design, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to MEP Systems, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to MEP Systems, Second choice demand met
+fill_status: Smyrna Middle School, 2 of 30 students assigned to MEP Systems, Third choice demand met
+fill_status: Smyrna Middle School, 5 of 30 students assigned to MEP Systems, Fourth choice demand met
+fill_status: Smyrna Middle School, 5 of 30 students assigned to MEP Systems, Fifth choice demand met
+fill_status: Smyrna Middle School, 6 of 30 students assigned to MEP Systems, Sixth choice demand met
+fill_status: Smyrna Middle School, 6 students assigned to MEP Systems, All choices examined.
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Leadership in Government, First choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Leadership in Government, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Leadership in Government, Third choice demand met
+fill_status: Smyrna Middle School, 2 of 10 students assigned to Leadership in Government, Fourth choice demand met
+fill_status: Smyrna Middle School, 2 of 10 students assigned to Leadership in Government, Fifth choice demand met
+fill_status: Smyrna Middle School, 2 of 10 students assigned to Leadership in Government, Sixth choice demand met
+fill_status: Smyrna Middle School, 2 students assigned to Leadership in Government, All choices examined.
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, First choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Third choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Fourth choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Fifth choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Sixth choice demand met
+fill_status: Smyrna Middle School, 0 students assigned to Culinary Arts, All choices examined.
+B3_Status: Smyrna Middle School-Banking & Finance, 40
+B3_Status: Smyrna Middle School-Marketing Management, 30
+B3_Status: Smyrna Middle School-Fashion Design, 30
+B3_Status: Smyrna Middle School-Health Science, 30
+B3_Status: Smyrna Middle School-Horticulture Science, 30
+B3_Status: Smyrna Middle School-Veterinary & Animal Science, 30
+B3_Status: Smyrna Middle School-Criminal Justice & Correction Services, 12
+B3_Status: Smyrna Middle School-Audio Visual Production, 13
+B3_Status: Smyrna Middle School-Digital Arts & Design, 15
+B3_Status: Smyrna Middle School-STEM Technology, 12
+B3_Status: Smyrna Middle School-Teaching as a Profession, 9
+B3_Status: Smyrna Middle School-Interior Design, 6
+B3_Status: Smyrna Middle School-MEP Systems, 6
+B3_Status: Smyrna Middle School-Leadership in Government, 2
+B3_Status: Smyrna Middle School-Culinary Arts, 0
+B3_Fill_Status: Smyrna Middle School 265/361
+B3_Status: Smyrna Middle School-Banking & Finance, 40
+B3_Status: Smyrna Middle School-Marketing Management, 30
+B3_Status: Smyrna Middle School-Fashion Design, 30
+B3_Status: Smyrna Middle School-Health Science, 30
+B3_Status: Smyrna Middle School-Horticulture Science, 30
+B3_Status: Smyrna Middle School-Veterinary & Animal Science, 30
+B3_Status: Smyrna Middle School-Criminal Justice & Correction Services, 24
+B3_Status: Smyrna Middle School-Audio Visual Production, 24
+B3_Status: Smyrna Middle School-Digital Arts & Design, 24
+B3_Status: Smyrna Middle School-STEM Technology, 24
+B3_Status: Smyrna Middle School-Teaching as a Profession, 23
+B3_Status: Smyrna Middle School-Interior Design, 23
+B3_Status: Smyrna Middle School-MEP Systems, 23
+B3_Status: Smyrna Middle School-Leadership in Government, 3
+B3_Status: Smyrna Middle School-Culinary Arts, 3
+B3_Fill_Status: Smyrna Middle School 361/361
+fill_status: Smyrna Middle School, 0 of 40 students assigned to Banking & Finance, First choice demand met
+fill_status: Smyrna Middle School, 0 of 40 students assigned to Banking & Finance, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 40 students assigned to Banking & Finance, Third choice demand met
+fill_status: Smyrna Middle School, 16 of 40 students assigned to Banking & Finance, Fourth choice demand met
+fill_status: Smyrna Middle School, Banking & Finance B4 filled.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Marketing Management, First choice demand met
+fill_status: Smyrna Middle School, Marketing Management B4 filled.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Fashion Design, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Fashion Design, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Fashion Design, Third choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Fashion Design, Fourth choice demand met
+fill_status: Smyrna Middle School, 4 of 30 students assigned to Fashion Design, Fifth choice demand met
+fill_status: Smyrna Middle School, Fashion Design B4 filled.
+fill_status: Smyrna Middle School, 17 of 30 students assigned to Health Science, First choice demand met
+fill_status: Smyrna Middle School, 18 of 30 students assigned to Health Science, Second choice demand met
+fill_status: Smyrna Middle School, 28 of 30 students assigned to Health Science, Third choice demand met
+fill_status: Smyrna Middle School, 28 of 30 students assigned to Health Science, Fourth choice demand met
+fill_status: Smyrna Middle School, Health Science B4 filled.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Horticulture Science, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Horticulture Science, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Horticulture Science, Third choice demand met
+fill_status: Smyrna Middle School, 14 of 30 students assigned to Horticulture Science, Fourth choice demand met
+fill_status: Smyrna Middle School, 19 of 30 students assigned to Horticulture Science, Fifth choice demand met
+fill_status: Smyrna Middle School, Horticulture Science B4 filled.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Veterinary & Animal Science, First choice demand met
+fill_status: Smyrna Middle School, 1 of 30 students assigned to Veterinary & Animal Science, Second choice demand met
+fill_status: Smyrna Middle School, 10 of 30 students assigned to Veterinary & Animal Science, Third choice demand met
+fill_status: Smyrna Middle School, 19 of 30 students assigned to Veterinary & Animal Science, Fourth choice demand met
+fill_status: Smyrna Middle School, 20 of 30 students assigned to Veterinary & Animal Science, Fifth choice demand met
+fill_status: Smyrna Middle School, 21 of 30 students assigned to Veterinary & Animal Science, Sixth choice demand met
+fill_status: Smyrna Middle School, 21 students assigned to Veterinary & Animal Science, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Criminal Justice & Correction Services, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Criminal Justice & Correction Services, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Criminal Justice & Correction Services, Third choice demand met
+fill_status: Smyrna Middle School, 5 of 30 students assigned to Criminal Justice & Correction Services, Fourth choice demand met
+fill_status: Smyrna Middle School, 5 of 30 students assigned to Criminal Justice & Correction Services, Fifth choice demand met
+fill_status: Smyrna Middle School, 20 of 30 students assigned to Criminal Justice & Correction Services, Sixth choice demand met
+fill_status: Smyrna Middle School, 20 students assigned to Criminal Justice & Correction Services, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Audio Visual Production, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Audio Visual Production, Second choice demand met
+fill_status: Smyrna Middle School, 2 of 30 students assigned to Audio Visual Production, Third choice demand met
+fill_status: Smyrna Middle School, 5 of 30 students assigned to Audio Visual Production, Fourth choice demand met
+fill_status: Smyrna Middle School, 12 of 30 students assigned to Audio Visual Production, Fifth choice demand met
+fill_status: Smyrna Middle School, 12 of 30 students assigned to Audio Visual Production, Sixth choice demand met
+fill_status: Smyrna Middle School, 12 students assigned to Audio Visual Production, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Digital Arts & Design, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Digital Arts & Design, Second choice demand met
+fill_status: Smyrna Middle School, 1 of 30 students assigned to Digital Arts & Design, Third choice demand met
+fill_status: Smyrna Middle School, 4 of 30 students assigned to Digital Arts & Design, Fourth choice demand met
+fill_status: Smyrna Middle School, 7 of 30 students assigned to Digital Arts & Design, Fifth choice demand met
+fill_status: Smyrna Middle School, 9 of 30 students assigned to Digital Arts & Design, Sixth choice demand met
+fill_status: Smyrna Middle School, 9 students assigned to Digital Arts & Design, All choices examined.
+fill_status: Smyrna Middle School, 3 of 30 students assigned to STEM Technology, First choice demand met
+fill_status: Smyrna Middle School, 4 of 30 students assigned to STEM Technology, Second choice demand met
+fill_status: Smyrna Middle School, 9 of 30 students assigned to STEM Technology, Third choice demand met
+fill_status: Smyrna Middle School, 11 of 30 students assigned to STEM Technology, Fourth choice demand met
+fill_status: Smyrna Middle School, 13 of 30 students assigned to STEM Technology, Fifth choice demand met
+fill_status: Smyrna Middle School, 13 of 30 students assigned to STEM Technology, Sixth choice demand met
+fill_status: Smyrna Middle School, 13 students assigned to STEM Technology, All choices examined.
+fill_status: Smyrna Middle School, 7 of 30 students assigned to Teaching as a Profession, First choice demand met
+fill_status: Smyrna Middle School, 11 of 30 students assigned to Teaching as a Profession, Second choice demand met
+fill_status: Smyrna Middle School, 11 of 30 students assigned to Teaching as a Profession, Third choice demand met
+fill_status: Smyrna Middle School, 11 of 30 students assigned to Teaching as a Profession, Fourth choice demand met
+fill_status: Smyrna Middle School, 11 of 30 students assigned to Teaching as a Profession, Fifth choice demand met
+fill_status: Smyrna Middle School, 11 of 30 students assigned to Teaching as a Profession, Sixth choice demand met
+fill_status: Smyrna Middle School, 11 students assigned to Teaching as a Profession, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Interior Design, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to Interior Design, Second choice demand met
+fill_status: Smyrna Middle School, 1 of 30 students assigned to Interior Design, Third choice demand met
+fill_status: Smyrna Middle School, 4 of 30 students assigned to Interior Design, Fourth choice demand met
+fill_status: Smyrna Middle School, 5 of 30 students assigned to Interior Design, Fifth choice demand met
+fill_status: Smyrna Middle School, 5 of 30 students assigned to Interior Design, Sixth choice demand met
+fill_status: Smyrna Middle School, 5 students assigned to Interior Design, All choices examined.
+fill_status: Smyrna Middle School, 0 of 30 students assigned to MEP Systems, First choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to MEP Systems, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 30 students assigned to MEP Systems, Third choice demand met
+fill_status: Smyrna Middle School, 1 of 30 students assigned to MEP Systems, Fourth choice demand met
+fill_status: Smyrna Middle School, 1 of 30 students assigned to MEP Systems, Fifth choice demand met
+fill_status: Smyrna Middle School, 2 of 30 students assigned to MEP Systems, Sixth choice demand met
+fill_status: Smyrna Middle School, 2 students assigned to MEP Systems, All choices examined.
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Leadership in Government, First choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Leadership in Government, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Leadership in Government, Third choice demand met
+fill_status: Smyrna Middle School, 1 of 10 students assigned to Leadership in Government, Fourth choice demand met
+fill_status: Smyrna Middle School, 1 of 10 students assigned to Leadership in Government, Fifth choice demand met
+fill_status: Smyrna Middle School, 1 of 10 students assigned to Leadership in Government, Sixth choice demand met
+fill_status: Smyrna Middle School, 1 students assigned to Leadership in Government, All choices examined.
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, First choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Second choice demand met
+fill_status: Smyrna Middle School, 0 of 10 students assigned to Culinary Arts, Third choice demand met
+fill_status: Smyrna Middle School, 1 of 10 students assigned to Culinary Arts, Fourth choice demand met
+fill_status: Smyrna Middle School, 1 of 10 students assigned to Culinary Arts, Fifth choice demand met
+fill_status: Smyrna Middle School, 1 of 10 students assigned to Culinary Arts, Sixth choice demand met
+fill_status: Smyrna Middle School, 1 students assigned to Culinary Arts, All choices examined.
+B4_Status: Smyrna Middle School-Banking & Finance, 40
+B4_Status: Smyrna Middle School-Marketing Management, 30
+B4_Status: Smyrna Middle School-Fashion Design, 30
+B4_Status: Smyrna Middle School-Health Science, 30
+B4_Status: Smyrna Middle School-Horticulture Science, 30
+B4_Status: Smyrna Middle School-Veterinary & Animal Science, 21
+B4_Status: Smyrna Middle School-Criminal Justice & Correction Services, 20
+B4_Status: Smyrna Middle School-Audio Visual Production, 12
+B4_Status: Smyrna Middle School-Digital Arts & Design, 9
+B4_Status: Smyrna Middle School-STEM Technology, 13
+B4_Status: Smyrna Middle School-Teaching as a Profession, 11
+B4_Status: Smyrna Middle School-Interior Design, 5
+B4_Status: Smyrna Middle School-MEP Systems, 2
+B4_Status: Smyrna Middle School-Leadership in Government, 1
+B4_Status: Smyrna Middle School-Culinary Arts, 1
+B4_Fill_Status: Smyrna Middle School 255/361
+B4_Status: Smyrna Middle School-Banking & Finance, 40
+B4_Status: Smyrna Middle School-Marketing Management, 30
+B4_Status: Smyrna Middle School-Fashion Design, 30
+B4_Status: Smyrna Middle School-Health Science, 30
+B4_Status: Smyrna Middle School-Horticulture Science, 30
+B4_Status: Smyrna Middle School-Veterinary & Animal Science, 25
+B4_Status: Smyrna Middle School-Criminal Justice & Correction Services, 24
+B4_Status: Smyrna Middle School-Audio Visual Production, 24
+B4_Status: Smyrna Middle School-Digital Arts & Design, 24
+B4_Status: Smyrna Middle School-STEM Technology, 24
+B4_Status: Smyrna Middle School-Teaching as a Profession, 24
+B4_Status: Smyrna Middle School-Interior Design, 24
+B4_Status: Smyrna Middle School-MEP Systems, 24
+B4_Status: Smyrna Middle School-Leadership in Government, 4
+B4_Status: Smyrna Middle School-Culinary Arts, 4
+B4_Fill_Status: Smyrna Middle School 361/361
